@@ -1,0 +1,15 @@
+[
+  {"name":"BBC News","url":"https://feeds.bbci.co.uk/news/world/rss.xml","category":"international","priority":5},
+  {"name":"The Guardian","url":"https://www.theguardian.com/world/rss","category":"international","priority":4},
+  {"name":"Al Jazeera","url":"https://www.aljazeera.com/xml/rss/all.xml","category":"international","priority":4},
+  {"name":"BBC Business","url":"https://feeds.bbci.co.uk/news/business/rss.xml","category":"finance","priority":5},
+  {"name":"The Guardian Business","url":"https://www.theguardian.com/business/rss","category":"finance","priority":4},
+  {"name":"Bloomberg","url":"https://feeds.bloomberg.com/markets/news.rss","category":"finance","priority":5},
+  {"name":"BBC Technology","url":"https://feeds.bbci.co.uk/news/technology/rss.xml","category":"technology","priority":5},
+  {"name":"Ars Technica","url":"https://feeds.arstechnica.com/arstechnica/index","category":"technology","priority":4},
+  {"name":"TechCrunch","url":"https://techcrunch.com/feed/","category":"technology","priority":3},
+  {"name":"中国新闻网·国内","url":"https://www.chinanews.com.cn/rss/china.xml","category":"domestic","priority":5},
+  {"name":"中国新闻网·财经","url":"https://www.chinanews.com.cn/rss/finance.xml","category":"domestic","priority":5},
+  {"name":"BBC Science","url":"https://feeds.bbci.co.uk/news/science_and_environment/rss.xml","category":"other","priority":4},
+  {"name":"The Guardian Science","url":"https://www.theguardian.com/science/rss","category":"other","priority":3}
+]
