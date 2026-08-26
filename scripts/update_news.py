@@ -25,11 +25,26 @@ CATEGORY_NAMES = {
     "technology": "科技",
     "domestic": "国内",
     "other": "其他",
+    "curiosity": "猎奇",
 }
-LIMITS = {"international": 10, "finance": 10, "technology": 10, "domestic": 7, "other": 5}
+LIMITS = {"international": 10, "finance": 10, "technology": 10, "domestic": 7, "other": 5, "curiosity": 8}
 TAG_RE = re.compile(r"<[^>]+>")
 SPACE_RE = re.compile(r"\s+")
 SENTENCE_RE = re.compile(r"(?<=[.!?。！？])\s+")
+CURIOSITY_KEYWORDS = (
+    "unusual", "strange", "odd", "rare", "mysterious", "mystery", "bizarre",
+    "discovery", "discovered", "archaeology", "ancient", "fossil", "dinosaur",
+    "animal", "species", "creature", "wildlife", "space", "planet", "meteor",
+    "volcano", "cave", "deep sea", "shipwreck", "artifact", "tomb", "record-breaking",
+    "奇特", "奇闻", "罕见", "神秘", "首次发现", "考古", "古墓", "遗址", "化石",
+    "恐龙", "动物", "物种", "野生", "熊猫", "雪豹", "深海", "太空", "宇宙",
+    "天文", "陨石", "极光", "火山", "洞穴", "自然现象", "新纪录", "不明",
+)
+VIDEO_TITLE_MARKERS = (
+    "video:", "video ", "watch:", "watch ", "livestream", "live stream",
+    "视频：", "视频 |", "【视频】", "观看视频", "直播回放", "视频新闻",
+)
+VIDEO_PATH_MARKERS = ("/video/", "/videos/", "/watch/")
 
 
 def clean(value: str | None) -> str:
@@ -67,6 +82,14 @@ def canonical_url(url: str) -> str:
     return urllib.parse.urlunsplit((parts.scheme, parts.netloc.lower(), parts.path.rstrip("/"), urllib.parse.urlencode(query), ""))
 
 
+def is_text_story(title: str, url: str) -> bool:
+    lowered_title = title.lower().strip()
+    lowered_path = urllib.parse.urlsplit(url).path.lower()
+    return not any(marker in lowered_title for marker in VIDEO_TITLE_MARKERS) and not any(
+        marker in lowered_path for marker in VIDEO_PATH_MARKERS
+    )
+
+
 def summary(text: str, title: str) -> str:
     text = clean(text)
     if text.lower().startswith(title.lower()):
@@ -97,7 +120,7 @@ def fetch(feed: dict) -> list[dict]:
                     break
         description = child_text(node, ("description", "summary", "content", "encoded"))
         published_raw = child_text(node, ("pubdate", "published", "updated", "date"))
-        if not title or not link:
+        if not title or not link or not is_text_story(title, link):
             continue
         published = parse_date(published_raw)
         items.append({
@@ -116,6 +139,11 @@ def fetch(feed: dict) -> list[dict]:
 
 def normalized_title(title: str) -> str:
     return re.sub(r"[^a-z0-9\u4e00-\u9fff]+", "", title.lower())
+
+
+def is_curiosity(item: dict) -> bool:
+    haystack = f"{item['title']} {item['summary']}".lower()
+    return any(keyword in haystack for keyword in CURIOSITY_KEYWORDS)
 
 
 def dedupe(items: list[dict]) -> list[dict]:
@@ -145,7 +173,7 @@ def render(data: dict, archive_prefix: str = "data/") -> str:
     return TEMPLATE.replace("{{DATE}}", data["date_display"]).replace("{{UPDATED}}", data["updated_display"]).replace("{{SECTIONS}}", "".join(cards)).replace("{{ARCHIVE}}", archive)
 
 
-TEMPLATE = '''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="每日财经、科技与国际事实新闻简报"><title>晨间新闻 · {{DATE}}</title><link rel="stylesheet" href="../styles.css"></head><body><header class="hero"><div class="hero-inner"><p class="eyebrow">MORNING BRIEF · BANGKOK</p><h1>晨间新闻</h1><p class="date">{{DATE}}</p><p class="updated">更新时间：{{UPDATED}}（曼谷）</p><nav><a href="#international">国际</a><a href="#finance">财经</a><a href="#technology">科技</a><a href="#domestic">国内</a><a href="#other">其他</a></nav></div></header><main>{{SECTIONS}}<section class="history"><h2>最近 7 天</h2><div class="history-links">{{ARCHIVE}}</div></section></main><footer>内容来自公开 RSS，摘要仅用于快速浏览。重要信息请以原文为准。</footer></body></html>'''
+TEMPLATE = '''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="每日财经、科技与国际事实新闻简报"><title>晨间新闻 · {{DATE}}</title><link rel="stylesheet" href="../styles.css"></head><body><header class="hero"><div class="hero-inner"><p class="eyebrow">MORNING BRIEF · BANGKOK</p><h1>晨间新闻</h1><p class="date">{{DATE}}</p><p class="updated">更新时间：{{UPDATED}}（曼谷）</p><nav><a href="#international">国际</a><a href="#finance">财经</a><a href="#technology">科技</a><a href="#domestic">国内</a><a href="#other">其他</a><a href="#curiosity">猎奇</a></nav></div></header><main>{{SECTIONS}}<section class="history"><h2>最近 7 天</h2><div class="history-links">{{ARCHIVE}}</div></section></main><footer>内容来自公开 RSS，摘要仅用于快速浏览。猎奇栏目只收录有明确来源的奇闻、自然、科学与历史内容。重要信息请以原文为准。</footer></body></html>'''
 
 
 def main() -> int:
@@ -167,10 +195,17 @@ def main() -> int:
     fresh = [i for i in all_items if datetime.fromisoformat(i["published"]) >= cutoff]
     items = dedupe(fresh or all_items)
     sections = {key: [] for key in CATEGORY_NAMES}
+    curiosity_sources: dict[str, int] = {}
     for item in items:
         bucket = sections[item["category"]]
+        if item["category"] == "curiosity" and not is_curiosity(item):
+            continue
+        if item["category"] == "curiosity" and curiosity_sources.get(item["source"], 0) >= 4:
+            continue
         if len(bucket) < LIMITS[item["category"]]:
             bucket.append(item)
+            if item["category"] == "curiosity":
+                curiosity_sources[item["source"]] = curiosity_sources.get(item["source"], 0) + 1
     DATA.mkdir(parents=True, exist_ok=True)
     date_key = now.strftime("%Y-%m-%d")
     existing = [p.stem for p in DATA.glob("20??-??-??.json")]

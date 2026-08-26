@@ -11,5 +11,10 @@
   {"name":"中国新闻网·国内","url":"https://www.chinanews.com.cn/rss/china.xml","category":"domestic","priority":5},
   {"name":"中国新闻网·财经","url":"https://www.chinanews.com.cn/rss/finance.xml","category":"domestic","priority":5},
   {"name":"BBC Science","url":"https://feeds.bbci.co.uk/news/science_and_environment/rss.xml","category":"other","priority":4},
-  {"name":"The Guardian Science","url":"https://www.theguardian.com/science/rss","category":"other","priority":3}
+  {"name":"The Guardian Science","url":"https://www.theguardian.com/science/rss","category":"other","priority":3},
+  {"name":"Smithsonian Smart News","url":"https://www.smithsonianmag.com/rss/smart-news/","category":"curiosity","priority":5},
+  {"name":"Live Science","url":"https://www.livescience.com/feeds/all","category":"curiosity","priority":4},
+  {"name":"Atlas Obscura","url":"https://www.atlasobscura.com/feeds/latest","category":"curiosity","priority":3},
+  {"name":"中国新闻网·社会","url":"https://www.chinanews.com.cn/rss/society.xml","category":"curiosity","priority":5},
+  {"name":"中国新闻网·生活","url":"https://www.chinanews.com.cn/rss/life.xml","category":"curiosity","priority":4}
 ]
