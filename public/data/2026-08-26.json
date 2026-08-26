@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
   "date_display": "2026年08月26日 · 星期三",
-  "updated": "2026-08-26T11:25:31.921268+07:00",
-  "updated_display": "11:25",
+  "updated": "2026-08-26T11:33:32.628872+07:00",
+  "updated_display": "11:33",
   "sections": {
     "international": [
       {
@@ -10,8 +10,8 @@
         "title": "Australia news live: WA premier’s ‘east coast clowns’ barb was unacceptable, Spender says; value of Japan’s melon gifts to PM revealed",
         "summary": "Follow updates live Get our breaking news email , free app or daily news podcast Angela Jackson, the commissioner of the Productivity Commission, said the body stands by the interim report into the GST, which found the deal with Western Australia to be a costly mistake that should be reversed. Jackson spoke to RN this morning after WA premier Roger Cook said “east coast clowns” didn’t understand the state and any…",
         "source": "The Guardian",
-        "published": "2026-08-26T04:10:56+00:00",
-        "published_display": "08月26日 11:10",
+        "published": "2026-08-26T04:28:54+00:00",
+        "published_display": "08月26日 11:28",
         "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
         "category": "international",
         "priority": 4
@@ -21,9 +21,20 @@
         "title": "Tributes pour in after country music legend Dolly Parton, 80, dies following ‘brief battle with cancer’ – latest updates",
         "summary": "Reba McEntire, Lily Tomlin, Dionne Warwick, Kacey Musgraves, Donald Trump and others mourn star’s death Dolly Parton dies aged 80 | Celebrity tributes | A life in pictures Parton’s peerless career turned country music cliches inside out Share your tributes and memories of Dolly Parton Our picture editors have collated Dolly Parton ’s life in pictures: In the UK, top radio presenter Jo Whiley introduced her BBC…",
         "source": "The Guardian",
-        "published": "2026-08-26T04:01:04+00:00",
-        "published_display": "08月26日 11:01",
+        "published": "2026-08-26T04:22:47+00:00",
+        "published_display": "08月26日 11:22",
         "url": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "3a7a8299e17f",
+        "title": "Nine CEO sees ‘world of growth in publishing’ as network slashes costs",
+        "summary": "Matt Stanton says company has ‘good pipeline’ of AI deals ahead even as it aims to cut $160m in costs Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The head of Nine Entertainment sees a “world of growth in publishing” on the horizon backed by laws designed to force tech platforms into commercial deals, even as the network cuts costs across its…",
+        "source": "The Guardian",
+        "published": "2026-08-26T04:18:16+00:00",
+        "published_display": "08月26日 11:18",
+        "url": "https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs",
         "category": "international",
         "priority": 4
       },
@@ -101,17 +112,6 @@
         "published": "2026-08-26T03:31:54+00:00",
         "published_display": "08月26日 10:31",
         "url": "https://www.theguardian.com/environment/2026/aug/26/sammy-elephant-seal-victoria-h5n1-bird-flu-hotspot",
-        "category": "international",
-        "priority": 4
-      },
-      {
-        "id": "3a7a8299e17f",
-        "title": "Nine CEO confident new AI laws will deliver a ‘world of growth in publishing’ as network slashes costs",
-        "summary": "Matt Stanton says company has ‘good pipeline’ of AI deals ahead even as it aims to cut $160m in costs Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The head of Nine Entertainment sees a “world of growth in publishing” on the horizon backed by laws designed to force tech platforms into commercial deals, even as the network cuts costs across its…",
-        "source": "The Guardian",
-        "published": "2026-08-26T03:30:15+00:00",
-        "published_display": "08月26日 10:30",
-        "url": "https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs",
         "category": "international",
         "priority": 4
       }
@@ -296,13 +296,13 @@
         "priority": 3
       },
       {
-        "id": "3acc2725e59f",
+        "id": "257bafaba4b6",
         "title": "Tech Life",
         "summary": "The government agency that's encouraging high-risk and high-reward research.",
         "source": "BBC Technology",
         "published": "2026-08-25T20:00:00+00:00",
         "published_display": "08月26日 03:00",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyb?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
         "category": "technology",
         "priority": 5
       },
@@ -341,6 +341,17 @@
       }
     ],
     "domestic": [
+      {
+        "id": "56f8aeed6208",
+        "title": "解放军南部战区组织海空力量位南海海域进行例行巡航",
+        "summary": "中新社北京8月26日电 据中国人民解放军南部战区社交平台官方账号8月26日消息，南部战区新闻发言人翟士臣海军大校表示，8月21日至25日，中国人民解放军南部战区组织海空力量位南海海域进行例行巡航。菲律宾拉拢域外国家搅局南海，组织所谓“联合巡航”，破坏地区和平稳定。战区部队将坚决捍卫国家领土主权和海洋权益，坚定维护地区和平稳定。(完)",
+        "source": "中国新闻网·国内",
+        "published": "2026-08-26T04:28:48+00:00",
+        "published_display": "08月26日 11:28",
+        "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684468.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
       {
         "id": "3eb6e3a6d60a",
         "title": "国台办评“北京没冰箱”：脱离事实的言论只会沦为笑柄",
@@ -404,17 +415,6 @@
         "published": "2026-08-26T03:54:56+00:00",
         "published_display": "08月26日 10:54",
         "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684434.shtml",
-        "category": "domestic",
-        "priority": 5
-      },
-      {
-        "id": "7b9286d26330",
-        "title": "贵州贵安发展集团有限公司原董事长罗佳玲被“双开”",
-        "summary": "中新网8月26日电 据贵州省纪委监委消息：经贵州省委批准，贵州省纪委监委对贵州贵安发展集团有限公司原董事长罗佳玲严重违纪违法问题进行了立案审查调查。",
-        "source": "中国新闻网·国内",
-        "published": "2026-08-26T03:54:28+00:00",
-        "published_display": "08月26日 10:54",
-        "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684438.shtml",
         "category": "domestic",
         "priority": 5
       }
