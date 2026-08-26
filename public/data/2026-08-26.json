@@ -1,10 +1,21 @@
 {
   "date": "2026-08-26",
   "date_display": "2026年08月26日 · 星期三",
-  "updated": "2026-08-26T11:33:32.628872+07:00",
-  "updated_display": "11:33",
+  "updated": "2026-08-26T11:53:33.154160+07:00",
+  "updated_display": "11:53",
   "sections": {
     "international": [
+      {
+        "id": "e618dc958e05",
+        "title": "Tributes pour in after country music legend Dolly Parton, 80, dies following ‘brief battle with cancer’ – latest updates",
+        "summary": "Reba McEntire, Lily Tomlin, Dionne Warwick, Kacey Musgraves, Donald Trump and others mourn star’s death Dolly Parton dies aged 80 | Celebrity tributes | A life in pictures Parton’s peerless career turned country music cliches inside out Share your tributes and memories of Dolly Parton Our picture editors have collated Dolly Parton ’s life in pictures: In the UK, top radio presenter Jo Whiley introduced her BBC…",
+        "source": "The Guardian",
+        "published": "2026-08-26T04:42:37+00:00",
+        "published_display": "08月26日 11:42",
+        "url": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
+        "category": "international",
+        "priority": 4
+      },
       {
         "id": "c4b813e0cde4",
         "title": "Australia news live: WA premier’s ‘east coast clowns’ barb was unacceptable, Spender says; value of Japan’s melon gifts to PM revealed",
@@ -17,13 +28,13 @@
         "priority": 4
       },
       {
-        "id": "e618dc958e05",
-        "title": "Tributes pour in after country music legend Dolly Parton, 80, dies following ‘brief battle with cancer’ – latest updates",
-        "summary": "Reba McEntire, Lily Tomlin, Dionne Warwick, Kacey Musgraves, Donald Trump and others mourn star’s death Dolly Parton dies aged 80 | Celebrity tributes | A life in pictures Parton’s peerless career turned country music cliches inside out Share your tributes and memories of Dolly Parton Our picture editors have collated Dolly Parton ’s life in pictures: In the UK, top radio presenter Jo Whiley introduced her BBC…",
-        "source": "The Guardian",
-        "published": "2026-08-26T04:22:47+00:00",
-        "published_display": "08月26日 11:22",
-        "url": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
+        "id": "b6d2c1375749",
+        "title": "At least 15 newborns killed in Pakistan hospital fire",
+        "summary": "Only one child rescued after fire breaks out in the nursery at Pakistan Institute of Medical Sciences, Geo News reports.",
+        "source": "Al Jazeera",
+        "published": "2026-08-26T04:27:15+00:00",
+        "published_display": "08月26日 11:27",
+        "url": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
         "category": "international",
         "priority": 4
       },
@@ -103,31 +114,9 @@
         "url": "https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss",
         "category": "international",
         "priority": 4
-      },
-      {
-        "id": "d1ccfe49b27f",
-        "title": "Fears for ‘gregarious’ local celebrity Sammy the elephant seal in Victorian bird flu hotspot",
-        "summary": "Seals and sea lions often communicate by touch and share spaces with wild birds, placing them at risk of infection from H5N1 virus Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Since H5 bird flu arrived in Portland, Victoria, the situation has been “pretty grim” with many dead and suffering birds on the beach, and the dilemma of how to dispose…",
-        "source": "The Guardian",
-        "published": "2026-08-26T03:31:54+00:00",
-        "published_display": "08月26日 10:31",
-        "url": "https://www.theguardian.com/environment/2026/aug/26/sammy-elephant-seal-victoria-h5n1-bird-flu-hotspot",
-        "category": "international",
-        "priority": 4
       }
     ],
     "finance": [
-      {
-        "id": "928127df55da",
-        "title": "H&H Group CEO on Earnings, Business Outlook",
-        "summary": "H&H Group CEO Akash Bedi says innovation has allowed the company's China business to stand out despite macroeconomic challenges. He also discusses the company's business plans and outlook on \"Bloomberg: The China Show.\" (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "published": "2026-08-26T04:20:16+00:00",
-        "published_display": "08月26日 11:20",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-26/h-h-group-ceo-on-earnings-business-outlook-video",
-        "category": "finance",
-        "priority": 5
-      },
       {
         "id": "96a02d89acfe",
         "title": "Insurer Great Eastern Invests in Granite Private Credit Fund",
@@ -136,17 +125,6 @@
         "published": "2026-08-26T04:11:28+00:00",
         "published_display": "08月26日 11:11",
         "url": "https://www.bloomberg.com/news/articles/2026-08-26/insurer-great-eastern-invests-in-granite-private-credit-fund",
-        "category": "finance",
-        "priority": 5
-      },
-      {
-        "id": "d9d7ba28f027",
-        "title": "Why China Is Defiant Even as US Threatens Iran Sanctions",
-        "summary": "China has thrown Tehran an economic lifeline as its biggest buyer of oil, and Xi appears in no rush to help Trump end a conflict that's pulling US resources from Asia. Bloomberg's Jill Disis breaks down the news.",
-        "source": "Bloomberg",
-        "published": "2026-08-26T03:34:29+00:00",
-        "published_display": "08月26日 10:34",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-26/why-china-is-defiant-even-as-us-threatens-iran-sanctions-video",
         "category": "finance",
         "priority": 5
       },
@@ -224,6 +202,28 @@
         "published": "2026-08-26T01:32:07+00:00",
         "published_display": "08月26日 08:32",
         "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "e3a4d6c3a753",
+        "title": "Australia’s Second-Largest Pension Makes Big Bet on Yen Strength",
+        "summary": "Australia’s second-largest pension has built its biggest overweight position in the Japanese yen in years, betting that markets are underpricing Bank of Japan interest rate hikes.",
+        "source": "Bloomberg",
+        "published": "2026-08-26T01:16:39+00:00",
+        "published_display": "08月26日 08:16",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-26/australia-s-pension-giant-makes-its-biggest-yen-bet-in-years",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "dbd0f756415e",
+        "title": "Citadel Securities’ Flight Reverses Bearish Call on Long Bonds",
+        "summary": "Citadel Securities’ Frank Flight, who just last month warned of a “cruel summer” for US bond investors, now sees the balance of risks tilted toward a rally, citing crowded bearish positioning and improving inflation data.",
+        "source": "Bloomberg",
+        "published": "2026-08-26T00:32:01+00:00",
+        "published_display": "08月26日 07:32",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-26/citadel-securities-flight-reverses-bearish-call-on-long-bonds",
         "category": "finance",
         "priority": 5
       }
@@ -342,6 +342,17 @@
     ],
     "domestic": [
       {
+        "id": "2d54913adab6",
+        "title": "两岸媒体人走进山西晋城体悟华夏同源",
+        "summary": "中新社山西晋城8月26日电 (记者 胡健)“品游山西寻根问祖”两岸新媒体采风活动25日至29日在山西晋城举行，两岸媒体人走进炎帝陵、喜镇苏庄、铁佛寺等地，在古建民俗中体悟两岸同源的文化根脉。",
+        "source": "中国新闻网·国内",
+        "published": "2026-08-26T04:35:28+00:00",
+        "published_display": "08月26日 11:35",
+        "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684469.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
         "id": "56f8aeed6208",
         "title": "解放军南部战区组织海空力量位南海海域进行例行巡航",
         "summary": "中新社北京8月26日电 据中国人民解放军南部战区社交平台官方账号8月26日消息，南部战区新闻发言人翟士臣海军大校表示，8月21日至25日，中国人民解放军南部战区组织海空力量位南海海域进行例行巡航。菲律宾拉拢域外国家搅局南海，组织所谓“联合巡航”，破坏地区和平稳定。战区部队将坚决捍卫国家领土主权和海洋权益，坚定维护地区和平稳定。(完)",
@@ -406,17 +417,6 @@
         "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684280.shtml",
         "category": "domestic",
         "priority": 5
-      },
-      {
-        "id": "267577b9f9cb",
-        "title": "贵州省卫生健康委员会卫生计生监督局原党委书记周亮被“双开”",
-        "summary": "中新网8月26日电 据贵州省纪委监委消息：经贵州省委批准，贵州省纪委监委对贵州省卫生健康委员会卫生计生监督局原党委书记周亮严重违纪违法问题进行了立案审查调查。",
-        "source": "中国新闻网·国内",
-        "published": "2026-08-26T03:54:56+00:00",
-        "published_display": "08月26日 10:54",
-        "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684434.shtml",
-        "category": "domestic",
-        "priority": 5
       }
     ],
     "other": [
@@ -465,14 +465,104 @@
         "priority": 4
       },
       {
-        "id": "28ad6691423d",
-        "title": "Relief may be near for Indiana city after days without power",
-        "summary": "After nearly two-weeks without power, Gary, Indiana residents and officials call for accountability, infrastructure improvements, and customer relief measures.",
+        "id": "28496549d139",
+        "title": "Trust launches 'first-of-its-kind' nature survey",
+        "summary": "A wildlife group says \"everyone can get involved with protecting nature\" by taking part in research.",
         "source": "BBC Science",
-        "published": "2026-08-25T16:33:34+00:00",
-        "published_display": "08月25日 23:33",
-        "url": "https://www.bbc.co.uk/news/videos/c783l8lrvdzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-25T13:17:40+00:00",
+        "published_display": "08月25日 20:17",
+        "url": "https://www.bbc.co.uk/news/articles/c9qrgrx4zpeo?at_medium=RSS&at_campaign=rss",
         "category": "other",
+        "priority": 4
+      }
+    ],
+    "curiosity": [
+      {
+        "id": "6babdd6ed4b2",
+        "title": "“殴打熊猫”“克扣口粮”……打击造谣团伙：爱大熊猫，不能造谣",
+        "summary": "爱大熊猫，不能造谣",
+        "source": "中国新闻网·社会",
+        "published": "2026-08-26T01:21:50+00:00",
+        "published_display": "08月26日 08:21",
+        "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684294.shtml",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "47802d289186",
+        "title": "Fossil Beach at York River State Park in Williamsburg, Virginia",
+        "summary": "The trail to Fossil Beach winds through a forest, a marsh , and ends at what appears to be an unassuming stretch of sand along the York River. But look down instead of out. Mixed among shells and pebbles are fragments of a much older world: fossilized teeth, bones, and other remnants of marine life that swam here thousands of years ago.",
+        "source": "Atlas Obscura",
+        "published": "2026-08-25T19:23:00+00:00",
+        "published_display": "08月26日 02:23",
+        "url": "https://www.atlasobscura.com/places/fossil-beach-at-york-river-state-park",
+        "category": "curiosity",
+        "priority": 3
+      },
+      {
+        "id": "c8ec65d74c79",
+        "title": "A Human Skeleton Was Found Inside a Mysterious Stone Structure in Scotland. Archaeologists Still Don't Know Why It Was Buried There",
+        "summary": "Built with fitted stone and a clay-like material that may have helped retain liquid, the unusual structure has left researchers searching for an explanation",
+        "source": "Smithsonian Smart News",
+        "published": "2026-08-25T17:51:55+00:00",
+        "published_display": "08月26日 00:51",
+        "url": "https://www.smithsonianmag.com/smart-news/human-skeleton-found-inside-mysterious-stone-structure-in-scotland-archaeologists-still-dont-know-why-it-was-buried-there-180989391",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "40ade4c85ee2",
+        "title": "Ritual solstice structure 1,000 years older than Stonehenge unearthed in Czech Republic",
+        "summary": "Archaeologists in the Czech Republic have discovered a prehistoric structure they believe was a ritual center linked to the movements of the sun and moon. The center is around 6,500 years old — about 1,000 years older than Stonehenge. The structure was discovered at Chleby in the Central Bohemian Region.",
+        "source": "Live Science",
+        "published": "2026-08-25T14:00:00+00:00",
+        "published_display": "08月25日 21:00",
+        "url": "https://www.livescience.com/archaeology/ritual-solstice-structure-1-000-years-older-than-stonehenge-unearthed-in-czech-republic",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "9cd4144fc54b",
+        "title": "Rare sunlight trick transforms Pacific island into a giant silver 'magnifying glass' — Earth from space",
+        "summary": "QUICK FACTS Where is it? Rennell Island, Solomon Islands [ -11.589514301, 160.17549068 ] What's in the photo? A \"sunglint\" shining off the ocean and the island's lake Who took the photo?",
+        "source": "Live Science",
+        "published": "2026-08-25T07:00:00+00:00",
+        "published_display": "08月25日 14:00",
+        "url": "https://www.livescience.com/planet-earth/rivers-oceans/rare-sunlight-trick-transforms-pacific-island-into-a-giant-silver-magnifying-glass-earth-from-space",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "d651d1c9b9fa",
+        "title": "14 Mesmerizing Mazes and Labyrinths",
+        "summary": "Since antiquity, mazes and labyrinths have been places of spiritual reflection and deep contemplation. The famous Egyptian Labyrinth at Hawara was built around 1860 BCE during the reign of Pharaoh Amenemhat III, though 2D depictions of the classic seven-circuit design appear as early as 2000 BCE in clay tablets from the Mediterranean. Mazes, too, have origins in ancient Egypt, primarily serving to keep looters…",
+        "source": "Atlas Obscura",
+        "published": "2026-08-24T17:38:00+00:00",
+        "published_display": "08月25日 00:38",
+        "url": "https://www.atlasobscura.com/articles/14-mesmerizing-mazes-labyrinths",
+        "category": "curiosity",
+        "priority": 3
+      },
+      {
+        "id": "ecef627022a4",
+        "title": "Closed to the Public Since WWII, a ‘Hidden’ Gallery at London’s Natural History Museum Opens Its Doors Once Again",
+        "summary": "Animal skeletons, Neolithic tools and pop culture memorabilia are among the dozens of objects to be displayed in the reopened “Nature and Us” exhibition",
+        "source": "Smithsonian Smart News",
+        "published": "2026-08-24T17:18:09+00:00",
+        "published_display": "08月25日 00:18",
+        "url": "https://www.smithsonianmag.com/smart-news/closed-to-public-since-wwii-hidden-gallery-at-london-natural-history-museum-opens-doors-once-again-180989380",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "9e2390e8ce6b",
+        "title": "'Starry Night' telescope photo captures some of the oldest stars in the universe — Space photo of the week",
+        "summary": "Quick facts What it is: The Corona Australis Molecular Cloud Where it is: 430 light-years away, in the constellation Corona Australis When it was shared: July 16, 2026 In a scene reminiscent of Vincent van Gogh's \" The Starry Night ,\" scientists have captured swirling nebulae, dark dust lanes and sparkling star clusters in remarkable detail. This spectacular new image from the Dark Energy Camera (DECam) on the…",
+        "source": "Live Science",
+        "published": "2026-08-23T10:00:00+00:00",
+        "published_display": "08月23日 17:00",
+        "url": "https://www.livescience.com/space/astronomy/starry-night-telescope-photo-captures-some-of-the-oldest-stars-in-the-universe-space-photo-of-the-week",
+        "category": "curiosity",
         "priority": 4
       }
     ]
