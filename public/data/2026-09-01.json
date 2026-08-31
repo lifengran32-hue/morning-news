@@ -1,0 +1,579 @@
+{
+  "date": "2026-09-01",
+  "date_display": "2026年09月01日 · 星期二",
+  "updated": "2026-09-01T06:01:16.198428+07:00",
+  "updated_display": "06:01",
+  "sections": {
+    "international": [
+      {
+        "id": "8bce93a407b2",
+        "title": "Australia news live: NSW confirms new HSC assessment rules to crack down on AI use; Sydney man killed in home invasion",
+        "summary": "Follow updates live Get our breaking news email , free app or daily news podcast 43 Australians still missing, with concerns growing ‘every day, every hour’ that goes by, Wong says The foreign affairs minister, Penny Wong, says there are still 43 Australian missing after the flooding in Nepal, saying the government holds grave concerns for their safety that only gets worse as the days go by. This is such a…",
+        "source": "The Guardian",
+        "published": "2026-08-31T22:42:30+00:00",
+        "published_display": "09月01日 05:42",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "08f45c7b66fd",
+        "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+        "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
+        "source": "BBC News",
+        "published": "2026-08-31T22:38:24+00:00",
+        "published_display": "09月01日 05:38",
+        "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "8ebef5e73710",
+        "title": "Three minors killed in Colombia armed group crackdown",
+        "summary": "Rights groups warn that armed groups are increasingly recruiting children to their ranks through social media.",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T22:30:23+00:00",
+        "published_display": "09月01日 05:30",
+        "url": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "55c9aad73b84",
+        "title": "Hiker, 91, becomes oldest person to complete grueling Appalachian Trail",
+        "summary": "Dale Sanders said he fell 71 times on the trail, but completed the journey as ‘people are motivated … by my efforts’ A 91-year-old hiker has reclaimed his record as the oldest person to complete the more than 2,000-mile Appalachian Trail. By his count, Dale Sanders, of Tennessee, fell 71 times during the feat, six of which he said were hard falls and one which required a brief hospitalization and another just 200…",
+        "source": "The Guardian",
+        "published": "2026-08-31T22:17:52+00:00",
+        "published_display": "09月01日 05:17",
+        "url": "https://www.theguardian.com/us-news/2026/aug/31/oldest-hiker-appalachian-trail",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "e29506f76874",
+        "title": "White House construction on $400m ballroom can go on, says US Supreme Court",
+        "summary": "The decision replaces a temporary order issued earlier this month.",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T22:08:37+00:00",
+        "published_display": "09月01日 05:08",
+        "url": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "f49ff83d77df",
+        "title": "Trump’s ballroom construction can resume at White House, supreme court rules – live",
+        "summary": "In a 5-4 decision, the court granted the Trump administration’s request to block a lower court ruling that would have prevented work from being done on the ballroom US supreme court allows Trump to keep building $400m White House ballroom Sign up for US Breaking News emails Chris Hippensteel We’re watching today as Scott Bessent , the US treasury secretary, and Kevin Warsh , the chair of the Federal Reserve,…",
+        "source": "The Guardian",
+        "published": "2026-08-31T22:06:04+00:00",
+        "published_display": "09月01日 05:06",
+        "url": "https://www.theguardian.com/us-news/live/2026/aug/31/donald-trump-lake-america-ontario-canada-trade-war-tariffs-jd-vance-g20-latest-news-updates",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "a1bd6c566d0d",
+        "title": "How intense rains in the Grand Canyon turned into a deadly disaster",
+        "summary": "Flash flooding in Arizona tourist destination was likely triggered by compounding climate factors, such as drought and warming in Pacific Ocean Remote Grand Canyon lodge hit by deadly flash flood boasts fabled history A deadly flash flood in the Grand Canyon over the weekend was likely driven by a confluence of climate factors, including drought, wildfire scarring and warming temperatures in the Pacific Ocean…",
+        "source": "The Guardian",
+        "published": "2026-08-31T22:02:05+00:00",
+        "published_display": "09月01日 05:02",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "10da67142631",
+        "title": "North Carolina teenager dies from rare infection caused by brain-eating amoeba",
+        "summary": "Naegleria fowleri is commonly found in warm freshwater, and if it enters through the nose, can cause brain damage A North Carolina teenager has died after contracting a rare and often fatal brain-eating amoeba. The state’s health department (NCDHHS) confirmed the boy’s death on Monday, saying: “NCDHHS has been informed that the teen who developed a rare illness, caused by Naegleria fowleri died on Aug. We extend…",
+        "source": "The Guardian",
+        "published": "2026-08-31T21:34:09+00:00",
+        "published_display": "09月01日 04:34",
+        "url": "https://www.theguardian.com/us-news/2026/aug/31/north-carolina-teen-dies-brain-eating-amoeba",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "4c4a8b5fb392",
+        "title": "Poland opens terror probe into fire at factory supplying Ukraine drones",
+        "summary": "Amid suspicion of Russian sabotage, Warsaw eyes link to foreign intelligence services.",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T21:24:15+00:00",
+        "published_display": "09月01日 04:24",
+        "url": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "230b41a126c4",
+        "title": "Arsenal edge past troubled Aston Villa 1-0 as Saka scores only goal",
+        "summary": "Victory ​lifts Arsenal to six points ⁠along with Man ⁠City, Hull City and Chelsea, while Villa remain without a point.",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T21:21:20+00:00",
+        "published_display": "09月01日 04:21",
+        "url": "https://www.aljazeera.com/sports/2026/8/31/arsenal-edge-past-troubled-aston-villa-1-0-as-saka-scores-only-goal?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      }
+    ],
+    "finance": [
+      {
+        "id": "415db83b7f15",
+        "title": "Ares Raises $3.8 Billion for Japan-Focused Logistics Fund",
+        "summary": "Ares Management Corp has raised ¥612 billion ($3.8 billion) for its latest Japan-focused logistics development fund, in the largest closed-end institutional fundraise by its real estate business.",
+        "source": "Bloomberg",
+        "published": "2026-08-31T22:12:29+00:00",
+        "published_display": "09月01日 05:12",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/ares-raises-3-8-billion-for-japan-focused-logistics-fund",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "70eab4fc7bc7",
+        "title": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap",
+        "summary": "Stocks in Asia are set to follow Wall Street lower as renewed geopolitical tensions lifted oil prices, reviving inflation concerns and the prospect of further monetary tightening.",
+        "source": "Bloomberg",
+        "published": "2026-08-31T22:06:14+00:00",
+        "published_display": "09月01日 05:06",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/asian-stocks-to-fall-as-iran-flare-up-boosts-oil-markets-wrap",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "ad6f9a1483ce",
+        "title": "Latest Oil Market News and Analysis for Sept. 1",
+        "summary": "Oil pushed higher after the biggest gain in three weeks on Monday as fresh hostilities between the US and Iran raised concerns about prolonged disruptions to energy flows through the Strait of Hormuz.",
+        "source": "Bloomberg",
+        "published": "2026-08-31T22:03:46+00:00",
+        "published_display": "09月01日 05:03",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/latest-oil-market-news-and-analysis-for-sept-1",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "5d873a5f045f",
+        "title": "Japan Bonds Face Test at 10-Year Sale as Yield Approaches 3%",
+        "summary": "Japan’s auction of 10-year government bonds on Tuesday will test demand for this key maturity as yields approach the milestone of 3% and investors position for an interest rate hike from the central bank.",
+        "source": "Bloomberg",
+        "published": "2026-08-31T22:00:12+00:00",
+        "published_display": "09月01日 05:00",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/japan-bonds-face-test-at-10-year-sale-as-yield-approaches-3",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "30b27f3ab10a",
+        "title": "Australia Raises Wheat Crop Forecast as Export Demand Picks Up",
+        "summary": "Australia raised its wheat crop forecast after strong winter rains improved growing conditions, just as the worsening Black Sea crisis creates additional demand for the country’s grain.",
+        "source": "Bloomberg",
+        "published": "2026-08-31T22:00:00+00:00",
+        "published_display": "09月01日 05:00",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/australia-raises-wheat-crop-forecast-as-export-demand-picks-up",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "18e0d14df122",
+        "title": "Hedge Fund Disclosure Deadline Delayed Again by SEC, CFTC",
+        "summary": "US regulators delayed for the fourth time additional hedge fund disclosure requirements that are meant to inform agencies about the financial positions of firms during market turbulence.",
+        "source": "Bloomberg",
+        "published": "2026-08-31T21:44:42+00:00",
+        "published_display": "09月01日 04:44",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/hedge-fund-disclosure-deadline-delayed-again-by-sec-cftc",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "3a8a40ab3dcd",
+        "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+        "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+        "source": "BBC Business",
+        "published": "2026-08-31T21:28:49+00:00",
+        "published_display": "09月01日 04:28",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "6ac8ae4f697f",
+        "title": "Brookfield Lines Up a $600 Million Payout in Niche Credit Market",
+        "summary": "HomeServe is in early discussions with lenders for an asset-backed transaction that would pay owner Brookfield Asset Management Ltd. a dividend of $600 million, according to people with knowledge of the matter.",
+        "source": "Bloomberg",
+        "published": "2026-08-31T20:51:02+00:00",
+        "published_display": "09月01日 03:51",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/brookfield-lines-up-a-600-million-payout-in-niche-credit-market",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "61b3c945a57a",
+        "title": "Refiners Granted Highest Level of Biofuel Waivers Since 2017",
+        "summary": "The Trump administration granted smaller oil refineries the biggest amount of exemptions from mandates requiring them to blend renewable fuels since 2017.",
+        "source": "Bloomberg",
+        "published": "2026-08-31T19:00:16+00:00",
+        "published_display": "09月01日 02:00",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/us-grants-refiners-highest-level-of-biofuel-waivers-since-2017",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "5bcdedd3ea97",
+        "title": "Kushner states regret over World Cup sell-off plan",
+        "summary": "Venture capitalist Joshua Kushner says he would not have got involved in Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup if he had known how the football world reacted.",
+        "source": "BBC Business",
+        "published": "2026-08-31T18:38:55+00:00",
+        "published_display": "09月01日 01:38",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      }
+    ],
+    "technology": [
+      {
+        "id": "4ea64796dbea",
+        "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+        "summary": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
+        "source": "TechCrunch",
+        "published": "2026-08-31T22:14:05+00:00",
+        "published_display": "09月01日 05:14",
+        "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "d58c969931bd",
+        "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+        "summary": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
+        "source": "TechCrunch",
+        "published": "2026-08-31T20:20:25+00:00",
+        "published_display": "09月01日 03:20",
+        "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "bef216b73739",
+        "title": "The Pentagon now has its own version of ChatGPT and Grok",
+        "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+        "source": "TechCrunch",
+        "published": "2026-08-31T20:13:45+00:00",
+        "published_display": "09月01日 03:13",
+        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "a2a8cf7f5885",
+        "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
+        "summary": "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons.",
+        "source": "Ars Technica",
+        "published": "2026-08-31T20:02:16+00:00",
+        "published_display": "09月01日 03:02",
+        "url": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "9ebf79eedf56",
+        "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+        "summary": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
+        "source": "TechCrunch",
+        "published": "2026-08-31T19:32:21+00:00",
+        "published_display": "09月01日 02:32",
+        "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "6f3e144d7d71",
+        "title": "Instagram puts new limits on undisclosed AI profiles",
+        "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+        "source": "TechCrunch",
+        "published": "2026-08-31T19:16:59+00:00",
+        "published_display": "09月01日 02:16",
+        "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "38ce4549df62",
+        "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+        "summary": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
+        "source": "TechCrunch",
+        "published": "2026-08-31T19:02:06+00:00",
+        "published_display": "09月01日 02:02",
+        "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "e4e79173dddf",
+        "title": "Microsoft tests fix for latest hours-long Outlook outage",
+        "summary": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures.",
+        "source": "TechCrunch",
+        "published": "2026-08-31T18:56:41+00:00",
+        "published_display": "09月01日 01:56",
+        "url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "c66fa3140c31",
+        "title": "Kalshi bans George Santos for life over State of the Union bets",
+        "summary": "The disciplinary action comes two months after the Commodity Futures Trading Commission settled charges against Santos.",
+        "source": "TechCrunch",
+        "published": "2026-08-31T18:53:41+00:00",
+        "published_display": "09月01日 01:53",
+        "url": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "0c46030b1ba6",
+        "title": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
+        "summary": "Trump furious at NBC's Kristen Welker for saying he had mixed results in primary endorsements.",
+        "source": "Ars Technica",
+        "published": "2026-08-31T18:39:25+00:00",
+        "published_display": "09月01日 01:39",
+        "url": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed",
+        "category": "technology",
+        "priority": 4
+      }
+    ],
+    "domestic": [
+      {
+        "id": "f84be287ae8a",
+        "title": "习近平在埃及媒体发表署名文章",
+        "summary": "新华社开罗9月1日电#8195;9月1日，在赴开罗对埃及进行国事访问之际，国家主席习近平在埃及《金字塔报》、《消息报》、《共和国报》发表题为《风雨同舟七十载，踔厉奋发新征程》的署名文章。文章全文如下：",
+        "source": "中国新闻网·国内",
+        "published": "2026-08-31T21:30:26+00:00",
+        "published_display": "09月01日 04:30",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687580.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "4f36327046f5",
+        "title": "中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言",
+        "summary": "新华社比什凯克8月31日电",
+        "source": "中国新闻网·国内",
+        "published": "2026-08-31T16:11:32+00:00",
+        "published_display": "08月31日 23:11",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687579.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "4aa56472be63",
+        "title": "中华人民共和国和吉尔吉斯共和国永久睦邻友好合作条约",
+        "summary": "新华社比什凯克8月31日电",
+        "source": "中国新闻网·国内",
+        "published": "2026-08-31T15:28:07+00:00",
+        "published_display": "08月31日 22:28",
+        "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687578.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "ad5541f76742",
+        "title": "以政治学创新赋能中国式现代化 首届政治学前沿论坛在京举办",
+        "summary": "中新网北京8月31日电 (记者 谭雨果)近日，中国社会科学杂志社与中国政法大学共同主办的中国社会科学杂志社首届政治学前沿论坛(2026)举行，论坛以“中国式现代化与中国政治学的时代命题”为主题，国内政治学领域百余位专家学者汇聚一堂，围绕中国式现代化理论内涵、制度基础、自主知识体系建设、数智时代政治学新议题展开多单元研讨。",
+        "source": "中国新闻网·国内",
+        "published": "2026-08-31T14:59:49+00:00",
+        "published_display": "08月31日 21:59",
+        "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687572.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "24be95ad0f24",
+        "title": "十五五·同心聚力自贸港：“迫切需要国有基金进一步发挥资本引擎作用”",
+        "summary": "中新网海口8月31日电 (记者 王子谦)“当前，海南正处于高标准建设自贸港的关键阶段。”8月31日在海口举办的2026“十五五·同心聚力自贸港”首期沙龙活动上，致公党党员、海南省财金集团有限公司总经理肖能表示，迫切需要国有基金进一步发挥资本引擎作用，以基金撬动社会资本，以投资带动产业落地，以耐心资本培育未来产业。",
+        "source": "中国新闻网·财经",
+        "published": "2026-08-31T14:52:40+00:00",
+        "published_display": "08月31日 21:52",
+        "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687561.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "d7a3396ca309",
+        "title": "第38届中共党史党建学位点会议暨推进中共党史党建学科高质量发展学术研讨会在北京召开",
+        "summary": "中新网北京8月31日电(谭雨果 冯艺璇)近日，由张静如中共党史党建基金会主办，北京师范大学马克思主义学院、北京师范大学中共党史党建研究院承办的第38届“中共党史党建学位点会议暨推进中共党史党建学科高质量发展学术研讨会”在北京师范大学举行，本次会议正值学位点会议创办40周年之际，与会学者围绕中共党史党建学、马克思主义中国化研究等学科在建设中的重要理论与实践问题进行深入探讨。",
+        "source": "中国新闻网·国内",
+        "published": "2026-08-31T14:50:18+00:00",
+        "published_display": "08月31日 21:50",
+        "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687567.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "f3b7df556253",
+        "title": "习近平会见俄罗斯总统普京",
+        "summary": "中新社比什凯克8月31日电 (记者 郭金超 黄钰钦)当地时间8月31日下午，中国国家主席习近平在比什凯克出席2026年上海合作组织峰会期间会见俄罗斯总统普京。",
+        "source": "中国新闻网·国内",
+        "published": "2026-08-31T14:46:54+00:00",
+        "published_display": "08月31日 21:46",
+        "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687564.shtml",
+        "category": "domestic",
+        "priority": 5
+      }
+    ],
+    "other": [
+      {
+        "id": "925392fb6a43",
+        "title": "Did you solve it? The fin-tastic fish puzzle",
+        "summary": "The solution to today’s underwater conundrums Earlier today I set you the following puzzles. Here they are again with the solutions. A fish is swimming in a tank that is two metres high, one metre across and one metre deep.",
+        "source": "The Guardian Science",
+        "published": "2026-08-31T16:00:29+00:00",
+        "published_display": "08月31日 23:00",
+        "url": "https://www.theguardian.com/science/2026/aug/31/did-you-solve-it-the-fin-tastic-fish-puzzle",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "17df2f01f5a8",
+        "title": "Smelling test: children need education in sniffing aromas, scientist says",
+        "summary": "Exclusive: Dr Will Tullett says better understanding of scents can improve wellbeing and perception of the world Children need a better education in sniffing aromas, a leading historian of smells has said, noting it may improve their wellbeing and help them understand the world around them. Dr Will Tullett, of the University of York, said pollution had been found to impair people’s olfactory abilities, while many…",
+        "source": "The Guardian Science",
+        "published": "2026-08-31T13:00:25+00:00",
+        "published_display": "08月31日 20:00",
+        "url": "https://www.theguardian.com/science/2026/aug/31/children-education-sniffing-aromas-scientist",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "fe2b250a6fd3",
+        "title": "Space junk punched a new hole in the moon. It’s not ours to abuse | Moriba Jah",
+        "summary": "The space industry treats the sky as a place to dump what it no longer wants. We must develop a new model of accountability On 5 August, a piece of a derelict SpaceX rocket traveling at 5,400 miles an hour met with the moon and punched a fresh hole into it near Einstein Crater . Astronomers were thrilled.",
+        "source": "The Guardian Science",
+        "published": "2026-08-31T10:00:24+00:00",
+        "published_display": "08月31日 17:00",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/31/space-junk-moon-hole",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "13d490a5b122",
+        "title": "Can you solve it? The fin-tastic fish puzzle",
+        "summary": "UPDATE: Read the solution here Today’s puzzle concerns a fish swimming in a tank that is two metres high, one metre across and one metre deep. The image below shows one path the fish swam.",
+        "source": "The Guardian Science",
+        "published": "2026-08-31T06:10:17+00:00",
+        "published_display": "08月31日 13:10",
+        "url": "https://www.theguardian.com/science/2026/aug/31/can-you-solve-it-the-fin-tastic-fish-puzzle",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "2e6dea3342ef",
+        "title": "Forbidden planet: was Pluto’s 2006 demotion a big mistake?",
+        "summary": "Since it was stripped of planetary status, Pluto’s defenders have been fighting the decision – and they’re only getting more passionate Twenty years ago, Pluto got demoted. After a vote by the International Astronomical Union (IAU) in August 2006, Pluto was relegated from major planet to dwarf planet status. Our solar system dropped from nine planets to eight.",
+        "source": "The Guardian Science",
+        "published": "2026-08-31T04:00:16+00:00",
+        "published_display": "08月31日 11:00",
+        "url": "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake",
+        "category": "other",
+        "priority": 3
+      }
+    ],
+    "curiosity": [
+      {
+        "id": "e2a0d4f99c84",
+        "title": "See the Digitally Reconstructed Face of an Ancient Man Who Witnessed England’s Greatest Upheaval",
+        "summary": "The so-called “Conquest Man” was buried in England in 1079, just over a decade into the reign of William the Conqueror. Researchers recently analyzed the skeleton’s DNA and teeth to learn more about him",
+        "source": "Smithsonian Smart News",
+        "published": "2026-08-31T20:35:48+00:00",
+        "published_display": "09月01日 03:35",
+        "url": "https://www.smithsonianmag.com/smart-news/see-the-digitally-reconstructed-face-of-an-ancient-man-who-witnessed-englands-greatest-upheaval-180989425",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "73fecc5a69f0",
+        "title": "Thieves Steal 3,000-Year-Old Treasure in a 'Super-Professional' Museum Heist That Took Only Four Minutes",
+        "summary": "Officials were shaken after dozens of ancient artifacts vanished from the local archaeological museum in Villena, Spain. The thieves left only a few pieces from the Bronze Age treasure behind",
+        "source": "Smithsonian Smart News",
+        "published": "2026-08-31T17:11:11+00:00",
+        "published_display": "09月01日 00:11",
+        "url": "https://www.smithsonianmag.com/smart-news/thieves-steal-3000-year-old-treasure-in-a-super-professional-museum-heist-that-took-only-four-minutes-180989418",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "3ab229de98a9",
+        "title": "'Odyssey' Translator Emily Wilson Is Starting Over After Calling Christopher Nolan's Blockbuster Film 'Abysmal'",
+        "summary": "Nearly a decade after her acclaimed first translation was released, Wilson is taking a fresh approach to Homer's ancient Greek epic",
+        "source": "Smithsonian Smart News",
+        "published": "2026-08-31T16:21:17+00:00",
+        "published_display": "08月31日 23:21",
+        "url": "https://www.smithsonianmag.com/smart-news/emily-wilson-will-completely-re-translate-homers-odyssey-after-calling-christopher-nolan-blockbuster-film-abysmal-180989423",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "981edd9b0cd0",
+        "title": "Bunker Tombé in Sainte-Marguerite-sur-Mer, France",
+        "summary": "The Bunker in Sainte Marguerite sur Mer is a massive WWII German blockhaus that originally sat atop the coastal cliffs before decades of erosion caused it to plunge onto the beach below, landing almost perfectly vertically in the sand. Today, it stands as a surreal, monolithic attraction that gained modern fame after street artist JR and filmmaker Agnès Varda featured it in their 2016 documentary “Faces Places,”…",
+        "source": "Atlas Obscura",
+        "published": "2026-08-31T16:00:00+00:00",
+        "published_display": "08月31日 23:00",
+        "url": "https://www.atlasobscura.com/places/bunker-tombe",
+        "category": "curiosity",
+        "priority": 3
+      },
+      {
+        "id": "d2209b5072bf",
+        "title": "Would You Eat a Cookie Made From Upcycled Plastic? Scientists Propose a New Way to Deal With Waste and Provide Food in Extreme Environments",
+        "summary": "A team of researchers programmed yeast to turn broken-down plastic and agricultural waste into sweet treats called µBites. They might come in handy during deep-space missions or in disaster zones, although some critics say the food is impractical",
+        "source": "Smithsonian Smart News",
+        "published": "2026-08-31T15:42:33+00:00",
+        "published_display": "08月31日 22:42",
+        "url": "https://www.smithsonianmag.com/smart-news/would-you-eat-a-cookie-made-from-upcycled-plastics-scientists-propose-a-new-way-to-deal-with-waste-and-provide-food-in-extreme-environments-180989413",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "847bae7b06ad",
+        "title": "成都警方破获一起非法猎捕、收购、运输、出售陆生野生动物案",
+        "summary": "中新网成都8月31日电 (记者 安源)记者31日从成都市公安局获悉，成都市公安局天府新区分局聚焦涉野生动物违法犯罪问题，破获一起非法猎捕、收购、运输、出售陆生野生动物案。该局近日在天府新区籍田街道现场查获陆生野生动物中华蟾蜍(俗称癞蛤蟆、癞疙宝)6156只，经专业机构鉴定，该中华蟾蜍为有重要生态、科学、社会价值的陆生野生动物，涉案金额共计60余万元。",
+        "source": "中国新闻网·社会",
+        "published": "2026-08-31T14:15:10+00:00",
+        "published_display": "08月31日 21:15",
+        "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687543.shtml",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "18f82866c047",
+        "title": "广东紫金救护3只珍稀领角鸮 已顺利放归野外",
+        "summary": "中新网广州8月31日电 (程景伟 林荫)据广东省林业局31日消息，3只完成野化训练的国家二级保护野生动物领角鸮近日在广东紫金白溪省级自然保护区顺利放归野外。",
+        "source": "中国新闻网·社会",
+        "published": "2026-08-31T13:40:58+00:00",
+        "published_display": "08月31日 20:40",
+        "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687506.shtml",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "615f251a2883",
+        "title": "Crown of Kerch: A 1,600-year-old gold, gem-studded diadem found in the grave of a Hun noblewoman",
+        "summary": "The Crown of Kerch was discovered in a high-status woman's grave in Crimea more than a century ago. (Image credit: Mirko Kuzmanovic/Alamy) QUICK FACTS Name: Crown of Kerch What it is: A gold-and-garnet diadem Where it is from: Kerch, Crimea When it was made: Late fourth to early fifth centuries At the beginning of the 20th century, a German art collector acquired dozens of artifacts from a Russian-led excavation…",
+        "source": "Live Science",
+        "published": "2026-08-31T10:00:00+00:00",
+        "published_display": "08月31日 17:00",
+        "url": "https://www.livescience.com/archaeology/crown-of-kerch-a-1-600-year-old-gold-gem-studded-diadem-found-in-the-grave-of-a-hun-noblewoman",
+        "category": "curiosity",
+        "priority": 4
+      }
+    ]
+  },
+  "history": [
+    "2026-09-01",
+    "2026-08-31",
+    "2026-08-30",
+    "2026-08-29",
+    "2026-08-28",
+    "2026-08-26"
+  ],
+  "source_failures": []
+}
