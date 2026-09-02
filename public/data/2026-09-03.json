@@ -1,0 +1,580 @@
+{
+  "date": "2026-09-03",
+  "date_display": "2026年09月03日 · 星期四",
+  "updated": "2026-09-03T06:01:13.243619+07:00",
+  "updated_display": "06:01",
+  "sections": {
+    "international": [
+      {
+        "id": "d677aa5a300c",
+        "title": "Trump doubles down on Canada trade war as talks remain stalled – US politics live",
+        "summary": "Trump has imposed 50% tariffs on $20bn in Canadian goods and Canada threatened retaliatory tariffs starting 8 September Sign up for the US Breaking News email As tensions flare in the mideast with American military forces resuming strikes on Iran, Donald Trump has taken to social media to discuss his ballroom project. “We have hundreds of happy construction workers in D.C. busily doing their job building the…",
+        "source": "The Guardian",
+        "published": "2026-09-02T22:49:16+00:00",
+        "published_display": "09月03日 05:49",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "4853c2337866",
+        "title": "Australia news live: Marles and Hegseth meet in Washington; teen charged after ‘near complete amputation’ of boy’s hand",
+        "summary": "Boy to face court today. Follow the day’s news live. Get our breaking news email , free app or daily news podcast Shadow treasurer says tobacco plans would bring in extra billions and stop people buying from the ‘black market’ Tim Wilson, the shadow treasurer, said the tobacco proposal would bring in an extra $2bn a year as it would stop people “buying products from the black market”.",
+        "source": "The Guardian",
+        "published": "2026-09-02T22:45:45+00:00",
+        "published_display": "09月03日 05:45",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "11e689e557b3",
+        "title": "Several victims, including two police officers, injured at shooting in downtown Minneapolis",
+        "summary": "The city’s police department warns the public to stay away from the Minneapolis convention center Multiple people, including two police officers, were injured in a shooting in downtown Minneapolis on Wednesday afternoon, officials said. The Minneapolis police department warned the public to stay away from the area.",
+        "source": "The Guardian",
+        "published": "2026-09-02T22:40:12+00:00",
+        "published_display": "09月03日 05:40",
+        "url": "https://www.theguardian.com/us-news/2026/sep/02/downtown-minneapolis-shooting",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "1979314154b5",
+        "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
+        "summary": "Multiple new cases have been filed against OpenAI, alleging ChatGPT played a role in the Tumbler Ridge mass shooting.",
+        "source": "Al Jazeera",
+        "published": "2026-09-02T22:15:32+00:00",
+        "published_display": "09月03日 05:15",
+        "url": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "937dafed8b63",
+        "title": "Epstein survivors urge billionaire Leon Black to cooperate with House panel",
+        "summary": "Black called on to comply with subpoenas and appear as required to clarify connections to convicted sex offender More than a dozen survivors of Jeffrey Epstein’s abuse have called on the billionaire Leon Black to appear before the House oversight committee in order to clarify his connections to the late disgraced financier and convicted sex offender. In a letter released on Wednesday, the survivors urged Black to…",
+        "source": "The Guardian",
+        "published": "2026-09-02T22:03:25+00:00",
+        "published_display": "09月03日 05:03",
+        "url": "https://www.theguardian.com/us-news/2026/sep/02/jeffrey-epstein-leon-black-congress",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "9c44c2457dce",
+        "title": "Cassandra Wilson, Grammy-winning jazz singer, dies aged 70",
+        "summary": "Mississippi-born Wilson, who worked across folk, pop, R&B and country, was once dubbed America’s best singer Cassandra Wilson, the two-time Grammy-winning jazz singer, songwriter and producer has died. Dubbed America’s best singer by Time magazine in 2001, Wilson was best known for her genre-bending voice, which expanded the boundaries of traditional blues-based jazz and worked effortlessly across folk, pop, R&B,…",
+        "source": "The Guardian",
+        "published": "2026-09-02T21:47:13+00:00",
+        "published_display": "09月03日 04:47",
+        "url": "https://www.theguardian.com/music/2026/sep/02/cassandra-wilson-jazz-singer-dies",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "59bd5d28dd45",
+        "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+        "summary": "Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran.",
+        "source": "Al Jazeera",
+        "published": "2026-09-02T21:37:41+00:00",
+        "published_display": "09月03日 04:37",
+        "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "98ba99425150",
+        "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+        "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+        "source": "BBC News",
+        "published": "2026-09-02T21:34:27+00:00",
+        "published_display": "09月03日 04:34",
+        "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "eca0fc692bc0",
+        "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+        "summary": "PM will aim to centre talks with French president on key foreign policy issues such as Iran, smuggling gangs and EU relations Andy Burnham will begin the process of courting European leaders when he welcomes Emmanuel Macron as the first foreign head of state to visit him in Downing Street. The prime minister will meet the French president at No 10 on Thursday as he looks to make inroads on a number of foreign…",
+        "source": "The Guardian",
+        "published": "2026-09-02T21:30:35+00:00",
+        "published_display": "09月03日 04:30",
+        "url": "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "b89624d1a9b9",
+        "title": "South African airline behind daring stadium stunt cancels next flyby",
+        "summary": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
+        "source": "BBC News",
+        "published": "2026-09-02T21:21:08+00:00",
+        "published_display": "09月03日 04:21",
+        "url": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      }
+    ],
+    "finance": [
+      {
+        "id": "5d22ec8daa36",
+        "title": "Five Below Lifts Outlook, Aims to Ramp Up Appeal to Gen Alpha",
+        "summary": "shares rose over 8% in postmarket trading on Wednesday after the retailer lifted its full-year outlook, citing the addition of new stores and the popularity of its budget-friendly merchandise among Gen Alpha and Gen Z shoppers.",
+        "source": "Bloomberg",
+        "published": "2026-09-02T22:30:30+00:00",
+        "published_display": "09月03日 05:30",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-02/five-below-lifts-outlook-aims-to-ramp-up-appeal-to-gen-alpha",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "ee6393dbf59e",
+        "title": "Petco Services, Auto-Ship Sales Grow as Turnaround Continues",
+        "summary": "Petco Health & Wellness Co. shares rose as much as 14% in postmarket trading Wednesday after the pet supply retailer reported profit above Wall Street expectations and comparable sales grew for the second straight quarter after a year of declines.",
+        "source": "Bloomberg",
+        "published": "2026-09-02T22:16:56+00:00",
+        "published_display": "09月03日 05:16",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-02/petco-services-auto-ship-sales-grow-as-turnaround-continues",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "69f6e4746488",
+        "title": "Asian Stocks Set to Advance as Oil Pressures Ease: Markets Wrap",
+        "summary": "Asian stocks were poised to track Wall Street higher as oil’s surge eased after President Donald Trump played down the prospect of a prolonged conflict with Iran, tempering inflation concerns.",
+        "source": "Bloomberg",
+        "published": "2026-09-02T22:08:10+00:00",
+        "published_display": "09月03日 05:08",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-02/stock-market-today-dow-s-p-live-updates",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "76016c7d3fd8",
+        "title": "Latest Oil Market News and Analysis for Sept. 3",
+        "summary": "Oil steadied after a three-day rally as President Donald Trump said renewed attacks on Iran would be short-lived while reiterating his claim that the US controls the Strait of Hormuz.",
+        "source": "Bloomberg",
+        "published": "2026-09-02T22:03:57+00:00",
+        "published_display": "09月03日 05:03",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-02/latest-oil-market-news-and-analysis-for-sept-3",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "d147d31ead38",
+        "title": "Australian Earnings Beat Estimates for First Time in Four Years",
+        "summary": "Australian earnings beats are outpacing misses for the first time in four years, defying a challenging economic backdrop and bolstering chances for a stalled stock rally to resume.",
+        "source": "Bloomberg",
+        "published": "2026-09-02T21:00:00+00:00",
+        "published_display": "09月03日 04:00",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-02/australian-earnings-beat-estimates-for-first-time-in-four-years",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "3b0500245ebb",
+        "title": "Japanese Companies Consider Asset Sales as Yen Debt Costs Rise",
+        "summary": "Japanese companies are expanding their toolkit to deal with the steepest borrowing costs in a generation, including considering sales of strategic shareholdings and other assets to offset the impact, a Bloomberg News survey shows.",
+        "source": "Bloomberg",
+        "published": "2026-09-02T21:00:00+00:00",
+        "published_display": "09月03日 04:00",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-02/japanese-companies-consider-asset-sales-as-yen-debt-costs-rise",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "0327174c5d66",
+        "title": "Musk Ally Anthony Armstrong Joins Coinbase’s Board of Directors",
+        "summary": "is adding Anthony Armstrong, an Elon Musk ally and former Morgan Stanley banker, to its board of directors.",
+        "source": "Bloomberg",
+        "published": "2026-09-02T20:10:00+00:00",
+        "published_display": "09月03日 03:10",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-02/musk-ally-anthony-armstrong-joins-coinbase-s-board-of-directors",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "ee9b55fcd3b8",
+        "title": "Elliott Builds Deutsche Telekom Stake, Opposes T-Mobile Merger",
+        "summary": "Elliott Investment Management has built a sizeable stake in Deutsche Telekom AG and indicated the German telecommunications giant should ditch a potential merger with its American arm T-Mobile US Inc., people familiar with the matter said.",
+        "source": "Bloomberg",
+        "published": "2026-09-02T19:38:24+00:00",
+        "published_display": "09月03日 02:38",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-02/elliott-builds-deutsche-telekom-stake-opposes-t-mobile-merger",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "3685e0e767a4",
+        "title": "Uber to cut over 3,000 jobs in major global restructuring",
+        "summary": "The company says cutting roles would make its operations \"simpler and faster\".",
+        "source": "BBC Business",
+        "published": "2026-09-02T16:51:49+00:00",
+        "published_display": "09月02日 23:51",
+        "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "a1bff74a0a93",
+        "title": "Tim Cook handed $47m package for new role as executive chair of Apple",
+        "summary": "Pay and shares deal nearly matches $58m award to John Ternus, his successor as CEO at the $4.7tn tech company Tim Cook has received a $47m (£35m) pay deal as Apple’s executive chair, a remuneration package that nears the level set for his successor as chief executive. Cook, who handed over to John Ternus on Tuesday, will be paid a base salary of $2m and $45m worth of shares . Half of the share award will be based…",
+        "source": "The Guardian Business",
+        "published": "2026-09-02T14:46:36+00:00",
+        "published_display": "09月02日 21:46",
+        "url": "https://www.theguardian.com/technology/2026/sep/02/tim-cook-47m-package-chair-apple",
+        "category": "finance",
+        "priority": 4
+      }
+    ],
+    "technology": [
+      {
+        "id": "f6657d932555",
+        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+        "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+        "source": "TechCrunch",
+        "published": "2026-09-02T23:01:00+00:00",
+        "published_display": "09月03日 06:01",
+        "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "361a495fe5ec",
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "summary": "The acquisition also leaves Sequoia-backed Serval as the de-facto startup leader in AI IT service automation, industry watchers believe.",
+        "source": "TechCrunch",
+        "published": "2026-09-02T22:44:56+00:00",
+        "published_display": "09月03日 05:44",
+        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "f77da1d55673",
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+        "source": "TechCrunch",
+        "published": "2026-09-02T22:24:09+00:00",
+        "published_display": "09月03日 05:24",
+        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "0bc49e640d5c",
+        "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+        "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+        "source": "TechCrunch",
+        "published": "2026-09-02T21:38:34+00:00",
+        "published_display": "09月03日 04:38",
+        "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "273267c3aff9",
+        "title": "Spending deal comes with a bonus: Blocking political control of grants",
+        "summary": "Congress pauses the OMB's attempt to rewrite how research is funded.",
+        "source": "Ars Technica",
+        "published": "2026-09-02T21:20:03+00:00",
+        "published_display": "09月03日 04:20",
+        "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "65b06ebbfae1",
+        "title": "I rented a car, and within hours, my driver's license was for sale",
+        "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+        "source": "Ars Technica",
+        "published": "2026-09-02T20:32:02+00:00",
+        "published_display": "09月03日 03:32",
+        "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "13c4ef216462",
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+        "source": "TechCrunch",
+        "published": "2026-09-02T20:19:14+00:00",
+        "published_display": "09月03日 03:19",
+        "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "e590dc756a0f",
+        "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+        "summary": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
+        "source": "TechCrunch",
+        "published": "2026-09-02T20:12:41+00:00",
+        "published_display": "09月03日 03:12",
+        "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "849cd761613c",
+        "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
+        "summary": "Carrier scorecards may include call-blocking stats and data on customer complaints.",
+        "source": "Ars Technica",
+        "published": "2026-09-02T19:54:27+00:00",
+        "published_display": "09月03日 02:54",
+        "url": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "717070a0ab90",
+        "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+        "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
+        "source": "Ars Technica",
+        "published": "2026-09-02T19:37:08+00:00",
+        "published_display": "09月03日 02:37",
+        "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design",
+        "category": "technology",
+        "priority": 4
+      }
+    ],
+    "domestic": [
+      {
+        "id": "a438c67bfda2",
+        "title": "习近平主席特使、全国政协副主席咸辉出席赞比亚总统就职典礼",
+        "summary": "新华社卢萨卡9月2日电(记者叶挺)应赞比亚共和国政府邀请，习近平主席特使、全国政协副主席咸辉1日在赞比亚首都卢萨卡出席赞比亚总统希奇莱马就职典礼。2日，希奇莱马在总统官邸会见咸辉。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-02T22:37:45+00:00",
+        "published_display": "09月03日 05:37",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689169.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "68404624f1e5",
+        "title": "新闻背景：大埃及博物馆",
+        "summary": "中新社开罗9月2日电 2025年11月1日正式开馆的大埃及博物馆是世界最大单一文明博物馆，占地约50万平方米，馆藏文物超过10万件，集纳了埃及从史前时代到罗马时期的大量珍贵文物，涵盖埃及数千年历史。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-02T19:19:47+00:00",
+        "published_display": "09月03日 02:19",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689165.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "5b53b06ffa4d",
+        "title": "习近平圆满结束对埃及的国事访问",
+        "summary": "中新社开罗9月2日电 (记者 郭金超 谢雁冰)当地时间9月2日晚，中国国家主席习近平结束对埃及的国事访问。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-02T19:12:40+00:00",
+        "published_display": "09月03日 02:12",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689164.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "684fe5539aa5",
+        "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆",
+        "summary": "中新社开罗9月2日电 (记者 郭金超 谢雁冰)当地时间9月2日下午，中国国家主席习近平和夫人彭丽媛在埃及总统塞西和夫人依缇萨尔陪同下参观大埃及博物馆。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-02T19:09:26+00:00",
+        "published_display": "09月03日 02:09",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689163.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "774cd9daef5a",
+        "title": "四渡赤水用兵如神 实现红军从被动到主动的战略转变",
+        "summary": "开学第一课丨四渡赤水用兵如神 实现红军从被动到主动的战略转变",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-02T16:18:51+00:00",
+        "published_display": "09月02日 23:18",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689158.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "664c31c3fd6d",
+        "title": "“大”和“新”的中国市场为外企提供机会清单",
+        "summary": "“放眼世界，中国可能是唯一兼具‘大’和‘新’两个特点的富有潜力市场。”",
+        "source": "中国新闻网·财经",
+        "published": "2026-09-02T15:10:55+00:00",
+        "published_display": "09月02日 22:10",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689154.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "3d7ab5de46ad",
+        "title": "习言道｜谈及中东局势，习近平提出四点倡议",
+        "summary": "当地时间9月2日，埃及总统塞西同中国国家主席习近平在开罗太阳宫举行会谈。两国元首就中东局势深入沟通。习近平指出——",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-02T14:56:16+00:00",
+        "published_display": "09月02日 21:56",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689116.shtml",
+        "category": "domestic",
+        "priority": 5
+      }
+    ],
+    "other": [
+      {
+        "id": "8144c97eec9f",
+        "title": "Widow whose husband died after falling into slurry pit warns of pressure on farmers",
+        "summary": "Margaret Owen says \"things are getting worse\" after a rise in deaths of workers on British farms.",
+        "source": "BBC Science",
+        "published": "2026-09-02T21:57:00+00:00",
+        "published_display": "09月03日 04:57",
+        "url": "https://www.bbc.co.uk/news/articles/cn9wv8l15ezo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "13860aa5cda1",
+        "title": "Scientists may have found first hint of dark matter",
+        "summary": "The mysterious material has eluded scientists for nearly a century.",
+        "source": "BBC Science",
+        "published": "2026-09-02T15:54:03+00:00",
+        "published_display": "09月02日 22:54",
+        "url": "https://www.bbc.co.uk/news/articles/cvgypvnx1jgo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "0645ae1d8363",
+        "title": "US medical groups urge people to get flu and Covid shots in counter to Trump guidance",
+        "summary": "Top medical groups band together to ease confusion from Trump administration’s changing immunization advice Leading US medical groups are urging people to get updated flu and Covid-19 vaccinations this fall, banding together on Wednesday to issue shot guidelines – and highlight the science behind them – saying they hope to ease confusion caused by the Trump administration’s changing advice. Flu vaccinations are…",
+        "source": "The Guardian Science",
+        "published": "2026-09-02T15:14:50+00:00",
+        "published_display": "09月02日 22:14",
+        "url": "https://www.theguardian.com/us-news/2026/sep/02/flu-covid-vaccines-guidance",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "0d8ae7edcbd2",
+        "title": "'We'll find way to save Jodrell Bank,' Burnham says",
+        "summary": "Burnham said \"there is no way that we can see its demise, and it won't happen under my Government\".",
+        "source": "BBC Science",
+        "published": "2026-09-01T19:30:02+00:00",
+        "published_display": "09月02日 02:30",
+        "url": "https://www.bbc.co.uk/news/articles/cm2qj7jzl7no?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "6c87ff24d457",
+        "title": "How a small island in Canada appeared, vanished, and was found again",
+        "summary": "Officials in British Columbia say the floating island drifted towards the shoreline of a local lake. But its origins remain a mystery.",
+        "source": "BBC Science",
+        "published": "2026-09-01T17:36:44+00:00",
+        "published_display": "09月02日 00:36",
+        "url": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      }
+    ],
+    "curiosity": [
+      {
+        "id": "e4fafd9abdf1",
+        "title": "Blue Crabs Have Taken Over the Adriatic Sea. To Fight Them Off, Italian Researchers Just Released Thousands of Baby Octopuses",
+        "summary": "Although prized in the United States, the crustaceans have been decimating ecosystems and the fishing industry in Italy. Experts hope that an army of natural predators—common octopuses—can help contain the invasive species' spread",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-02T18:48:01+00:00",
+        "published_display": "09月03日 01:48",
+        "url": "https://www.smithsonianmag.com/smart-news/blue-crabs-have-taken-over-the-adriatic-sea-to-fight-them-off-italian-researchers-just-released-thousands-of-baby-octopuses-180989430",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "ea2d33a695b5",
+        "title": "Archaeologists Discover a 4,000-Year-Old Tomb With a False Door at Egypt's Ancient Saqqara Necropolis",
+        "summary": "In addition to the tomb, which once belonged to a high-ranking official, excavations revealed a network of burial shafts that still held human remains and funerary objects",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-02T18:43:03+00:00",
+        "published_display": "09月03日 01:43",
+        "url": "https://www.smithsonianmag.com/smart-news/archaeologists-discover-a-4000-year-old-tomb-with-a-false-door-at-egypts-ancient-saqqara-necropolis-180989438",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "094ab8885d37",
+        "title": "Parque Ciudad de las Canteras (Quarry City Park) in Oaxaca, Mexico",
+        "summary": "The nickname \"Green Antequera\" for the Mexican city of Oaxaca de Juárez might seem strange at first: is it related to the vegetation of the valley it sits in and the mountains that surround it during the wet season? Walking in its historical center, though, the \"green\" part becomes clearer as this is the color of the rock that forms many of the buildings here, and even the sidewalks. This rock is known as…",
+        "source": "Atlas Obscura",
+        "published": "2026-09-02T17:33:00+00:00",
+        "published_display": "09月03日 00:33",
+        "url": "https://www.atlasobscura.com/places/parque-ciudad-de-las-canteras-quarry-city-park",
+        "category": "curiosity",
+        "priority": 3
+      },
+      {
+        "id": "76a061145a56",
+        "title": "五大议题45场报告 第八届中国边疆考古学术研讨会在呼伦贝尔举行",
+        "summary": "中新网内蒙古呼伦贝尔9月2日电 (记者 孙自法)第八届中国边疆考古学术研讨会9月2日在内蒙古自治区呼伦贝尔市举行。来自全国的考古学、历史学、民族学等专家学者代表相聚一堂，聚焦“考古学视野下的北部边疆”主题分享最新研究成果，展开深度交流与研讨。",
+        "source": "中国新闻网·社会",
+        "published": "2026-09-02T14:22:06+00:00",
+        "published_display": "09月02日 21:22",
+        "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689125.shtml",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "4efdb75744a9",
+        "title": "Corals Reveal El Niño Events Have Become Stronger in Recent Decades, Probably Because Humans Have Been Heating Up the Planet",
+        "summary": "Researchers used elements trapped within Galápagos corals to understand natural swings in the climate over the past millennium. They hint that variability has gone up over the past 40 years compared to preindustrial times",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-02T14:00:00+00:00",
+        "published_display": "09月02日 21:00",
+        "url": "https://www.smithsonianmag.com/smart-news/corals-reveal-el-nino-events-have-become-stronger-in-recent-decades-probably-because-humans-have-been-heating-up-the-planet-180989432",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "513e638a8b5b",
+        "title": "Prehistoric Crocodile Footprint in Kildonan, Scotland",
+        "summary": "The Chirotherium, a 12-foot-long crocodile-like reptile, left trails of footprints in four different locations on the Isle of Arran, Scotland, where it lived around 270 million years ago. Some of these footprints measure up to 40 centimetres long and feature large talons, making them the largest Chirotherium prints ever discovered on Earth. At the time, Arran was part of the supercontinent Pangaea, and…",
+        "source": "Atlas Obscura",
+        "published": "2026-09-02T14:00:00+00:00",
+        "published_display": "09月02日 21:00",
+        "url": "https://www.atlasobscura.com/places/prehistoric-crocodile-footprint",
+        "category": "curiosity",
+        "priority": 3
+      },
+      {
+        "id": "a8f971d5504c",
+        "title": "1,600-year-old skeleton found in a giant jar in Bulgaria may belong to Roman who hid there to escape enemy attack",
+        "summary": "Archaeologists in Bulgaria have discovered a human skeleton inside a giant Roman jar. It's likely that the individual sought shelter in the vessel during an enemy attack over 1,600 years ago but died as a fire swept through the area. The team unearthed the gigantic jar in a Late Roman turret, or small tower, in the Roman colony of Deultum on Aug.",
+        "source": "Live Science",
+        "published": "2026-09-02T11:00:00+00:00",
+        "published_display": "09月02日 18:00",
+        "url": "https://www.livescience.com/archaeology/romans/1-600-year-old-skeleton-found-in-a-giant-jar-in-bulgaria-may-belong-to-roman-who-hid-there-to-escape-enemy-attack",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "18ddbd4e85b6",
+        "title": "Sunken WWII hospital ship colonized by devil firefish and rare monk seals",
+        "summary": "A sunken World War II hospital ship off the coast of Albania has attracted both invasive devil firefish and rare Mediterranean monk seals, leading researchers to weigh the risks and benefits of these wrecks for local ecosystems. The ship, called the Po, sank off Vlora Bay in 1941 after being hit by a torpedo from a British Fairey Swordfish aircraft during the Greco-Italian War, one of the conflicts within World…",
+        "source": "Live Science",
+        "published": "2026-09-02T09:52:08+00:00",
+        "published_display": "09月02日 16:52",
+        "url": "https://www.livescience.com/animals/aquatic-animals/sunken-wwii-hospital-ship-colonized-by-devil-firefish-and-rare-monk-seals",
+        "category": "curiosity",
+        "priority": 4
+      }
+    ]
+  },
+  "history": [
+    "2026-09-03",
+    "2026-09-02",
+    "2026-09-01",
+    "2026-08-31",
+    "2026-08-30",
+    "2026-08-29",
+    "2026-08-28"
+  ],
+  "source_failures": []
+}
