@@ -1,0 +1,580 @@
+{
+  "date": "2026-09-04",
+  "date_display": "2026年09月04日 · 星期五",
+  "updated": "2026-09-04T06:01:18.730827+07:00",
+  "updated_display": "06:01",
+  "sections": {
+    "international": [
+      {
+        "id": "ef4fd0e97d68",
+        "title": "News live: Two more Australians confirmed safe in Nepal-Tibet floods; Bowen calls joint statement on China ‘strong’",
+        "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast ‘Gut-wrenching’ Chris Bowen said he would meet members of the Nepali Australian community later today. Every person who’s been rescued or found is a relief to their family and to the broader Australian community.",
+        "source": "The Guardian",
+        "published": "2026-09-03T22:53:35+00:00",
+        "published_display": "09月04日 05:53",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "6481d41eccb3",
+        "title": "Trump administration asks supreme court to intervene over judge’s ban on USPS mail-in voting restrictions – live",
+        "summary": "Justice department files emergency request seeking to have court lift Judge Indira Talwani’s order temporarily blocking postal service from implementing plan Sign up for US Breaking News emails Republican oversight chair James Comer has also weighed in on Leon Black not sitting for a deposition about his ties to Jeffrey Epstein. The billionaire financier, who has denied wrongdoing, filed suit against the…",
+        "source": "The Guardian",
+        "published": "2026-09-03T22:44:51+00:00",
+        "published_display": "09月04日 05:44",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "68c96c157303",
+        "title": "Missouri supreme court throws out new congressional maps backed by Trump",
+        "summary": "Setback for Republicans in redistricting battle as court orders forbids maps from being used in November elections The Missouri supreme court has unanimously blocked new congressional districts backed by Donald Trump from being used in the November election and ordered a statewide vote on whether to uphold or reject the new map. The decision Thursday marks a rare setback for Republicans in a national…",
+        "source": "The Guardian",
+        "published": "2026-09-03T22:38:41+00:00",
+        "published_display": "09月04日 05:38",
+        "url": "https://www.theguardian.com/us-news/2026/sep/03/missouri-supreme-court-trump",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "b8158f7d5321",
+        "title": "Genetically modified pig kidney keeps man alive for record nine months",
+        "summary": "Organ kept Tim Andrews off dialysis and acted as a ‘bridge’ while he waited for a human transplant in the US A genetically modified kidney from a pig called Wilma has kept a 66-year-old man with kidney failure alive for a record nine months and successfully acted as a “bridge” to a human transplant in a world first. Tim Andrews was seriously ill with end-stage kidney disease caused by type 2 diabetes and had only…",
+        "source": "The Guardian",
+        "published": "2026-09-03T22:30:50+00:00",
+        "published_display": "09月04日 05:30",
+        "url": "https://www.theguardian.com/science/2026/sep/03/genetically-modified-pig-kidney-keeps-man-alive-record-nine-months",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "2ced24161292",
+        "title": "Volkswagen announces it will cut 100,000 jobs by 2030",
+        "summary": "Under-pressure carmaker will shed 15% of workforce and halve its product line in sector’s biggest ever restructure The car company Volkswagen has announced it will shed 100,000 jobs by the end of the decade after being hit by US tariffs and fierce competition from Chinese rivals. The German manufacturer said management and unions had agreed as part of a sweeping cost-cutting plan to cut a further 50,000 positions…",
+        "source": "The Guardian",
+        "published": "2026-09-03T22:30:32+00:00",
+        "published_display": "09月04日 05:30",
+        "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "e4a1ce9ee168",
+        "title": "Serbians targeted with spyware in country’s ‘largest documented wave of surveillance’",
+        "summary": "Student protesters among those hacked, says digital rights group, though Aleksandar Vučić’s government denies spying At least 14 people from across Serbian civil society were targeted with advanced spyware earlier this year in what the digital rights group Share Foundation said was the largest documented ​wave of such infection in Serbia to date. The wave of spyware infections was discovered in August after Apple…",
+        "source": "The Guardian",
+        "published": "2026-09-03T22:10:18+00:00",
+        "published_display": "09月04日 05:10",
+        "url": "https://www.theguardian.com/world/2026/sep/03/serbians-targeted-with-advanced-spyware",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "a12bf3540f83",
+        "title": "San Francisco fire officials rescue man trapped inside garbage truck",
+        "summary": "Firefighters hollowed out a dumpster truck and lifted a man from trash and debris after bystanders alerted driver to screams San Francisco fire officials manually hollowed out a garbage truck early on Wednesday to rescue a man trapped inside. Firefighters were dispatched around 4.11am after receiving a report of an individual stuck inside a Recology dumpster truck, authorities said.",
+        "source": "The Guardian",
+        "published": "2026-09-03T22:07:14+00:00",
+        "published_display": "09月04日 05:07",
+        "url": "https://www.theguardian.com/us-news/2026/sep/03/san-francisco-fire-officials-man-trapped-garbage-truck",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "78436d08c713",
+        "title": "Sadiq Khan agrees to have his texts and emails searched in Palantir legal battle",
+        "summary": "US tech company has sued London mayor after he prevented it from working with Metropolitan police Sadiq Khan has agreed for his text messages and emails to be searched as part of a legal battle with Palantir, the high court has been told, after he prevented the US technology company from working with the Metropolitan police. The London mayor stepped in to block a £50m deal between Palantir and the Met in May,…",
+        "source": "The Guardian",
+        "published": "2026-09-03T22:04:49+00:00",
+        "published_display": "09月04日 05:04",
+        "url": "https://www.theguardian.com/politics/2026/sep/03/sadiq-khan-agrees-have-texts-emails-searched-palantir-legal-battle",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "63156303388c",
+        "title": "Excavation work on Trump’s towering, gilded arch to begin over next two weeks",
+        "summary": "Project that critics say will disrupt historic sightlines in Washington DC is facing a lawsuit The Trump administration said on Thursday that excavation work will start over the next two weeks on the site where it plans to build a towering, gilded arch, a project that is facing a lawsuit and that critics say will disrupt historic sightlines in Washington DC. The proposed arch is one of several projects the…",
+        "source": "The Guardian",
+        "published": "2026-09-03T21:49:51+00:00",
+        "published_display": "09月04日 04:49",
+        "url": "https://www.theguardian.com/us-news/2026/sep/03/trump-arch-washington-excavation-work",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "bb065cdc64e1",
+        "title": "Burnham, Macron talk border security and stronger Europe-UK ties",
+        "summary": "New UK Prime Minister Andy Burnham discussed shared challenges in his first official meeting with the French president.",
+        "source": "Al Jazeera",
+        "published": "2026-09-03T21:40:42+00:00",
+        "published_display": "09月04日 04:40",
+        "url": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      }
+    ],
+    "finance": [
+      {
+        "id": "9f0dca1aee35",
+        "title": "Asia Stocks to Gain as Fed Bets Cool, Dollar Drops: Markets Wrap",
+        "summary": "Stocks in Asia were poised to rise Friday, tracking gains on Wall Street as investors pared bets on a Federal Reserve rate hike this month. The yen held its biggest gain in over a month and oil rose.",
+        "source": "Bloomberg",
+        "published": "2026-09-03T22:14:26+00:00",
+        "published_display": "09月04日 05:14",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "1ac5f19f4a31",
+        "title": "Latest Oil Market News and Analysis for Sept. 4",
+        "summary": "Oil headed for its biggest weekly gain since July as renewed US-Iran hostilities heightened concerns about prolonged disruptions to energy flows through the Strait of Hormuz.",
+        "source": "Bloomberg",
+        "published": "2026-09-03T22:12:01+00:00",
+        "published_display": "09月04日 05:12",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-03/latest-oil-market-news-and-analysis-for-sept-4",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "7d75b7573a69",
+        "title": "SEC Moves to Nix Rule on Adviser Political Donations",
+        "summary": "Investment advisers would no longer be prohibited from offering services to public pension funds if they made recent political donations to state and local elected officials, the Securities and Exchange Commission said in a proposed rule change Thursday.",
+        "source": "Bloomberg",
+        "published": "2026-09-03T21:12:23+00:00",
+        "published_display": "09月04日 04:12",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-03/sec-moves-to-nix-rule-on-investment-adviser-political-donations",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "32937c54ee28",
+        "title": "Australia’s Battered Bonds Have Reasons to Rebound, Funds Say",
+        "summary": "Australia’s bonds, caught up in the global fixed-income selloff, have seen their yields rise more than any of their peers in the past month, despite arguments that the country’s finances are in much better shape.",
+        "source": "Bloomberg",
+        "published": "2026-09-03T21:00:00+00:00",
+        "published_display": "09月04日 04:00",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-03/australia-s-battered-bonds-have-reasons-to-rebound-funds-say",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "e3e3153bf252",
+        "title": "Wine Distributor Stephen Burton Gets Prison Term in Rare Vintage Scam",
+        "summary": "The founder of a London wine-distribution business was sentenced in the US to six years in prison for orchestrating a scam that cost investors almost $100 million and was based on bottles of rare vintages that didn’t exist.",
+        "source": "Bloomberg",
+        "published": "2026-09-03T20:24:19+00:00",
+        "published_display": "09月04日 03:24",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-03/wine-fraudster-gets-6-years-in-prison-for-97-million-loan-scam",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "12729f6795e7",
+        "title": "IMF Mulls Opening Caracas Office as Venezuela Engagement Deepens",
+        "summary": "The International Monetary Fund is considering opening a local office in Venezuela, establishing permanent representation in the country for the first time in years, according to people familiar with the matter.",
+        "source": "Bloomberg",
+        "published": "2026-09-03T20:08:56+00:00",
+        "published_display": "09月04日 03:08",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-03/imf-mulls-opening-caracas-office-as-venezuela-engagement-deepens",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "ce2725fcfc23",
+        "title": "Industry Urges SEC to Keep Existing Rules for Novel ETFs",
+        "summary": "As the regulator mulls next steps, it’s worth looking at how all of this played out in South Korea",
+        "source": "Bloomberg",
+        "published": "2026-09-03T19:49:15+00:00",
+        "published_display": "09月04日 02:49",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-09-03/industry-urges-sec-to-keep-existing-rules-for-novel-etfs",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "fda817cd9e9f",
+        "title": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo",
+        "summary": "Bartiromo had been a host at the network for more than a decade and Fox gave no explanation for the decision Fox News Media on Thursday abruptly ousted one of its most well-known hosts and anchors, Maria Bartiromo, without providing an explanation. “Effective today, Maria Bartiromo is no longer with FOX News Media,” the network said in a press release, adding in a statement: “We thank Maria for her work over the…",
+        "source": "The Guardian Business",
+        "published": "2026-09-03T18:20:24+00:00",
+        "published_display": "09月04日 01:20",
+        "url": "https://www.theguardian.com/media/2026/sep/03/maria-bartiromo-fox-news-departure",
+        "category": "finance",
+        "priority": 4
+      },
+      {
+        "id": "9814589d83ea",
+        "title": "Thieves steal more than 70,000 pints’ worth of Guinness from depot in Cheshire",
+        "summary": "Police say two lorries were driven into industrial estate in Runcorn and attached to trailers holding about 800 barrels The famous tagline “Guinness is good for you” applies only when the drink is bought and paid for, police have said, after thieves made off with more than 70,000 pints’ worth in Cheshire. Officers said they believed two lorries were driven into a depot in Runcorn on Monday and attached to waiting…",
+        "source": "The Guardian Business",
+        "published": "2026-09-03T17:18:45+00:00",
+        "published_display": "09月04日 00:18",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/03/thieves-steal-guinness-depot-cheshire-runcorn",
+        "category": "finance",
+        "priority": 4
+      },
+      {
+        "id": "fcbfa6057eb4",
+        "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
+        "summary": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips Nvidia will buy the popular developer platform Hugging Face for nearly $13bn, betting that support for ⁠open AI models could offset a potential slowdown in demand for the semiconductor giant’s chips. Shares ⁠in Nvidia were ⁠slightly lower ​after the $12.93bn (£9.57bn) deal – which ranks among its biggest…",
+        "source": "The Guardian Business",
+        "published": "2026-09-03T16:59:56+00:00",
+        "published_display": "09月03日 23:59",
+        "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+        "category": "finance",
+        "priority": 4
+      }
+    ],
+    "technology": [
+      {
+        "id": "fb1390ac1e26",
+        "title": "Oura files to go public",
+        "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
+        "source": "TechCrunch",
+        "published": "2026-09-03T22:35:41+00:00",
+        "published_display": "09月04日 05:35",
+        "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "ae48b92cce6c",
+        "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+        "summary": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+        "source": "TechCrunch",
+        "published": "2026-09-03T22:18:30+00:00",
+        "published_display": "09月04日 05:18",
+        "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "8c0cff03f8ea",
+        "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+        "summary": "CDC staff had already accepted the measles death reports when RFK Jr.",
+        "source": "Ars Technica",
+        "published": "2026-09-03T22:13:50+00:00",
+        "published_display": "09月04日 05:13",
+        "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "41b21381156f",
+        "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+        "summary": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
+        "source": "Ars Technica",
+        "published": "2026-09-03T21:10:59+00:00",
+        "published_display": "09月04日 04:10",
+        "url": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "20ef75d3d9a4",
+        "title": "Startup ARR is less secure than ever, new research shows",
+        "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+        "source": "TechCrunch",
+        "published": "2026-09-03T20:59:23+00:00",
+        "published_display": "09月04日 03:59",
+        "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "7ec0a10fb9cd",
+        "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+        "summary": "Researchers now have clear new targets and insights for developing a Shigella vaccine.",
+        "source": "Ars Technica",
+        "published": "2026-09-03T20:14:48+00:00",
+        "published_display": "09月04日 03:14",
+        "url": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "cfb13aee34b6",
+        "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+        "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+        "source": "Ars Technica",
+        "published": "2026-09-03T19:52:06+00:00",
+        "published_display": "09月04日 02:52",
+        "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "209429cc4ba4",
+        "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+        "summary": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
+        "source": "TechCrunch",
+        "published": "2026-09-03T19:42:48+00:00",
+        "published_display": "09月04日 02:42",
+        "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "c64eb229e8d2",
+        "title": "Supreme Court urged to let states regulate sports bets on prediction markets",
+        "summary": "Circuit split raised the odds that SCOTUS will rule on Kalshi fight against states.",
+        "source": "Ars Technica",
+        "published": "2026-09-03T19:42:02+00:00",
+        "published_display": "09月04日 02:42",
+        "url": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "262a0d0fa888",
+        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+        "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+        "source": "TechCrunch",
+        "published": "2026-09-03T19:36:29+00:00",
+        "published_display": "09月04日 02:36",
+        "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation",
+        "category": "technology",
+        "priority": 3
+      }
+    ],
+    "domestic": [
+      {
+        "id": "95f0004f485f",
+        "title": "广东省在香港发行离岸人民币地方政府债券75亿元",
+        "summary": "中新社广州9月3日电 (记者 许青青)据广东省财政厅3日晚消息，当日，广东省在香港特别行政区成功发行2026年离岸人民币地方政府债券75亿元，这是广东省连续第三年在香港发行地方政府债券并在香港联合交易所挂牌上市，持续推进粤港澳大湾区金融市场互联互通。",
+        "source": "中国新闻网·财经",
+        "published": "2026-09-03T22:32:07+00:00",
+        "published_display": "09月04日 05:32",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-04/10689976.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "cea8e295fa53",
+        "title": "丁薛祥出席第十一届东方经济论坛全会并致辞",
+        "summary": "中新社符拉迪沃斯托克9月3日电 当地时间9月3日，中共中央政治局常委、国务院副总理丁薛祥在俄罗斯符拉迪沃斯托克出席第十一届东方经济论坛全会，并发表题为“深化中俄地区合作 增进两国人民福祉”的致辞。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-03T22:29:47+00:00",
+        "published_display": "09月04日 05:29",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-04/10689975.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "65adab80eb0c",
+        "title": "应急管理部调派央企力量全力支持吉隆泥石流灾害抢险救援",
+        "summary": "西藏日喀则市吉隆县泥石流灾害发生后，应急管理部迅速调派中央企业工程应急救援力量796人、522台(套)装备驰援西藏，在现场指挥部统一指挥下，协同开展排查搜救、道路抢通、风险监测等抢险救援工作。此外，中交集团、中国中铁还选派7名隧道专家赴尼泊尔灾区协助开展隧道救援工作。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-03T16:03:33+00:00",
+        "published_display": "09月03日 23:03",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-04/10689974.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "0a16636287e0",
+        "title": "史前甘肃人群为何形成独特遗传演化和社会结构？古基因组研究揭示",
+        "summary": "中新网北京9月3日电 (记者 孙自法)甘肃地区位于中国黄土高原、青藏高原、蒙古高原三大地理单元交汇地带，在亚欧史前交流特别是农牧业交流进程中扮演了重要的枢纽角色。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-03T15:01:41+00:00",
+        "published_display": "09月03日 22:01",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689968.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "afcd786e262f",
+        "title": "【讲习所·中国与世界】习近平以4点主张推动上合组织实现更高质量发展",
+        "summary": "【本期导读】",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-03T14:57:28+00:00",
+        "published_display": "09月03日 21:57",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689967.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "0715fac53047",
+        "title": "AI短剧刷来刷去都是同一张脸 是技术难题还是创作取舍？",
+        "summary": "今年，AI短剧可谓十分火爆。今年1月至5月，AI短剧市场规模已突破220亿元，全年有望冲击400亿元大关；国内AI短剧用户在上半年突破6亿；一季度全行业上线的微短剧中，AI微短剧占比超过95%。产量井喷、用户暴增。但打开手机刷上几部，很多人却陷入了困惑：这部女主杏仁眼花瓣唇，换一部还是杏仁眼花瓣唇，再换一部，五官几乎一模一样。刷来刷去都是相似的AI面孔，不同剧集撞脸、同一部剧里角色五官高度趋同，精致却缺少记忆点，带来强烈审美疲劳。",
+        "source": "中国新闻网·财经",
+        "published": "2026-09-03T14:54:06+00:00",
+        "published_display": "09月03日 21:54",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689966.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "8023577ed7dc",
+        "title": "韩国光州双年展主办方顽固坚持错误做法 中方已提出严正交涉",
+        "summary": "中新社北京9月3日电 (记者 张素)中国外交部发言人郭嘉昆3日表示，韩国光州双年展主办方顽固坚持错误做法，纵容中国台湾地区使用完全不符合其身份的名称参展，公然违反一个中国原则，中方对此坚决反对，并已向韩方提出严正交涉。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-03T14:48:42+00:00",
+        "published_display": "09月03日 21:48",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689961.shtml",
+        "category": "domestic",
+        "priority": 5
+      }
+    ],
+    "other": [
+      {
+        "id": "3775f458cdfb",
+        "title": "BBC Inside Science",
+        "summary": "Researchers may have discovered the signature of a bit of dark matter.",
+        "source": "BBC Science",
+        "published": "2026-09-03T20:00:00+00:00",
+        "published_display": "09月04日 03:00",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct9783?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "cf32d35d4381",
+        "title": "Rich people more likely to steal children’s sweets, finds Ig Nobel prize-winning study",
+        "summary": "We round up this year’s winners at awards for achievements that ‘first make people laugh and then make them think’ It’s that time of year again: a select group of scientists have been summoned to a ceremony to receive coveted prizes, be showered in paper planes, and leave with a 10tn dollar bill, albeit in the form of a phased-out note from Zimbabwe. It is, of course, the annual Ig Nobel awards. Not to be…",
+        "source": "The Guardian Science",
+        "published": "2026-09-03T17:00:43+00:00",
+        "published_display": "09月04日 00:00",
+        "url": "https://www.theguardian.com/science/2026/sep/03/ig-nobel-prize-awards-2026-winners",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "39275c620496",
+        "title": "How the brain of a fly may help explain human behaviour",
+        "summary": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours.",
+        "source": "BBC Science",
+        "published": "2026-09-03T15:01:41+00:00",
+        "published_display": "09月03日 22:01",
+        "url": "https://www.bbc.co.uk/news/articles/cqjkd2ylq1yo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "107a20e98b52",
+        "title": "Invasive tropical mosquito found breeding in east London",
+        "summary": "Climate crisis could increase incursions of Aedes aegypti, which can transmit Zika virus and dengue, experts say An mosquito capable of transmitting tropical diseases has been found breeding in homes in east London, with experts warning that the rapidly warming climate will lead to greater “incursions of invasive mosquitoes”. This is the first time the species has been identified breeding in the UK and the fourth…",
+        "source": "The Guardian Science",
+        "published": "2026-09-03T12:51:53+00:00",
+        "published_display": "09月03日 19:51",
+        "url": "https://www.theguardian.com/environment/2026/sep/03/invasive-tropical-mosquito-breeding-london",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "82451c1d2d3b",
+        "title": "Stormy autumn, cold winter - how might El Niño affect the UK weather?",
+        "summary": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
+        "source": "BBC Science",
+        "published": "2026-09-03T09:13:54+00:00",
+        "published_display": "09月03日 16:13",
+        "url": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      }
+    ],
+    "curiosity": [
+      {
+        "id": "950527144859",
+        "title": "Hubble spots a mysterious 10-sided 'decagon' growing around Saturn's south pole",
+        "summary": "New Hubble observations have revealed a dramatic, 10-sided jet surrounding Saturn's south pole, and it appears to be evolving before our eyes. The Hubble Space Telescope recently snapped a high-resolution view of the striking \"atmospheric wave,\" which appears to have begun forming in 2023, archival Hubble images show. Scientists are curious about how this \"decagon\" popped up so quickly, given that Saturn's other…",
+        "source": "Live Science",
+        "published": "2026-09-03T21:27:00+00:00",
+        "published_display": "09月04日 04:27",
+        "url": "https://www.livescience.com/space/saturn/hubble-spots-a-mysterious-10-sided-decagon-growing-around-saturns-south-pole",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "af3db637f21e",
+        "title": "Lavish private bath used by Roman emperor and 'high-status residents' discovered at imperial palace in Serbia",
+        "summary": "Archaeologists excavating in eastern Serbia have discovered the remains of a lavish and uniquely constructed Roman bath that once belonged to an emperor. The suite of rooms ‪—‬ which included heated floors, three bathing pools and a sauna ‪—‬ was uncovered at the bottom of a tower within an imperial palace, a design archaeologists had never seen before in the Roman Empire . The bath complex, known in Latin as a…",
+        "source": "Live Science",
+        "published": "2026-09-03T20:20:28+00:00",
+        "published_display": "09月04日 03:20",
+        "url": "https://www.livescience.com/archaeology/romans/lavish-private-bath-used-by-roman-emperor-and-high-status-residents-discovered-at-imperial-palace-in-serbia",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "191f76a7b7d6",
+        "title": "Scientists Recreated the Long-Lost Chirps of Jurassic Insects. Listen to the Simulated Soundscape of 165 Million Years Ago",
+        "summary": "With artificial intelligence and careful modeling of fossilized wings, researchers reproduced how some extinct, katydid-like insects might have made noise",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-03T20:08:40+00:00",
+        "published_display": "09月04日 03:08",
+        "url": "https://www.smithsonianmag.com/smart-news/scientists-recreated-the-long-lost-chirps-of-jurassic-insects-listen-to-the-simulated-soundscape-of-165-million-years-ago-180989445",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "ce73fe36fc0f",
+        "title": "A Lake in Canada Got a Mysterious New Island. Then, It Disappeared—and Now It's Back",
+        "summary": "The floating forest appeared in a well-mapped reservoir in British Columbia. Its presence and vanishing act have puzzled locals and officials at the power utility that operates the lake, but other similar islands exist elsewhere",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-03T19:15:52+00:00",
+        "published_display": "09月04日 02:15",
+        "url": "https://www.smithsonianmag.com/smart-news/a-lake-in-canada-got-a-mysterious-new-island-then-it-disappeared-and-now-its-back-180989442",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "b67ac91b0e00",
+        "title": "A Mysterious Decagon Unexpectedly Appeared Around Saturn's South Pole. The Ten-Sided Shape Seems to Be a Wave in the Atmosphere",
+        "summary": "Decades ago, scientists found a hexagon around Saturn’s north pole. Now, recent images reveal a decagon in the planet’s southern hemisphere—and it seems to have recently formed",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-03T19:01:23+00:00",
+        "published_display": "09月04日 02:01",
+        "url": "https://www.smithsonianmag.com/smart-news/a-mysterious-decagon-unexpectedly-appeared-around-saturns-south-pole-the-ten-sided-shape-seems-to-be-a-wave-in-the-atmosphere-180989449",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "246145c6e8e6",
+        "title": "'The apple you eat isn't the apple your granddaughter will eat': What's on the menu in a warming world?",
+        "summary": "Burning Up As the planet warms, our environment will be transformed, but so will our bodies. In this series, we investigate the health impacts of climate change, focusing on heat , air quality , food and infection risk. We also evaluate the promising solutions that could help us adapt to our warmer future.",
+        "source": "Live Science",
+        "published": "2026-09-03T16:00:00+00:00",
+        "published_display": "09月03日 23:00",
+        "url": "https://www.livescience.com/planet-earth/climate-change/the-apple-you-eat-isnt-the-apple-your-granddaughter-will-eat-whats-on-the-menu-in-a-warming-world",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "6dc4913836cd",
+        "title": "Palm Temple in Bristol, England",
+        "summary": "Bristol has no shortage of churches, but one of its strangest temples is devoted to nature. Outside the University of Bristol’s School of Chemistry, artist Luke Jerram’s Palm Temple resembles a futuristic chapel made of wood and stained glass. Created in 2020 to celebrate the 600th anniversary of Brunelleschi’s famous dome in Florence, it eventually found a permanent home in Jerram’s native Bristol, where he…",
+        "source": "Atlas Obscura",
+        "published": "2026-09-03T16:00:00+00:00",
+        "published_display": "09月03日 23:00",
+        "url": "https://www.atlasobscura.com/places/palm-temple",
+        "category": "curiosity",
+        "priority": 3
+      },
+      {
+        "id": "1d044f38cc38",
+        "title": "从“单一观光”到“多元沉浸” 大同火山群解锁文旅融合新路径",
+        "summary": "中新网大同9月3日电(马静波 丁宏伟)“带着孩子们实地探访火山地貌，远比书本上的讲解更加直观生动，既能休闲游玩，又能增长见识。”日前，来自新加坡的朱女士夫妇，带着三个孩子专程来到山西省大同市云州区火山地质公园，沉浸式感受独具特色的地质文化。",
+        "source": "中国新闻网·社会",
+        "published": "2026-09-03T14:23:21+00:00",
+        "published_display": "09月03日 21:23",
+        "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689926.shtml",
+        "category": "curiosity",
+        "priority": 5
+      }
+    ]
+  },
+  "history": [
+    "2026-09-04",
+    "2026-09-03",
+    "2026-09-02",
+    "2026-09-01",
+    "2026-08-31",
+    "2026-08-30",
+    "2026-08-29"
+  ],
+  "source_failures": []
+}
