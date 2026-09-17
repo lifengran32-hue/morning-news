@@ -1,0 +1,580 @@
+{
+  "date": "2026-09-18",
+  "date_display": "2026年09月18日 · 星期五",
+  "updated": "2026-09-18T06:00:58.490061+07:00",
+  "updated_display": "06:00",
+  "sections": {
+    "international": [
+      {
+        "id": "5f18a2599794",
+        "title": "Australia news live: OpenAI warns Labor about global security threats; Albanese to meet Apple’s Tim Cook in US",
+        "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Australia needs to slow down its artificial intelligence use and create better security laws, the companies creating the technology have told the federal government. In a submission to an ongoing inquiry, OpenAI said national leaders had a responsibility to work with other countries to stop global security threats: Many of the…",
+        "source": "The Guardian",
+        "published": "2026-09-17T22:49:37+00:00",
+        "published_display": "09月18日 05:49",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "8a5d075aa2f8",
+        "title": "Man who sprayed Ilhan Omar with vinegar sentenced to 14 months",
+        "summary": "Anthony Kazmierczak agreed plea deal over January town-hall attack that came amid Minneapolis ICE crackdown The man who sprayed vinegar at Democratic US House member Ilhan Omar during a Minneapolis town hall was sentenced Thursday to 14 months in prison after reaching a deal with prosecutors. The sentencing of 56-year-old Anthony Kazmierczak came nearly eight months after the 27 January assault. At the time,…",
+        "source": "The Guardian",
+        "published": "2026-09-17T22:48:57+00:00",
+        "published_display": "09月18日 05:48",
+        "url": "https://www.theguardian.com/us-news/2026/sep/17/man-sentenced-ilhan-omar-vinegar-minneapolis",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "e199eb5285b5",
+        "title": "YouTube star Ms Rachel to match Macklemore’s $1m Palestine aid donation",
+        "summary": "Educator talks of ‘moral obligation’ and urges ‘every wealthy white celebrity’ to make similar donation YouTube star Ms Rachel has said she is matching rapper Macklemore’s $1m donation to organizations supporting Palestinians, calling on other public figures to follow suit. Macklemore, who was fired as the opening act on Ed Sheeran’s tour after saying “Free Palestine” on stage at New Jersey’s MetLife Stadium,…",
+        "source": "The Guardian",
+        "published": "2026-09-17T22:39:49+00:00",
+        "published_display": "09月18日 05:39",
+        "url": "https://www.theguardian.com/culture/2026/sep/17/ms-rachel-macklemore-palestine-donation",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "1f36c98f0e7d",
+        "title": "Democratic candidates hold narrow leads in Texas and Michigan US Senate races, new poll shows – live",
+        "summary": "James Talarico and Abdul El-Sayed are ahead – but by a razor-thin margin, according to a new poll from Emerson College and The Hill Sign up for the US Breaking News email Maria Elvira Salazar, a Republican congresswoman from South Florida, made a rare public break with President Trump in a new ad, pushing back against Trump’s hardline immigration policy. President, some of your immigration enforcement efforts…",
+        "source": "The Guardian",
+        "published": "2026-09-17T22:21:36+00:00",
+        "published_display": "09月18日 05:21",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/17/donald-trump-democrats-republicans-russia-sanctions-us-politics-latest-news",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "2e2e41aed5ad",
+        "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
+        "summary": "Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge.",
+        "source": "Al Jazeera",
+        "published": "2026-09-17T22:12:22+00:00",
+        "published_display": "09月18日 05:12",
+        "url": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "662c0d16c558",
+        "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
+        "summary": "The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it.",
+        "source": "Al Jazeera",
+        "published": "2026-09-17T21:42:31+00:00",
+        "published_display": "09月18日 04:42",
+        "url": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "f2796f02c79a",
+        "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+        "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+        "source": "BBC News",
+        "published": "2026-09-17T21:41:19+00:00",
+        "published_display": "09月18日 04:41",
+        "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "086ba3b32a24",
+        "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+        "summary": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis.",
+        "source": "Al Jazeera",
+        "published": "2026-09-17T21:38:17+00:00",
+        "published_display": "09月18日 04:38",
+        "url": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "a98a1bda06a2",
+        "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
+        "summary": "Iran's delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases.",
+        "source": "Al Jazeera",
+        "published": "2026-09-17T21:20:57+00:00",
+        "published_display": "09月18日 04:20",
+        "url": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "03fdd9456058",
+        "title": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
+        "summary": "The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread.",
+        "source": "Al Jazeera",
+        "published": "2026-09-17T21:08:51+00:00",
+        "published_display": "09月18日 04:08",
+        "url": "https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      }
+    ],
+    "finance": [
+      {
+        "id": "02c36252ec24",
+        "title": "Asian Stocks to Gain on Lower Oil, US Bonds Rally: Markets Wrap",
+        "summary": "Asian stocks and bonds were set to rise, tracking a Wall Street rally as a pullback in oil prices eased inflation concerns and helped revive appetite for risk. The yen was steady ahead of the Bank of Japan’s rate decision.",
+        "source": "Bloomberg",
+        "published": "2026-09-17T22:14:33+00:00",
+        "published_display": "09月18日 05:14",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-17/stock-market-today-dow-s-p-live-updates",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "eac6194c0498",
+        "title": "Latest Oil Market News and Analysis for Sept. 18",
+        "summary": "Oil dropped for a third day as supply concerns eased and traders looked to the next round of diplomacy that’ll shape the US-Iran war.",
+        "source": "Bloomberg",
+        "published": "2026-09-17T22:05:55+00:00",
+        "published_display": "09月18日 05:05",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-17/latest-oil-market-news-and-analysis-for-sept-18",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "cfcc26d111bc",
+        "title": "Councils to share £5m in 'emergency food aid' as living costs rise",
+        "summary": "The money from the Welsh government will amount to around £200,000 to every council.",
+        "source": "BBC Business",
+        "published": "2026-09-17T21:55:12+00:00",
+        "published_display": "09月18日 04:55",
+        "url": "https://www.bbc.co.uk/news/articles/c8dx5gvyle49o?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "287ddb818fa3",
+        "title": "DoubleLine’s Gundlach Warns of Fiscal Crisis in Next Recession",
+        "summary": "DoubleLine Capital chief executive Jeffrey Gundlach warned that the next US downturn could trigger a debt crisis that sends long-term Treasury yields sharply higher — defying decades of conventional wisdom that bonds will always serve as safe haven during times of economic strife.",
+        "source": "Bloomberg",
+        "published": "2026-09-17T21:32:50+00:00",
+        "published_display": "09月18日 04:32",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-17/doubleline-s-gundlach-warns-of-fiscal-crisis-in-next-recession",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "bfa9f9b96dcb",
+        "title": "Carry Trade Explained: Why the Japanese Yen Is Losing Its Appeal (JPY/USD)",
+        "summary": "For decades, the Japanese yen has been one of the world’s favored currencies for investors looking to borrow cheaply and put that money into assets offering higher returns.",
+        "source": "Bloomberg",
+        "published": "2026-09-17T21:21:22+00:00",
+        "published_display": "09月18日 04:21",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-17/carry-trade-explained-why-the-japanese-yen-is-losing-its-appeal-jpy-usd",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "521c703f73b8",
+        "title": "Japan’s Retail Bond Boom Offers New Avenue for Fiscal Funding",
+        "summary": "Japan’s rising yields are drawing record demand for retail government bonds, offering a potential new source of funding just as policymakers seek to contain borrowing costs and reduce market supply.",
+        "source": "Bloomberg",
+        "published": "2026-09-17T21:00:00+00:00",
+        "published_display": "09月18日 04:00",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-17/japan-s-retail-bond-boom-offers-new-avenue-for-fiscal-funding",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "c7c742a97dbf",
+        "title": "Suspended Glencore Executive Told Radiant ‘Say Nothing on Email’",
+        "summary": "A senior Glencore Plc executive last year urged counterparts at Radiant World not to communicate by email, according to WhatsApp messages from the company’s head of iron ore seen by Bloomberg News.",
+        "source": "Bloomberg",
+        "published": "2026-09-17T20:27:50+00:00",
+        "published_display": "09月18日 03:27",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-17/suspended-glencore-executive-told-radiant-say-nothing-on-email",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "83375a0bf2ac",
+        "title": "Braskem Creditors Shun Debt Plan, Push Owners to Inject Cash",
+        "summary": "Braskem SA’s bondholders are balking at a restructuring proposal presented by the petrochemical giant, increasing pressure on Petrobras to commit fresh capital into the business, according to people familiar with the matter.",
+        "source": "Bloomberg",
+        "published": "2026-09-17T20:26:26+00:00",
+        "published_display": "09月18日 03:26",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-17/braskem-creditors-shun-debt-plan-push-owners-to-inject-cash",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "a717ad38c6ae",
+        "title": "Mixed feelings from consumers as electricity discount to be given to NI households",
+        "summary": "The one-off £63 reduction in electricity bills will be applied from next month.",
+        "source": "BBC Business",
+        "published": "2026-09-17T17:00:01+00:00",
+        "published_display": "09月18日 00:00",
+        "url": "https://www.bbc.co.uk/news/articles/cjvgy5yqvpy2o?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "33548d90a155",
+        "title": "Barclays workers ask for more money to return to the office",
+        "summary": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
+        "source": "BBC Business",
+        "published": "2026-09-17T14:20:27+00:00",
+        "published_display": "09月17日 21:20",
+        "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      }
+    ],
+    "technology": [
+      {
+        "id": "9189e7913500",
+        "title": "PrismML hopes its tiny LLM will change how we all use AI",
+        "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+        "source": "TechCrunch",
+        "published": "2026-09-17T22:34:09+00:00",
+        "published_display": "09月18日 05:34",
+        "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "35989272d9e5",
+        "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+        "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+        "source": "TechCrunch",
+        "published": "2026-09-17T22:14:59+00:00",
+        "published_display": "09月18日 05:14",
+        "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "fa7a6021a71c",
+        "title": "The fix for rogue AI agents could be more AI",
+        "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+        "source": "TechCrunch",
+        "published": "2026-09-17T20:34:47+00:00",
+        "published_display": "09月18日 03:34",
+        "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "9688f7ffdee8",
+        "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+        "source": "TechCrunch",
+        "published": "2026-09-17T20:34:24+00:00",
+        "published_display": "09月18日 03:34",
+        "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "fb08b19e3092",
+        "title": "Is the AI safety debate about safety or control?",
+        "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+        "source": "TechCrunch",
+        "published": "2026-09-17T20:19:37+00:00",
+        "published_display": "09月18日 03:19",
+        "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "8cc4d0e567b1",
+        "title": "UN turns to Google to make its global data ready for AI agents",
+        "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+        "source": "TechCrunch",
+        "published": "2026-09-17T20:00:00+00:00",
+        "published_display": "09月18日 03:00",
+        "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "5ff94f8b654c",
+        "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+        "source": "TechCrunch",
+        "published": "2026-09-17T19:46:08+00:00",
+        "published_display": "09月18日 02:46",
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "e40b6f3a55b9",
+        "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
+        "summary": "The company suspended service in the city in April after one of its robotaxis got swept away.",
+        "source": "TechCrunch",
+        "published": "2026-09-17T18:30:30+00:00",
+        "published_display": "09月18日 01:30",
+        "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "5fa2e472f998",
+        "title": "Even the king of England has his hesitations about AI",
+        "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K.",
+        "source": "TechCrunch",
+        "published": "2026-09-17T17:26:25+00:00",
+        "published_display": "09月18日 00:26",
+        "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "f81776d6d410",
+        "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+        "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+        "source": "TechCrunch",
+        "published": "2026-09-17T17:15:59+00:00",
+        "published_display": "09月18日 00:15",
+        "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire",
+        "category": "technology",
+        "priority": 3
+      }
+    ],
+    "domestic": [
+      {
+        "id": "d3591a6f7269",
+        "title": "中国海军第48批护航编队访问孟加拉国",
+        "summary": "中国海军第48批护航编队17日抵达孟加拉国吉大港，开始为期5天的友好访问。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-17T21:52:36+00:00",
+        "published_display": "09月18日 04:52",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-18/10698620.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "c95010ad8c43",
+        "title": "古基因组清晰揭示：青铜时代东天山主体人群是东亚和北亚组合",
+        "summary": "中新网北京9月18日电 (记者 孙自法)中国新疆东天山是连接河西走廊及欧亚地区的重要通道，长期以来，考古学研究已在东天山青铜时代文化发现来自甘青、亚欧草原的多种文化因素，但一直缺乏系统的古基因组证据。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-17T18:09:02+00:00",
+        "published_display": "09月18日 01:09",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-18/10698617.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "b535502df700",
+        "title": "上合组织绿色产业发展合作区6个项目签约超29亿元",
+        "summary": "中新网天津9月17日电 (记者 周亚强)中国—上海合作组织绿色产业发展合作区6个重点项目16日在天津签约，总金额超29亿元。",
+        "source": "中国新闻网·财经",
+        "published": "2026-09-17T15:26:56+00:00",
+        "published_display": "09月17日 22:26",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698591.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "7dd504d1269c",
+        "title": "2026北京民营企业百强系列榜单发布",
+        "summary": "中新社北京9月17日电 (记者 杜燕)2026北京民营企业百强系列榜单17日揭晓，包括“北京民营企业百强”一个主榜单，以及科技创新百强、文化产业百强、专精特新百强3个分榜单，并首次发布未来产业先锋榜。",
+        "source": "中国新闻网·财经",
+        "published": "2026-09-17T15:20:05+00:00",
+        "published_display": "09月17日 22:20",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698600.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "d1b2c1d4ba38",
+        "title": "2026“书香宝岛行”图书与版权展销会在台北启幕",
+        "summary": "中新社台北9月17日电 (记者 朱贺)由两岸出版机构、协会联合主办的2026“书香宝岛行”图书与版权展销会(台北站)17日在台北启幕，携8000余种图书与读者见面。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-17T15:19:19+00:00",
+        "published_display": "09月17日 22:19",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-17/10698599.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "b44a93b294b7",
+        "title": "四川面向台湾青年发布400余个就业岗位",
+        "summary": "中新社成都9月17日电 (记者 王鹏)2026两岸(川渝)青年就业创业发展交流会17日在成都高新区举办，四川面向台湾青年正式发布403个就业岗位。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-17T15:18:41+00:00",
+        "published_display": "09月17日 22:18",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-17/10698597.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "519f7f6e24fd",
+        "title": "长三角生物医药联盟成立",
+        "summary": "中新社温州9月17日电 (钱晨菲)17日，由长三角三省一市欧美同学会共同主办的2026第五届长三角海归智库论坛在浙江温州开幕。活动期间，长三角生物医药联盟正式成立，将围绕技术攻关、人才培养、项目落地等方面开展深度合作。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-17T15:17:37+00:00",
+        "published_display": "09月17日 22:17",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-17/10698594.shtml",
+        "category": "domestic",
+        "priority": 5
+      }
+    ],
+    "other": [
+      {
+        "id": "58f696cfdce7",
+        "title": "BBC Inside Science",
+        "summary": "Might the UK and US joining their AI forces help solve nuclear fusion?",
+        "source": "BBC Science",
+        "published": "2026-09-17T20:00:00+00:00",
+        "published_display": "09月18日 03:00",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct9785?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "62b7ac1c934d",
+        "title": "Repeat offender fined for searching for gold in protected river",
+        "summary": "Brian Wright, 68, from Henley-upon-Thames, was caught gold panning on a protected river in north Wales.",
+        "source": "BBC Science",
+        "published": "2026-09-17T16:14:40+00:00",
+        "published_display": "09月17日 23:14",
+        "url": "https://www.bbc.co.uk/news/articles/c620lz12d1l7o?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "a25ebd09a69e",
+        "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
+        "summary": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month.",
+        "source": "BBC Science",
+        "published": "2026-09-17T10:31:35+00:00",
+        "published_display": "09月17日 17:31",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "22b50f0a55f3",
+        "title": "The farmer who turned to singing after bovine TB silenced his fields",
+        "summary": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB.",
+        "source": "BBC Science",
+        "published": "2026-09-17T10:01:43+00:00",
+        "published_display": "09月17日 17:01",
+        "url": "https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "59d08a587cbc",
+        "title": "Take good care of your tailbone. I didn’t – and my derriere has never been the same since | Adrian Chiles",
+        "summary": "My coccyx still hurts from an extreme cycling challenge almost two decades ago. Is there anything it’s good for? ‘Welcome to middle age.” This is what my GP said to me 10 years ago when I asked her why I needed this pill or that.",
+        "source": "The Guardian Science",
+        "published": "2026-09-17T10:00:46+00:00",
+        "published_display": "09月17日 17:00",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/17/take-good-care-of-your-tailbone-i-didnt-my-derriere-has-never-been-the-same",
+        "category": "other",
+        "priority": 3
+      }
+    ],
+    "curiosity": [
+      {
+        "id": "89b5ac5e9e1c",
+        "title": "Scientists Created Mice With Half-Human Brains. The Hybrid Animals Could Revolutionize Our Understanding of Neurological Disorders",
+        "summary": "Our brains and their associated diseases are notoriously hard to study. So, researchers developed an animal model with a cortex—the brain’s outer layer—grown from human-derived cells",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-17T20:16:55+00:00",
+        "published_display": "09月18日 03:16",
+        "url": "https://www.smithsonianmag.com/smart-news/scientists-created-mice-with-half-human-brains-the-hybrid-animals-could-revolutionize-our-understanding-of-neurological-disorders-180989518",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "d2820acf4ef5",
+        "title": "A space shark, 'royal' auroras and a 'Venusian pearl': See the winners of the 2026 ZWO Astronomy Photographer of the Year contest",
+        "summary": "A picture of a distant, shark-shaped cloud of gas in space has earned the top prize in a Royal Observatory Greenwich contest for amateur space photographers. Dubbed \"The Quiet Predator,\" the image by skywatcher Ali Alobaidly shows off the Shark Nebula (LDN 1235), which is roughly 650 light-years from Earth in the constellation Cepheus (the Whale). (For perspective, the nearest star system to our planet is only…",
+        "source": "Live Science",
+        "published": "2026-09-17T18:30:00+00:00",
+        "published_display": "09月18日 01:30",
+        "url": "https://www.livescience.com/space/astronomy/a-space-shark-royal-auroras-and-a-venusian-pearl-see-the-winners-of-the-2026-zwo-astronomy-photographer-of-the-year-contest",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "610d4457f342",
+        "title": "Scientists identify rare genetic mutation that dramatically raises risk of lung cancer in nonsmokers",
+        "summary": "Scientists have identified an inherited genetic mutation that greatly increases the risk of lung cancer, even in people who have never smoked. The mutation involves the EGFR gene , which helps control cells' growth, division and survival. People who had never smoked and who had the genetic mutation — called EGFR T790M — were 62 times more likely to develop lung cancer than nonsmokers without the mutation,…",
+        "source": "Live Science",
+        "published": "2026-09-17T18:27:36+00:00",
+        "published_display": "09月18日 01:27",
+        "url": "https://www.livescience.com/health/cancer/scientists-identify-rare-genetic-mutation-that-dramatically-raises-risk-of-lung-cancer-in-nonsmokers",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "a8db91052368",
+        "title": "This million-year-old 'baby planet' is the youngest world scientists have ever discovered",
+        "summary": "A \"baby\" exoplanet, discovered emerging from its cosmic cocoon around a nearby star, is the youngest alien world ever seen, a new study reveals. The planetary infant is less than 1 million years old and could help researchers study how other planets, including our own, took shape. The juvenile world, dubbed Elias 2-24 b , orbits a newly formed star around 450 light-years from Earth.",
+        "source": "Live Science",
+        "published": "2026-09-17T18:10:12+00:00",
+        "published_display": "09月18日 01:10",
+        "url": "https://www.livescience.com/space/exoplanets/this-million-year-old-baby-planet-is-the-youngest-world-scientists-have-ever-discovered",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "9ca719900faf",
+        "title": "'Predatory behavior': Elite mathematicians clash over OpenAI's 'solution' to million-dollar math problem",
+        "summary": "HEIDELBERG, Germany — Often considered the slowest, most methodical and most abstract of the sciences, mathematics usually advances so incrementally and esoterically that it rarely troubles the mainstream media. It was therefore with some discomfort that a panel of elite mathematicians took to the stage Sept. 15 here at the Heidelberg Laureate Forum , a conference that unites young researchers with award-winning…",
+        "source": "Live Science",
+        "published": "2026-09-17T15:25:53+00:00",
+        "published_display": "09月17日 22:25",
+        "url": "https://www.livescience.com/physics-mathematics/mathematics/predatory-behavior-elite-mathematicians-clash-over-openais-solution-to-million-dollar-math-problem",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "8a228cf90d53",
+        "title": "Billions of Years Ago, Venus May Have Had a Moon—Which the Planet Promptly Gobbled Up, Study Suggests",
+        "summary": "Scientists have puzzled over why the planet dubbed \"Earth's twin\" doesn't have a moon. Computer simulations hint that if Venus ever did have one, it probably would've cannibalized its companion",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-17T15:00:00+00:00",
+        "published_display": "09月17日 22:00",
+        "url": "https://www.smithsonianmag.com/smart-news/billions-of-years-ago-venus-may-have-had-a-moon-which-the-planet-promptly-gobbled-up-study-suggests-180989510",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "8b5eb554a9a1",
+        "title": "A Rare Marble Sculpture by America’s First Professional Female Sculptor Sat Hidden in Plain Sight for Decades in an English Garden",
+        "summary": "Until its discovery during a house appraisal, the debut bust by Harriet Goodhue Hosmer, a celebrated artist and feminist icon, had been mistaken for an ordinary garden ornament",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-17T14:30:00+00:00",
+        "published_display": "09月17日 21:30",
+        "url": "https://www.smithsonianmag.com/smart-news/a-rare-marble-sculpture-by-americas-first-professional-female-sculptor-sat-hidden-in-plain-sight-for-decades-in-english-garden-180989508",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "68fe618b21ae",
+        "title": "中国热河生物群发现新种恐龙昌黎凯拉神龙 镰刀龙类体型最大",
+        "summary": "中新网北京9月17日电 (记者 孙自法)记者9月17日从中国科学院古脊椎动物与古人类研究所(古脊椎所)获悉，该所徐星院士团队最近在热河生物群发现一新种镰刀龙类恐龙化石，命名为昌黎凯拉神龙。",
+        "source": "中国新闻网·社会",
+        "published": "2026-09-17T14:01:02+00:00",
+        "published_display": "09月17日 21:01",
+        "url": "https://www.chinanews.com.cn/sh/2026/09-17/10698545.shtml",
+        "category": "curiosity",
+        "priority": 5
+      }
+    ]
+  },
+  "history": [
+    "2026-09-18",
+    "2026-09-17",
+    "2026-09-16",
+    "2026-09-15",
+    "2026-09-14",
+    "2026-09-13",
+    "2026-09-12"
+  ],
+  "source_failures": []
+}
