@@ -1,0 +1,580 @@
+{
+  "date": "2026-09-24",
+  "date_display": "2026年09月24日 · 星期四",
+  "updated": "2026-09-24T06:01:07.517905+07:00",
+  "updated_display": "06:01",
+  "sections": {
+    "international": [
+      {
+        "id": "a2b347563e49",
+        "title": "News live: OECD says Australia will struggle to get inflation below 3%; Victoria to allow dogs in pubs under Labor election promise",
+        "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast More than 600 Qantas ground crew workers have begun a 24-hour strike this morning across the country over an escalating industrial dispute. Qantas said that it has contingency plans in place and any impacts would be felt primarily by the airline’s freight and regional QantasLink services. We remain focused on reaching an…",
+        "source": "The Guardian",
+        "published": "2026-09-23T22:59:34+00:00",
+        "published_display": "09月24日 05:59",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "8ff1f96c6d43",
+        "title": "Trump greets Xi Jinping at plane as Chinese leader arrives for state visit",
+        "summary": "US president to give red-carpet treatment to Chinese counterpart despite tensions over AI development Trump greets Xi – live updates AI looms large over Trump-Xi meeting amid US-China distrust Donald Trump welcomed Xi Jinping on Wednesday evening, taking the unusual step of greeting the Chinese leader on the tarmac at Joint Base Andrews to kick off his state visit to Washington. Xi’s plane was met with a lavish…",
+        "source": "The Guardian",
+        "published": "2026-09-23T22:59:08+00:00",
+        "published_display": "09月24日 05:59",
+        "url": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "362e5c95a31b",
+        "title": "RFK Jr received $4m in book advances from Maha allies over past year",
+        "summary": "In 2024 ethics filing, US health secretary pledged to ‘not engage in writing, editing, marketing or promotional services for any of these books during government service’ Robert F Kennedy Jr, the US health secretary, received $4m over the last year in book advances from allies within the Make America Healthy Again movement, according to a new report. The advances were for upcoming books by Skyhorse Publishing, a…",
+        "source": "The Guardian",
+        "published": "2026-09-23T22:56:04+00:00",
+        "published_display": "09月24日 05:56",
+        "url": "https://www.theguardian.com/us-news/2026/sep/23/rfk-jr-maha-book-advances",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "8f1c017c9a4c",
+        "title": "Trump greets Xi Jinping at airport in rare personal welcome ahead of high stakes US-China summit – live",
+        "summary": "The US president travelled to Joint Base Andrews to meet the Chinese leader, ahead of a meeting set to be dominated by trade, AI and the Iran war Trump greets Xi Jinping at plane as Chinese leader arrives for state visit These latest attacks come just hours before Volodymyr Zelenskyy’s address to the UN general assembly, so he is likely to reflect on them during his UN speech later. So far, we have had no public…",
+        "source": "The Guardian",
+        "published": "2026-09-23T22:50:59+00:00",
+        "published_display": "09月24日 05:50",
+        "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "3f45f3464adb",
+        "title": "Senator confirms ‘eight suicide attempts’ by US Navy personnel assigned to USS Abraham Lincoln carrier group – live",
+        "summary": "Kirsten Gillibrand says acting US Navy secretary told her of attempted suicides after carrier strike group’s lengthy deployment as part of US war in Iran Sign up for US Breaking News emails Rubio also briefly addressed Trump’s meeting with Delcy Rodriguez, the interim Venezuelan president, who last night posed for a friendly photo with Trump at a Manhattan hotel only miles from where her predecessor, Nicolás…",
+        "source": "The Guardian",
+        "published": "2026-09-23T22:44:08+00:00",
+        "published_display": "09月24日 05:44",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "79cc9ae70b61",
+        "title": "Three charged with assault after anti-migration protests in Hampshire",
+        "summary": "Hundreds gathered on Tuesday night in anticipation of a small boat arriving in Gosport Three people have been charged in connection with anti-migrant protests that drew hundreds of demonstrators to a marina in Hampshire on Tuesday night. Six people were arrested by police, as anti-migrant activists who mistakenly believed a small boat was due to arrive at Gosport gathered in an attempt to disrupt the arrival of…",
+        "source": "The Guardian",
+        "published": "2026-09-23T22:41:27+00:00",
+        "published_display": "09月24日 05:41",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/23/gosport-people-charged-anti-migration-protests",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "a23f76d1ffbb",
+        "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+        "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+        "source": "BBC News",
+        "published": "2026-09-23T22:23:28+00:00",
+        "published_display": "09月24日 05:23",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "29e781823534",
+        "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+        "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+        "source": "BBC News",
+        "published": "2026-09-23T22:01:17+00:00",
+        "published_display": "09月24日 05:01",
+        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "b8bb4109dd1e",
+        "title": "Millions in England unaware they have ‘silent killer’ condition, research reveals",
+        "summary": "Approach to treating high blood pressure ‘not fit for purpose’, say researchers, with 59% of cases undiagnosed Only half of people being treated by a GP for high blood pressure in England have it under control, and millions more are completely unaware they have the “silent killer” condition, research reveals. Most people with hypertension (59%) are in the dark and undiagnosed, raising their risk of stroke, heart…",
+        "source": "The Guardian",
+        "published": "2026-09-23T22:00:01+00:00",
+        "published_display": "09月24日 05:00",
+        "url": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "4deab65b5f9b",
+        "title": "Anthony Albanese says OpenAI agent hacked Medicare and he expressed ‘extreme concern’ to Sam Altman",
+        "summary": "Prime minister says he told chief executive he was disappointed it had taken company ‘way too long’ to inform government of breach Anthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare in June. Australia’s prime minister made the comments at the UN summit in New York, saying it appeared no personal information had been accessed.",
+        "source": "The Guardian",
+        "published": "2026-09-23T21:55:30+00:00",
+        "published_display": "09月24日 04:55",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
+        "category": "international",
+        "priority": 4
+      }
+    ],
+    "finance": [
+      {
+        "id": "b093ffcd568c",
+        "title": "AI Rally, Weaker Yen Set the Stage for Japan’s Market Return",
+        "summary": "Japanese stocks look poised to catch up with a global AI-led rally when trading resumes on Thursday, while a weaker yen keeps currency intervention risk in focus.",
+        "source": "Bloomberg",
+        "published": "2026-09-23T22:44:38+00:00",
+        "published_display": "09月24日 05:44",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-23/ai-rally-weaker-yen-set-the-stage-for-japan-s-market-return-mueoxi0c",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "00f03c836310",
+        "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
+        "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
+        "source": "BBC Business",
+        "published": "2026-09-23T22:35:14+00:00",
+        "published_display": "09月24日 05:35",
+        "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "f6aa564c6887",
+        "title": "Asian Stocks, Bonds to Slide on Inflation Jitters: Markets Wrap",
+        "summary": "Stocks and bonds in Asia were set to decline Thursday, tracking Wall Street losses as an oil rally and stronger-than-expected US economic data fueled inflation concerns and bets on further interest-rate hikes. The yen, near a three-week low, will be in focus as Japanese markets reopen.",
+        "source": "Bloomberg",
+        "published": "2026-09-23T22:17:23+00:00",
+        "published_display": "09月24日 05:17",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-23/stock-market-today-dow-s-p-live-updates",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "a8c77592a450",
+        "title": "Latest Oil Market News and Analysis for Sept. 24",
+        "summary": "Oil held a gain on renewed tensions between the US and Iran, with a defiant message from President Masoud Pezeshkian highlighting the still-wide gap between the two sides after months of war in the Middle East.",
+        "source": "Bloomberg",
+        "published": "2026-09-23T22:09:08+00:00",
+        "published_display": "09月24日 05:09",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-23/latest-oil-market-news-and-analysis-for-sept-24",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "464b9002be41",
+        "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+        "summary": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
+        "source": "BBC Business",
+        "published": "2026-09-23T21:25:01+00:00",
+        "published_display": "09月24日 04:25",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "cbb692993ff1",
+        "title": "Citigroup Sets Up Paramount Loan Calls as Banks Prepare to Sell Debt",
+        "summary": "will kick off meetings with loan investors on Thursday for Paramount Skydance Corp. as banks prepare to sell debt to fund its takeover of Warner Bros.",
+        "source": "Bloomberg",
+        "published": "2026-09-23T21:07:47+00:00",
+        "published_display": "09月24日 04:07",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-23/citigroup-sets-up-paramount-loan-calls-as-m-a-debt-sale-eyed",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "cb92b63f363e",
+        "title": "Tories would prevent long-term jobless spending benefits on alcohol and cigarettes",
+        "summary": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
+        "source": "BBC Business",
+        "published": "2026-09-23T21:01:55+00:00",
+        "published_display": "09月24日 04:01",
+        "url": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "a57c0e044f16",
+        "title": "Sheinbaum Boosts Lula Before Vote as Leftist Allies Grow Scarce",
+        "summary": "Less than two weeks before Brazil’s election, Mexico’s Claudia Sheinbaum offered a strong public show of support for Luiz Inácio Lula da Silva, as Latin America’s two most prominent leftist leaders find themselves increasingly isolated amid a wave of conservative victories across the region.",
+        "source": "Bloomberg",
+        "published": "2026-09-23T20:40:29+00:00",
+        "published_display": "09月24日 03:40",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-23/sheinbaum-boosts-lula-before-vote-as-leftist-allies-grow-scarce",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "d94a9c82c345",
+        "title": "Venezuela Spot Oil Sales Snarled by Surging Freight Costs",
+        "summary": "Sales of Venezuelan oil for loading in October stalled after a surge in shipping costs muddled negotiations between the country’s state oil company and buyers of its oil.",
+        "source": "Bloomberg",
+        "published": "2026-09-23T20:39:16+00:00",
+        "published_display": "09月24日 03:39",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-23/venezuela-spot-oil-sales-snarled-by-surging-freight-costs",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "4c11461f1250",
+        "title": "Biggest Long-Bond ETF Hits Record Low as Traders Dump Treasuries",
+        "summary": "Shares of the largest exchange-traded fund tracking long-dated Treasuries closed at a record low as the yearslong bond market selloff shows few signs of relenting.",
+        "source": "Bloomberg",
+        "published": "2026-09-23T20:13:09+00:00",
+        "published_display": "09月24日 03:13",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-23/biggest-long-bond-etf-hits-record-low-as-traders-dump-treasuries",
+        "category": "finance",
+        "priority": 5
+      }
+    ],
+    "technology": [
+      {
+        "id": "e8483fa4c1d3",
+        "title": "Anthropic says its biology lab has already found something big",
+        "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+        "source": "TechCrunch",
+        "published": "2026-09-23T22:17:39+00:00",
+        "published_display": "09月24日 05:17",
+        "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "b8664d6b9450",
+        "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
+        "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
+        "source": "TechCrunch",
+        "published": "2026-09-23T21:21:33+00:00",
+        "published_display": "09月24日 04:21",
+        "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "d15d3591f53b",
+        "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+        "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+        "source": "TechCrunch",
+        "published": "2026-09-23T20:35:17+00:00",
+        "published_display": "09月24日 03:35",
+        "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "ee7ea9cc3ba7",
+        "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+        "summary": "$11M competition showed wildfire detection is still easier than stopping fires.",
+        "source": "Ars Technica",
+        "published": "2026-09-23T20:28:42+00:00",
+        "published_display": "09月24日 03:28",
+        "url": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "78e7ce09829b",
+        "title": "Discord age verification rolls out today with changes spurred by user backlash",
+        "summary": "Discord will try to automatically estimate ages, require verification when it can't.",
+        "source": "Ars Technica",
+        "published": "2026-09-23T20:05:13+00:00",
+        "published_display": "09月24日 03:05",
+        "url": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "b7941cc8a21f",
+        "title": "YouTube promises custom feeds and a lot more AI later this year",
+        "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+        "source": "Ars Technica",
+        "published": "2026-09-23T19:35:53+00:00",
+        "published_display": "09月24日 02:35",
+        "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "f744b3bc273e",
+        "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+        "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+        "source": "TechCrunch",
+        "published": "2026-09-23T19:31:28+00:00",
+        "published_display": "09月24日 02:31",
+        "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "f8e92900b898",
+        "title": "Modal Motors is trying to cut China out of electric motors entirely",
+        "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+        "source": "TechCrunch",
+        "published": "2026-09-23T19:05:00+00:00",
+        "published_display": "09月24日 02:05",
+        "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "8ecdba576246",
+        "title": "Contrary to some reports, you don't have two brains",
+        "summary": "A bad press release makes a good excuse to look at how developmental biology works.",
+        "source": "Ars Technica",
+        "published": "2026-09-23T18:47:36+00:00",
+        "published_display": "09月24日 01:47",
+        "url": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "441d9c7ae170",
+        "title": "Netflix releases trailer for Brad Bird's Ray Gunn",
+        "summary": "\"It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action.\"",
+        "source": "Ars Technica",
+        "published": "2026-09-23T18:26:50+00:00",
+        "published_display": "09月24日 01:26",
+        "url": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn",
+        "category": "technology",
+        "priority": 4
+      }
+    ],
+    "domestic": [
+      {
+        "id": "c19aa53b628b",
+        "title": "房地产市场交易总量趋于稳定",
+        "summary": "国家统计局日前公布8月份商品住宅销售价格变动情况统计数据和1至8月份全国房地产市场基本情况。国家统计局城市司高级统计师杨彩芳介绍，8月份，70个大中城市中，一线城市商品住宅销售价格环比上涨，二三线城市环比降幅总体收窄，一二三线城市同比降幅继续收窄。",
+        "source": "中国新闻网·财经",
+        "published": "2026-09-23T22:43:43+00:00",
+        "published_display": "09月24日 05:43",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702701.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "5613be0cb9f7",
+        "title": "全球数字贸易博览会国际物流供应链活动浙江嘉兴举行",
+        "summary": "中新网嘉兴9月24日电(胡丰盛 赵倩)23日，第五届全球数字贸易博览会——国际物流供应链主题活动在浙江嘉兴拉开帷幕。",
+        "source": "中国新闻网·财经",
+        "published": "2026-09-23T22:28:42+00:00",
+        "published_display": "09月24日 05:28",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702692.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "525db483681a",
+        "title": "习近平抵达华盛顿对美国进行国事访问",
+        "summary": "新华社华盛顿9月23日电#8195;当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-23T22:09:01+00:00",
+        "published_display": "09月24日 05:09",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702684.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "56abdd840175",
+        "title": "长期护理保险支付新规落地 专家解读",
+        "summary": "来源暂未在 RSS 中提供摘要，请打开原文查看报道详情。",
+        "source": "中国新闻网·财经",
+        "published": "2026-09-23T21:20:38+00:00",
+        "published_display": "09月24日 04:20",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702679.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "46e19a25d759",
+        "title": "中国成功发射卫星互联网低轨26组卫星",
+        "summary": "中新社北京9月23日电 (记者 马帅莎)据中国航天科技集团消息，北京时间9月23日21时32分，中国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨26组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-23T16:12:16+00:00",
+        "published_display": "09月23日 23:12",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702669.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "223587a01ac3",
+        "title": "广西壮族自治区贵港市政协副主席黄星荣接受审查调查",
+        "summary": "中新网9月23日电 据广西壮族自治区纪委监委消息：广西壮族自治区贵港市政协党组成员、副主席黄星荣涉嫌严重违纪违法，目前正接受广西壮族自治区纪委监委纪律审查和监察调查。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-23T15:41:32+00:00",
+        "published_display": "09月23日 22:41",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702563.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "9d4702e9e55b",
+        "title": "原重庆新华书店集团一级专务肖陵被开除党籍",
+        "summary": "中新网9月23日电 据重庆市纪委监委消息：经重庆市委批准，重庆市纪委监委对原重庆新华书店集团一级专务肖陵严重违纪违法问题进行了立案审查调查。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-23T15:40:12+00:00",
+        "published_display": "09月23日 22:40",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702564.shtml",
+        "category": "domestic",
+        "priority": 5
+      }
+    ],
+    "other": [
+      {
+        "id": "65bc5daa2ed6",
+        "title": "'Perfect storm' could lead to rubbish piling up on Scotland's streets, experts warn",
+        "summary": "There are warnings over a combination of significantly reduced landfill space and a breakdown of Glasgow's main incinerator.",
+        "source": "BBC Science",
+        "published": "2026-09-23T21:53:39+00:00",
+        "published_display": "09月24日 04:53",
+        "url": "https://www.bbc.co.uk/news/articles/cqlymw74g20ro?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "088cdf3ad289",
+        "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+        "summary": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+        "source": "BBC Science",
+        "published": "2026-09-23T21:01:06+00:00",
+        "published_display": "09月24日 04:01",
+        "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "be5b458ffeb1",
+        "title": "UK to launch military squadron to protect satellites in space",
+        "summary": "New RAF unit will warn of incoming missile attacks, and support offensive and defensive operations A new military unit dedicated to defending satellites, protecting services people need on Earth and potentially supporting offensive operations is being launched by the UK. The No III Space Effects Squadron will be announced on Wednesday, with the defence secretary, Wes Streeting, warning that Britain needs to “keep…",
+        "source": "The Guardian Science",
+        "published": "2026-09-23T17:25:13+00:00",
+        "published_display": "09月24日 00:25",
+        "url": "https://www.theguardian.com/politics/2026/sep/23/uk-raf-military-squadron-protect-satellites-in-space",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "1add932a8bbd",
+        "title": "When and how to see the Harvest Moon in 2026",
+        "summary": "September's full Moon will rise across on Saturday 26 September. The best viewing conditions currently look to be across southern and eastern parts of the UK.",
+        "source": "BBC Science",
+        "published": "2026-09-23T16:36:56+00:00",
+        "published_display": "09月23日 23:36",
+        "url": "https://www.bbc.co.uk/weather/articles/cmp8dr34rz0yo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "c50ddc5df249",
+        "title": "Millions of lettuces ruined by UK aphid outbreak",
+        "summary": "Growers are facing losses of £10m, as 30 million heads of lettuce will be rendered unusable.",
+        "source": "BBC Science",
+        "published": "2026-09-23T16:08:49+00:00",
+        "published_display": "09月23日 23:08",
+        "url": "https://www.bbc.co.uk/news/articles/ckd79wlg2wl8o?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      }
+    ],
+    "curiosity": [
+      {
+        "id": "8a5a463e499d",
+        "title": "This Cubist Painting With a Mysterious Provenance Hung in the Art Institute of Chicago for Decades. Now, the Museum Will Return It to Its Rightful Jewish Heirs",
+        "summary": "Infrared imaging links the 20th-century Jean Metzinger work to a collector whose pieces were forcibly auctioned under Nazi orders during World War II",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-23T20:18:46+00:00",
+        "published_display": "09月24日 03:18",
+        "url": "https://www.smithsonianmag.com/smart-news/this-cubist-painting-with-a-mysterious-provenance-hung-in-the-art-institute-of-chicago-for-decades-now-the-museum-will-return-it-to-its-rightful-jewish-heirs-180989553",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "aa17f90d6a6b",
+        "title": "Researchers in Turkey Have Unearthed an Ancient Fragment Inscribed With the World’s Oldest Peace Treaty",
+        "summary": "The piece of a clay tablet is marked with Akkadian cuneiform, and its text belongs to the Kadesh Peace Treaty, created by ancient Egyptians and Hittites in the 13th century B.C.E.",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-23T18:39:01+00:00",
+        "published_display": "09月24日 01:39",
+        "url": "https://www.smithsonianmag.com/smart-news/researchers-in-turkey-have-unearthed-an-ancient-fragment-inscribed-with-the-worlds-oldest-peace-treaty-180989554",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "cafddd4399ee",
+        "title": "An Otter Just Returned to New York City's Bronx River for the First Time in a Century. Now, You Can Help Name It",
+        "summary": "A trail camera photographed the animal earlier this summer, offering a hopeful sign that the once-polluted urban waterway is recovering after decades of restoration work",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-23T18:06:27+00:00",
+        "published_display": "09月24日 01:06",
+        "url": "https://www.smithsonianmag.com/smart-news/an-otter-just-returned-to-new-york-citys-bronx-river-for-the-first-time-in-a-century-now-you-can-help-name-it-180989556",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "50aa10d93b2d",
+        "title": "Earth's first bats didn't come from where we thought, landmark genetic study reveals",
+        "summary": "Scientists may have settled a decades-long debate about bat evolution, including controversial questions about when bats began to communicate and fly, a landmark study shows. The new research, published Wednesday (Sept. 23) in the journal Nature , is the biggest bat DNA and fossil study ever conducted.",
+        "source": "Live Science",
+        "published": "2026-09-23T16:05:28+00:00",
+        "published_display": "09月23日 23:05",
+        "url": "https://www.livescience.com/animals/land-mammals/earths-first-bats-didnt-come-from-where-we-thought-landmark-genetic-study-reveals",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "2e6d72ab107f",
+        "title": "Missing Celtic fort annihilated by Julius Caesar finally found under Paris hospital",
+        "summary": "Archaeologists excavating a Paris hospital's courtyard, a stone's throw from Notre-Dame, have discovered the first evidence of a Celtic fort that Julius Caesar tried to conquer in 52 B.C. The ancient walls show evidence of a violent fire, seemingly confirming the claim that the Celtic group who lived there, known as the Gauls, burned down their own town so that it wouldn't fall into Caesar's hands. \"The wall's…",
+        "source": "Live Science",
+        "published": "2026-09-23T16:03:51+00:00",
+        "published_display": "09月23日 23:03",
+        "url": "https://www.livescience.com/archaeology/romans/missing-celtic-fort-annihilated-by-julius-caesar-finally-found-under-paris-hospital",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "831d143c8ce9",
+        "title": "Astronomers detected radio signals coming from an exoplanet for the first time. Spoiler alert: It's not aliens.",
+        "summary": "For the first time, astronomers have detected radio signals coming directly from a planet outside our solar system, according to a new preprint study . Spoiler alert: It's not aliens . But astrophysicists are still very excited about this discovery.",
+        "source": "Live Science",
+        "published": "2026-09-23T15:45:19+00:00",
+        "published_display": "09月23日 22:45",
+        "url": "https://www.livescience.com/space/exoplanets/astronomers-detected-radio-signals-coming-from-an-exoplanet-for-the-first-time-spoiler-alert-its-not-aliens",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "945f98a2c563",
+        "title": "Experience the Wonder of Birds With These 11 Winning Photos From the Bird Photographer of the Year Contest",
+        "summary": "From a greater sage-grouse performing a mating display to a tawny frogmouth making a funny face, these photographs capture the breathtaking diversity of the world’s avian species",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-23T13:22:07+00:00",
+        "published_display": "09月23日 20:22",
+        "url": "https://www.smithsonianmag.com/smart-news/experience-the-wonder-of-birds-with-these-11-winning-photos-from-the-bird-photographer-of-the-year-contest-180989552",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "b94f3a8a880e",
+        "title": "3,000-year-old burial of ancient Egyptian horse found — and a nearby stone carving depicts a captured prisoner",
+        "summary": "Archaeologists have unearthed a 3,000-year-old burial of a horse, likely used for military purposes, inside an ancient fort on the western Nile Delta in Egypt. The horse was a young male of medium size that may have pulled a chariot or worked in other military activities. Archaeologists also found remains of the chariot horse's harness fittings nearby.",
+        "source": "Live Science",
+        "published": "2026-09-23T13:00:00+00:00",
+        "published_display": "09月23日 20:00",
+        "url": "https://www.livescience.com/archaeology/ancient-egyptians/3-000-year-old-burial-of-ancient-egyptian-horse-found-and-a-nearby-stone-carving-depicts-a-captured-prisoner",
+        "category": "curiosity",
+        "priority": 4
+      }
+    ]
+  },
+  "history": [
+    "2026-09-24",
+    "2026-09-23",
+    "2026-09-22",
+    "2026-09-21",
+    "2026-09-20",
+    "2026-09-19",
+    "2026-09-18"
+  ],
+  "source_failures": []
+}
