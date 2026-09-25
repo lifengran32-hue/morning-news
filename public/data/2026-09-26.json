@@ -1,0 +1,580 @@
+{
+  "date": "2026-09-26",
+  "date_display": "2026年09月26日 · 星期六",
+  "updated": "2026-09-26T06:01:03.870204+07:00",
+  "updated_display": "06:01",
+  "sections": {
+    "international": [
+      {
+        "id": "cb6b93452a35",
+        "title": "Supreme court blocks Trump-backed Missouri congressional map from use in midterms",
+        "summary": "Court puts end to long-running legal dispute as it rules Republican-friendly map cannot be used in November The supreme court on Friday turned away an attempt to use a new Missouri congressional map backed by Donald Trump, putting an end to a long-running legal dispute as absentee voting is under way in the midterm elections. The justices halted a federal appeals court ruling that would have revived the…",
+        "source": "The Guardian",
+        "published": "2026-09-25T22:33:14+00:00",
+        "published_display": "09月26日 05:33",
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/supreme-court-missouri-maps-trump",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "ba5633d8d646",
+        "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
+        "summary": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada The CEO of a Michigan credit union is no longer employed there, according to the organization, after she posted on social media what appeared to be an AI-generated image of her and her family wearing sweaters emblazoned with the Donald Trump-associated words “ Lake America ”.…",
+        "source": "The Guardian",
+        "published": "2026-09-25T22:21:15+00:00",
+        "published_display": "09月26日 05:21",
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "987b556f2aeb",
+        "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
+        "summary": "Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.",
+        "source": "Al Jazeera",
+        "published": "2026-09-25T22:16:35+00:00",
+        "published_display": "09月26日 05:16",
+        "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "3ee4f618a80d",
+        "title": "Ex-American Idol contestant told lover he dreamed of killing wife, murder trial hears",
+        "summary": "Alleigha Botner tells court Caleb Flynn, charged with murder of wife Ashley Flynn, sent her AI love songs The Ohio former pastor and American Idol contestant accused of fatally shooting his wife fantasized to his then lover about killing his spouse and sent her AI-generated love songs, according to evidence presented at trial this week. Caleb Flynn, 40, is on trial for aggravated murder in connection with the 16…",
+        "source": "The Guardian",
+        "published": "2026-09-25T22:12:50+00:00",
+        "published_display": "09月26日 05:12",
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/american-idol-contestant-accused-of-told-lover",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "5422c79d97ec",
+        "title": "Trump and Chinese president Xi end summit without major agreement on AI",
+        "summary": "Xi’s state visit to the US emphasized personal rapport with the US president, rather than substantial agreements to pause their respective countries’ AI arms race Donald Trump and Chinese president Xi Jinping wrapped up their Washington summit on Friday, facing criticism that they had squandered an opportunity to pause their countries’ artificial intelligence (AI) arms race. The three-day state visit emphasised…",
+        "source": "The Guardian",
+        "published": "2026-09-25T22:11:52+00:00",
+        "published_display": "09月26日 05:11",
+        "url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "4795f547dbe3",
+        "title": "Turning Point USA knew of security concerns yet insisted Charlie Kirk speak outdoors, report says",
+        "summary": "According to report, school staff recommended event move to a more secure location weeks before Kirk was fatally shot A new report says that Turning Point USA insisted the conservative political group’s leader Charlie Kirk speak outdoors at Utah Valley University – where he was ultimately assassinated – despite security concerns raised with his team by the school’s leaders and its police chief. The independent…",
+        "source": "The Guardian",
+        "published": "2026-09-25T21:32:45+00:00",
+        "published_display": "09月26日 04:32",
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/charlie-kirk-shooting-report-security-concerns",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "14e263801b42",
+        "title": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
+        "summary": "Kylian Mbappe scores the only goal of France's win in Turkiye, but Real Madrid striker immediately forced off by injury.",
+        "source": "Al Jazeera",
+        "published": "2026-09-25T21:32:43+00:00",
+        "published_display": "09月26日 04:32",
+        "url": "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "28f99005b74e",
+        "title": "What would a US diesel export ban mean for global fuel prices?",
+        "summary": "Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.",
+        "source": "Al Jazeera",
+        "published": "2026-09-25T21:28:56+00:00",
+        "published_display": "09月26日 04:28",
+        "url": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "09cc08a7111e",
+        "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+        "summary": "Belgium win 2-0 in Italy as Nations League opener is played out in front of nearly half empty Stadio Olimpico.",
+        "source": "Al Jazeera",
+        "published": "2026-09-25T21:20:05+00:00",
+        "published_display": "09月26日 04:20",
+        "url": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "df28e337fd79",
+        "title": "Nearly 200 people wrongly identified on Nevada’s voter rolls as non-citizens",
+        "summary": "State election officials said they reviewed 185 records homeland security sent them and confirmed they were US citizens The Department of Homeland Security (DHS) wrongly identified 185 people on Nevada’s voter rolls as non-citizens, state officials said this week, escalating concerns over the shoddy methodology the government is using to raise fear about non-citizen voting ahead of the midterm elections. In July,…",
+        "source": "The Guardian",
+        "published": "2026-09-25T21:10:02+00:00",
+        "published_display": "09月26日 04:10",
+        "url": "https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error",
+        "category": "international",
+        "priority": 4
+      }
+    ],
+    "finance": [
+      {
+        "id": "9ac8738c7a01",
+        "title": "Lula Plans $28 Billion Debt Buyout to Aid Consumers Before Vote",
+        "summary": "Brazil’s government plans to spend 15 billion reais to buy as much as 150 billion reais ($28 billion) of delinquent consumer debt from banks, part of President Luiz Inácio Lula da Silva’s push to ease the financial strain on households and bolster his bid for a fourth term.",
+        "source": "Bloomberg",
+        "published": "2026-09-25T22:43:22+00:00",
+        "published_display": "09月26日 05:43",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-25/lula-plans-28-billion-debt-buyout-to-aid-consumers-before-vote",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "00e565e7c959",
+        "title": "Ellison Pledges $9.2 Billion More in Oracle Shares for Loans",
+        "summary": "Larry Ellison has pledged 67 million more shares of Oracle Corp. as collateral for personal loans than he had at the same time last year.",
+        "source": "Bloomberg",
+        "published": "2026-09-25T21:53:52+00:00",
+        "published_display": "09月26日 04:53",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-25/ellison-pledges-9-2-billion-more-in-oracle-shares-as-collateral",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "14025bd1677b",
+        "title": "Diesel prices exceed £2 a litre at hundreds of forecourts across Scotland",
+        "summary": "Motoring organisation the RAC says it expects the average UK diesel price to hit a new record high over the weekend.",
+        "source": "BBC Business",
+        "published": "2026-09-25T21:47:48+00:00",
+        "published_display": "09月26日 04:47",
+        "url": "https://www.bbc.co.uk/news/articles/cr86xn04gxj9o?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "f26bd7c37e9b",
+        "title": "Wall Street’s ‘80/20’ Shift Finds Fresh Fuel in Stock Bounceback",
+        "summary": "Wall Street spent another week watching yields hit multi-decade highs, oil hold above $100 and the case for tighter Federal Reserve policy harden. Once again, risk assets refused to break.",
+        "source": "Bloomberg",
+        "published": "2026-09-25T20:48:29+00:00",
+        "published_display": "09月26日 03:48",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-25/wall-street-s-80-20-shift-finds-fresh-fuel-in-stock-bounceback",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "5737a02d991d",
+        "title": "Oracle Notice to Weigh on Data Center Debt, Morgan Stanley Says",
+        "summary": "Oracle Corp.’s force majeure notice to the developer of a massive New Mexico data center is putting loan and lease documents under fresh scrutiny and adding to the challenges facing companies looking to tap debt markets to finance the AI buildout, according to Morgan Stanley.",
+        "source": "Bloomberg",
+        "published": "2026-09-25T20:12:16+00:00",
+        "published_display": "09月26日 03:12",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-25/oracle-notice-to-weigh-on-data-center-debt-morgan-stanley-says",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "a4f8403ee1f4",
+        "title": "Man City found guilty of breaking financial rules",
+        "summary": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
+        "source": "BBC Business",
+        "published": "2026-09-25T20:11:12+00:00",
+        "published_display": "09月26日 03:11",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "c52ebd185a9f",
+        "title": "Hedge Funds Cut Bullish Yen Bets as BOJ Held Back on Rate Vows",
+        "summary": "Hedge funds slashed their bets on a stronger yen after the Bank of Japan held back from providing markets with definitive vows for higher interest rates.",
+        "source": "Bloomberg",
+        "published": "2026-09-25T20:06:07+00:00",
+        "published_display": "09月26日 03:06",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-25/hedge-funds-cut-bullish-yen-bets-as-boj-held-back-on-rate-vows",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "cf2f2830425a",
+        "title": "Wall Street’s Nike (NKE) Fandom at 25-Year Low as Bank of America Cuts to Sell",
+        "summary": "Wall Street’s enthusiasm for Nike Inc. has reached the lowest in at least a quarter of a century as Bank of America Corp. became the latest to sour on the troubled sportswear firm.",
+        "source": "Bloomberg",
+        "published": "2026-09-25T18:04:44+00:00",
+        "published_display": "09月26日 01:04",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-25/wall-street-s-nike-nke-fandom-at-25-year-low-as-bank-of-america-cuts-to-sell",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "213e793e358b",
+        "title": "SK Hynix’s Solidigm Is Said to Weigh US IPO as Soon as 2027",
+        "summary": "SK Hynix Inc.’s Solidigm is considering a US initial public offering as soon as next year, according to people familiar with the matter.",
+        "source": "Bloomberg",
+        "published": "2026-09-25T17:05:51+00:00",
+        "published_display": "09月26日 00:05",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-25/sk-hynix-s-solidigm-is-said-to-weigh-us-ipo-as-soon-as-2027",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "0f863ce07463",
+        "title": "White House television pool resumes after banned news outlets regain access",
+        "summary": "Trump’s media ban resulted in an effective TV blackout of coverage of the president during the UN general assembly The primary White House television pool has resumed filming administration events after a court ruling temporarily overturned a Trump administration ban on CNN a day earlier. In an unprecedented move, the pool – which also includes NBC, ABC, CBS and Fox News – ceased recording and transmitting White…",
+        "source": "The Guardian Business",
+        "published": "2026-09-25T16:03:18+00:00",
+        "published_display": "09月25日 23:03",
+        "url": "https://www.theguardian.com/media/2026/sep/25/trump-media-ban-white-house-pool",
+        "category": "finance",
+        "priority": 4
+      }
+    ],
+    "technology": [
+      {
+        "id": "d22a199399a3",
+        "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+        "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+        "source": "BBC Technology",
+        "published": "2026-09-25T22:43:54+00:00",
+        "published_display": "09月26日 05:43",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "category": "technology",
+        "priority": 5
+      },
+      {
+        "id": "a7fc94a8f10d",
+        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+        "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+        "source": "TechCrunch",
+        "published": "2026-09-25T22:20:47+00:00",
+        "published_display": "09月26日 05:20",
+        "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "1ccbcef18549",
+        "title": "Meta opens early access program for new Muse features",
+        "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+        "source": "TechCrunch",
+        "published": "2026-09-25T20:34:53+00:00",
+        "published_display": "09月26日 03:34",
+        "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "bcb5c010f66b",
+        "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+        "summary": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
+        "source": "TechCrunch",
+        "published": "2026-09-25T20:33:58+00:00",
+        "published_display": "09月26日 03:33",
+        "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "185164519bb8",
+        "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+        "summary": "Better thermals and battery life make this iterative update nicer to use.",
+        "source": "Ars Technica",
+        "published": "2026-09-25T19:34:42+00:00",
+        "published_display": "09月26日 02:34",
+        "url": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "16601d8d6797",
+        "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+        "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+        "source": "TechCrunch",
+        "published": "2026-09-25T19:13:38+00:00",
+        "published_display": "09月26日 02:13",
+        "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "8479eb8c7ebf",
+        "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+        "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
+        "source": "Ars Technica",
+        "published": "2026-09-25T19:11:05+00:00",
+        "published_display": "09月26日 02:11",
+        "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "fe235f269aa2",
+        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+        "source": "TechCrunch",
+        "published": "2026-09-25T18:48:33+00:00",
+        "published_display": "09月26日 01:48",
+        "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "38001ad87a1a",
+        "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+        "summary": "US judge reviews deal with California, says it must not be result of collusion.",
+        "source": "Ars Technica",
+        "published": "2026-09-25T18:42:57+00:00",
+        "published_display": "09月26日 01:42",
+        "url": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "43fec3bf6a06",
+        "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+        "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+        "source": "TechCrunch",
+        "published": "2026-09-25T18:33:59+00:00",
+        "published_display": "09月26日 01:33",
+        "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing",
+        "category": "technology",
+        "priority": 3
+      }
+    ],
+    "domestic": [
+      {
+        "id": "8ea1fe5ae28b",
+        "title": "记者手记：在美国国家档案馆，看见中美关系的“序章”",
+        "summary": "中新社华盛顿9月25日电 题：在美国国家档案馆，看见中美关系的“序章”",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-25T18:11:55+00:00",
+        "published_display": "09月26日 01:11",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703973.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "8aece4fe91a1",
+        "title": "习近平圆满结束对美国的国事访问",
+        "summary": "中新社华盛顿9月25日电 (记者 郭金超 黄钰钦 郭超凯)当地时间9月25日下午，中国国家主席习近平结束对美国的国事访问返回北京。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-25T17:58:26+00:00",
+        "published_display": "09月26日 00:58",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703971.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "34910389c726",
+        "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+        "summary": "中新社华盛顿9月25日电 (记者 郭金超 黄钰钦 郭超凯)当地时间9月25日上午，中国国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。两国元首同意进一步丰富中美关系定位的内涵，共同构建“基于尊重、公平、对等的建设性战略稳定关系”。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-25T17:57:50+00:00",
+        "published_display": "09月26日 00:57",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703970.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "d825a5e889e5",
+        "title": "新华图讯丨习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆",
+        "summary": "当地时间9月25日上午，国家主席习近平和夫人彭丽媛在美国总统特朗普和夫人梅拉尼娅陪同下参观美国国家档案馆。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-25T17:13:51+00:00",
+        "published_display": "09月26日 00:13",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703968.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "0a7bd71dacf1",
+        "title": "中美同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”",
+        "summary": "新华社华盛顿9月25日电 当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。两国元首同意进一步丰富中美关系定位的内涵，共同构建“基于尊重、公平、对等的建设性战略稳定关系”。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-25T16:32:08+00:00",
+        "published_display": "09月25日 23:32",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703963.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "83098f7fef82",
+        "title": "潜行无声 守卫万家团圆",
+        "summary": "中新网宁波9月25日电 (林庆港 王宁川)中秋佳节，在祖国的某海域，东部战区海军某潜艇支队的一艘潜艇正悄无声息地潜行于深海之下，守护着千家万户的灯火与团圆。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-25T16:01:59+00:00",
+        "published_display": "09月25日 23:01",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703952.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "c066cba9c687",
+        "title": "（台湾写真）烟火气、返乡潮中感受台湾中秋团圆",
+        "summary": "中新社台北9月25日电 题：烟火气、返乡潮中感受台湾中秋团圆",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-25T14:31:07+00:00",
+        "published_display": "09月25日 21:31",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703931.shtml",
+        "category": "domestic",
+        "priority": 5
+      }
+    ],
+    "other": [
+      {
+        "id": "597c8bcde8b5",
+        "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+        "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+        "source": "BBC Science",
+        "published": "2026-09-25T22:12:48+00:00",
+        "published_display": "09月26日 05:12",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "aec99c0ed06a",
+        "title": "Space museum launched by Britain's first astronaut",
+        "summary": "Helen Sharman officially opened the John Dulcamara Space Flight Museum at Grizedale Observatory.",
+        "source": "BBC Science",
+        "published": "2026-09-25T16:49:09+00:00",
+        "published_display": "09月25日 23:49",
+        "url": "https://www.bbc.co.uk/news/articles/crpd00leqy1go?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "441576d927b8",
+        "title": "Spacecraft returns to Earth after rescue mission for ageing Nasa telescope fails",
+        "summary": "Series of in-flight problems meant Link, a ‘commercial space robot’, could not salvage the Nasa observatory A spacecraft that was launched in July on a mission to rescue a decaying Nasa space observatory plunged back to Earth on Friday, concluding a failed mission that will be followed by the telescope’s own demise in several weeks’ time. Link, billed as “America’s first commercial space robot”, lifted off on 3…",
+        "source": "The Guardian Science",
+        "published": "2026-09-25T16:38:29+00:00",
+        "published_display": "09月25日 23:38",
+        "url": "https://www.theguardian.com/science/2026/sep/25/nasa-telescope-rescue-mission-fails",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "c93ddf05e2c6",
+        "title": "DNA database of UK dogs could help police collar criminals",
+        "summary": "Experts working on database that could identify particular breeds involved in crimes, or rule out canine suspects From tracking criminals to sniffing out drugs, dogs have long helped police crack cases. Now experts are hoping a database of canine DNA could offer vital leads. While hair, saliva and other canine material may be found at crime scenes, or on individuals connected to incidents, scientists say they are…",
+        "source": "The Guardian Science",
+        "published": "2026-09-25T12:00:49+00:00",
+        "published_display": "09月25日 19:00",
+        "url": "https://www.theguardian.com/science/2026/sep/25/dna-database-uk-dogs-vital-evidence-police-criminals",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "9dcae29a374d",
+        "title": "‘Gamechanging’ brain tumour test reduces diagnosis from eight weeks to two hours",
+        "summary": "NHS England says test can be done while patient is on operating table and is being piloted in five centres around the country A rapid new test for brain tumours can diagnose patients while they are still on the operating table. Scientists have called the development “gamechanging” and said it could secure early treatment for those who “do not have time on their side”.",
+        "source": "The Guardian Science",
+        "published": "2026-09-25T11:53:43+00:00",
+        "published_display": "09月25日 18:53",
+        "url": "https://www.theguardian.com/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours",
+        "category": "other",
+        "priority": 3
+      }
+    ],
+    "curiosity": [
+      {
+        "id": "2dda40065975",
+        "title": "Mysterious 'Anomalies' Have Been Detected Beyond King Tut's Tomb. Could They Be Secret Passageways Leading to the Long-Lost Remains of Queen Nefertiti?",
+        "summary": "Geophysical surveys provide new evidence for a theory that the Egyptian pharaoh was interred in the outer rooms of an existing burial complex. Researchers are trying to get approval to investigate for themselves",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-25T21:08:36+00:00",
+        "published_display": "09月26日 04:08",
+        "url": "https://www.smithsonianmag.com/smart-news/mysterious-anomalies-have-been-detected-beyond-king-tuts-tomb-could-they-be-secret-passageways-leading-to-the-long-lost-remains-of-queen-nefertiti-180989576",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "144fa5f70625",
+        "title": "NASA teases new PRIMA telescope that could see what even the James Webb telescope can't",
+        "summary": "NASA is moving forward with designing a new space telescope that can see even deeper into the infrared universe than the James Webb Space Telescope (JWST) can. The new mission, called PRIMA (Probe far-Infrared Mission for Astrophysics), is continuing its development to Phase B — the preliminary design and tech phase — according to a NASA statement . Managers will review the mission's progress before officially…",
+        "source": "Live Science",
+        "published": "2026-09-25T20:56:29+00:00",
+        "published_display": "09月26日 03:56",
+        "url": "https://www.livescience.com/space/space-exploration/nasa-teases-new-prima-telescope-that-could-peer-even-deeper-into-the-infrared-universe-than-the-james-webb-space-telescope",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "35334f2e4f28",
+        "title": "Hitler Had an Intense, Mysterious Relationship With His Half-Niece. New Research Suggests His Alibi for Her Murder Might Not Hold Up",
+        "summary": "Recently uncovered documents about the timing of Geli Raubal’s death cast new doubt on the Nazi leader’s alibi, which had been considered reasonably sound for nearly a century",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-25T19:07:56+00:00",
+        "published_display": "09月26日 02:07",
+        "url": "https://www.smithsonianmag.com/smart-news/hitler-had-an-intense-mysterious-relationship-with-his-half-niece-new-research-suggests-his-alibi-for-her-murder-might-not-hold-up-180989572",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "7edbdfb024c3",
+        "title": "Two New Stick Insect Species Have Been Discovered in Australia—and Another One Was Hiding in Plain Sight",
+        "summary": "The new discoveries emphasize that scientists have a lot left to learn about insect diversity, even in areas with many observations",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-25T19:03:30+00:00",
+        "published_display": "09月26日 02:03",
+        "url": "https://www.smithsonianmag.com/smart-news/two-new-stick-insect-species-have-been-discovered-in-australiaand-another-one-was-hiding-in-plain-sight-180989575",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "e0b9184b9b51",
+        "title": "Con Chim Islet in Tuy Phuoc Dong, Vietnam",
+        "summary": "Far beyond the sun drenched beach resorts of coastal Vietnam lies an unexpected wilderness that most travelers entirely overlook. Con Chim Islet is a hidden oasis anchoring the vast expanse of Thi Nai Lagoon, defined by an ancient and sprawling labyrinth of mangrove forests. What makes this wetland truly spellbinding is its role as a protected refuge for numerous rare and elusive avian species, including unique…",
+        "source": "Atlas Obscura",
+        "published": "2026-09-25T16:00:00+00:00",
+        "published_display": "09月25日 23:00",
+        "url": "https://www.atlasobscura.com/places/con-chim-islet",
+        "category": "curiosity",
+        "priority": 3
+      },
+      {
+        "id": "65538e9c0b62",
+        "title": "Two Thousand Years Ago, Julius Caesar Conquered the Settlement That Eventually Became Paris. Archaeologists May Have Just Found It",
+        "summary": "While conducting excavations at a hospital on the Île de la Cité, in the Seine River, researchers discovered part of a wall that may have once protected Lutetia, the Gallic precursor to France’s capital",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-25T15:00:00+00:00",
+        "published_display": "09月25日 22:00",
+        "url": "https://www.smithsonianmag.com/smart-news/two-thousand-years-ago-julius-caesar-conquered-the-settlement-that-eventually-became-paris-archaeologists-may-have-just-found-it-180989569",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "7770b5b981f2",
+        "title": "'Everything we know about space travel is going to change within a decade': The fusion breakthrough that could unlock a path to the stars",
+        "summary": "Fusion-powered space travel has long held the promise of rapid trips across the solar system: Mars in weeks, Saturn in months, Pluto in years. For decades, such possibilities have remained theoretical, like something plucked out of a science fiction novel. But several companies are now working to build practical nuclear fusion propulsion engines, with significant milestones being hit.",
+        "source": "Live Science",
+        "published": "2026-09-25T15:00:00+00:00",
+        "published_display": "09月25日 22:00",
+        "url": "https://www.livescience.com/space/space-exploration/everything-we-know-about-space-travel-is-going-to-change-within-a-decade-the-fusion-breakthrough-that-could-unlock-a-path-to-the-stars",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "b6097e8dd93b",
+        "title": "WWI Pillbox in Southwold, England",
+        "summary": "For decades this rare 100 year-old 'Pillbox' or defensive bunker had been neglected and vandalised, until it was about to be demolished in 2023. Built by the military during World War One to guard a strategic bridge over a once-tidal creek on the East Coast of England, this historic monument was rescued and rebuilt by raising funds in the local community, to be turned into a 'Living History' centre. As so many of…",
+        "source": "Atlas Obscura",
+        "published": "2026-09-25T14:00:00+00:00",
+        "published_display": "09月25日 21:00",
+        "url": "https://www.atlasobscura.com/places/the-ww1-pillbox-reydon-suffolk-england",
+        "category": "curiosity",
+        "priority": 3
+      }
+    ]
+  },
+  "history": [
+    "2026-09-26",
+    "2026-09-25",
+    "2026-09-24",
+    "2026-09-23",
+    "2026-09-22",
+    "2026-09-21",
+    "2026-09-20"
+  ],
+  "source_failures": []
+}
