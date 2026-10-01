@@ -1,0 +1,580 @@
+{
+  "date": "2026-10-01",
+  "date_display": "2026年10月01日 · 星期四",
+  "updated": "2026-10-01T08:38:17.072899+07:00",
+  "updated_display": "08:38",
+  "sections": {
+    "international": [
+      {
+        "id": "5979a75892ca",
+        "title": "Australia news live: Shoebridge welcomes Faruqi working outside Greens leadership team; recruitment for Antarctic jobs opens",
+        "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Queensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today. Under the program, state governments will provide supports to children up to 8 years old with mild to moderate autism or developmental delays.",
+        "source": "The Guardian",
+        "published": "2026-10-01T01:15:25+00:00",
+        "published_display": "10月01日 08:15",
+        "url": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "a82736865e39",
+        "title": "Oasis take legal action to stop sale of unheard recordings valued at more than £1m",
+        "summary": "Tapes made in the 90s, including candid conversations between Noel and Liam Gallagher, which were expected to sell for up to £1.6m A collection of unheard Oasis recordings, including 63 live shows, hours of rehearsals and candid conversations between Noel and Liam Gallagher, has been pulled from auction after legal action taken by the band. In September Littleton Auctions in Worcestershire, England, listed the…",
+        "source": "The Guardian",
+        "published": "2026-10-01T01:07:18+00:00",
+        "published_display": "10月01日 08:07",
+        "url": "https://www.theguardian.com/music/2026/oct/01/oasis-legal-action-sale-of-unheard-recordings",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "f36837173d13",
+        "title": "Police search for additional victims as two bodies discovered in California",
+        "summary": "Officials investigating missing persons case find bodies in remote area of Lancaster, north of Los Angeles Law enforcement officials are looking for additional victims after two bodies were found on Tuesday in a remote area of Lancaster, California, a small city about 70 miles north of Los Angeles, the Los Angeles Times reports . Authorities found the bodies in a shallow grave while they were investigating a…",
+        "source": "The Guardian",
+        "published": "2026-10-01T01:05:07+00:00",
+        "published_display": "10月01日 08:05",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/california-police-bodies",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "c24f8351148e",
+        "title": "Daredevil Jaan Roose prepares to walk slackline high above central Seoul",
+        "summary": "Estonian will navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gwanghwamun palace on Thursday Estonian aerial athlete Jaan Roose will attempt to cross a 160-metre long highline suspended 120 metres above central Seoul on Thursday. Roose , a three-time slackline world champion, will step out on to a narrow polyester ribbon between the Koreana hotel and the Dong-A Media Center,…",
+        "source": "The Guardian",
+        "published": "2026-10-01T00:59:54+00:00",
+        "published_display": "10月01日 07:59",
+        "url": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "ceab246c3877",
+        "title": "California bans child marriage, a practice still legal in 32 US states",
+        "summary": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\".",
+        "source": "BBC News",
+        "published": "2026-10-01T00:57:04+00:00",
+        "published_display": "10月01日 07:57",
+        "url": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "1ed7ea104b03",
+        "title": "Tennessee execution of Christa Pike can go ahead, US supreme court rules",
+        "summary": "Pike, sentenced to death over 1995 murder, set to be executed Wednesday night after justices lift lower-court ruling Tennessee is set to execute a woman for the first time in 200 years on Wednesday, after the US supreme court lifted a lower-court ruling that put her execution on pause earlier in the day. Christa Pike, who was convicted of murder 30 years ago, was initially scheduled to die by lethal injection on…",
+        "source": "The Guardian",
+        "published": "2026-10-01T00:30:21+00:00",
+        "published_display": "10月01日 07:30",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "4cb6451c6afd",
+        "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+        "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
+        "source": "BBC News",
+        "published": "2026-10-01T00:19:20+00:00",
+        "published_display": "10月01日 07:19",
+        "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "11358df77461",
+        "title": "Gavin Newsom signs laws to protect California workers from AI threat",
+        "summary": "Democratic governor sharply critical of Donald Trump for not passing comprehensive federal AI regulations Governor Gavin Newsom signed laws Wednesday aimed at protecting California workers from the threats of artificial intelligence , including potential job losses and workplace surveillance. The laws ban employers from using the technology to predict a worker’s emotional state by using their biometric data,…",
+        "source": "The Guardian",
+        "published": "2026-10-01T00:17:56+00:00",
+        "published_display": "10月01日 07:17",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "c0bed386cea6",
+        "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+        "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+        "source": "BBC News",
+        "published": "2026-10-01T00:08:23+00:00",
+        "published_display": "10月01日 07:08",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "36c29a096c53",
+        "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+        "summary": "Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other.",
+        "source": "Al Jazeera",
+        "published": "2026-10-01T00:00:00+00:00",
+        "published_display": "10月01日 07:00",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      }
+    ],
+    "finance": [
+      {
+        "id": "4c7be18a3887",
+        "title": "Thailand Bond Outflows Hit Six-Month High on Oil, US Yields in September",
+        "summary": "Thai bonds suffered their biggest monthly foreign outflows since March as surging Treasury yields and the prospect of interest-rate hikes dimmed the appeal of the nation’s debt.",
+        "source": "Bloomberg",
+        "published": "2026-10-01T01:24:27+00:00",
+        "published_display": "10月01日 08:24",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/thailand-bond-outflows-hit-six-month-high-on-oil-us-yields-in-september",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "31006dda3dc2",
+        "title": "Chile’s 2027 Fiscal Spending to Rise 1.5%, Focus on Employment",
+        "summary": "Chile’s President José Antonio Kast unveiled his administration’s first budget proposal, increasing spending by 1.5% in 2027 with a strong focus on employment as concerns over the weak economy mount.",
+        "source": "Bloomberg",
+        "published": "2026-10-01T00:55:28+00:00",
+        "published_display": "10月01日 07:55",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/chile-s-2027-fiscal-spending-to-rise-1-5-focus-on-employment",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "ac26efd86fc4",
+        "title": "China’s Property Crisis: From Evergrande Collapse to Beijing’s Latest Measures",
+        "summary": "Once one of the country’s biggest growth drivers, China’s property market has been in a downward spiral for five years. Real estate values continue to plummet, households in financial distress are being forced to sell properties, and apartment developers that racked up enormous debt on speculative projects are on the brink of collapse.",
+        "source": "Bloomberg",
+        "published": "2026-10-01T00:24:59+00:00",
+        "published_display": "10月01日 07:24",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/china-s-property-crisis-from-evergrande-collapse-to-beijing-s-latest-measures",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "69f0f5797654",
+        "title": "Gold Steady as Softer Inflation Data Tempers Fed Rate-Hike Bets",
+        "summary": "Gold opened the month steady as softer inflation data lowered bets the Federal Reserve will raise interest rates at its next meeting, while high bond yields left the door open to renewed selling.",
+        "source": "Bloomberg",
+        "published": "2026-10-01T00:08:16+00:00",
+        "published_display": "10月01日 07:08",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/gold-steady-as-softer-inflation-data-tempers-fed-rate-hike-bets",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "78e58b5f0109",
+        "title": "RBI’s Success on Dollar Flows Raises Stakes in Inflation Fight",
+        "summary": "Just months ago, India’s central bank pulled out all the stops to draw in dollars to bolster its foreign-exchange reserves and defend the rupee. The stronger-than-expected deluge of cash is now adding to the case for a more hawkish monetary policy stance.",
+        "source": "Bloomberg",
+        "published": "2026-10-01T00:00:00+00:00",
+        "published_display": "10月01日 07:00",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/rbi-s-success-on-dollar-flows-raises-stakes-in-inflation-fight",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "02daf6d1ba3c",
+        "title": "Gina Rinehart Backed Lynas to Buy Rare Earths Miner Meteoric",
+        "summary": "Australia’s Lynas Rare Earths Ltd. will acquire Meteoric Resources Ltd. in an all-share deal worth about A$968 million ($672 million), giving it access to a new deposit of the critical minerals in Brazil.",
+        "source": "Bloomberg",
+        "published": "2026-09-30T23:40:47+00:00",
+        "published_display": "10月01日 06:40",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-30/gina-rinehart-backed-lynas-to-buy-rare-earths-miner-meteoric",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "fa3f05d9463c",
+        "title": "The AI telling farmers when to harvest",
+        "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+        "source": "BBC Business",
+        "published": "2026-09-30T23:02:21+00:00",
+        "published_display": "10月01日 06:02",
+        "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "8a506c57c780",
+        "title": "Vape prices to rise as new tax takes effect",
+        "summary": "Vaping is about to becoming more expensive due to a new tax on products.",
+        "source": "BBC Business",
+        "published": "2026-09-30T23:02:11+00:00",
+        "published_display": "10月01日 06:02",
+        "url": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "72d697f95165",
+        "title": "Energy bills are going up - here's what you can do about it",
+        "summary": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
+        "source": "BBC Business",
+        "published": "2026-09-30T23:01:32+00:00",
+        "published_display": "10月01日 06:01",
+        "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "66a76721338c",
+        "title": "CFTC Secures $30 Million Judgment Tied to Alleged Crypto Scam",
+        "summary": "A federal judge in Florida ordered two individuals to pay more than $30 million in restitution and penalties for allegedly defrauding more than 9,000 people in a scam involving crytocurrencies and precious metals, the US Commodity Futures Trading Commission said in a statement Wednesdsay.",
+        "source": "Bloomberg",
+        "published": "2026-09-30T22:27:24+00:00",
+        "published_display": "10月01日 05:27",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-30/cftc-secures-30-million-judgment-tied-to-alleged-crypto-scam",
+        "category": "finance",
+        "priority": 5
+      }
+    ],
+    "technology": [
+      {
+        "id": "5c1f615d64d2",
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+        "source": "TechCrunch",
+        "published": "2026-09-30T23:43:07+00:00",
+        "published_display": "10月01日 06:43",
+        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "ce876bbf956a",
+        "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+        "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
+        "source": "TechCrunch",
+        "published": "2026-09-30T23:08:00+00:00",
+        "published_display": "10月01日 06:08",
+        "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "2ef764de3e42",
+        "title": "Dinosaur-killing impact crater might have been teeming with life",
+        "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
+        "source": "Ars Technica",
+        "published": "2026-09-30T21:54:12+00:00",
+        "published_display": "10月01日 04:54",
+        "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "edd4ce9a6600",
+        "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
+        "summary": "State health officials race to vaccinate residents by giving over 8,500 doses.",
+        "source": "Ars Technica",
+        "published": "2026-09-30T21:37:54+00:00",
+        "published_display": "10月01日 04:37",
+        "url": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "b9c3043f96b9",
+        "title": "Returning from vacation? The government can search your phone without a warrant.",
+        "summary": "Reminder: The \"border exemption\" to your rights is real.",
+        "source": "Ars Technica",
+        "published": "2026-09-30T21:19:56+00:00",
+        "published_display": "10月01日 04:19",
+        "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "b4341699df22",
+        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+        "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+        "source": "TechCrunch",
+        "published": "2026-09-30T21:07:40+00:00",
+        "published_display": "10月01日 04:07",
+        "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "86727fb3cbf8",
+        "title": "A local network of implants uses your body as the wiring",
+        "summary": "It's possible to send electrical signals right through human tissues.",
+        "source": "Ars Technica",
+        "published": "2026-09-30T21:06:56+00:00",
+        "published_display": "10月01日 04:06",
+        "url": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "5275889747e5",
+        "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+        "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+        "source": "Ars Technica",
+        "published": "2026-09-30T20:44:48+00:00",
+        "published_display": "10月01日 03:44",
+        "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "e8405ccc0d91",
+        "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
+        "summary": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
+        "source": "TechCrunch",
+        "published": "2026-09-30T20:39:09+00:00",
+        "published_display": "10月01日 03:39",
+        "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "94349d4a2730",
+        "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+        "summary": "So much for Gemini 3.5 Pro.",
+        "source": "Ars Technica",
+        "published": "2026-09-30T20:11:08+00:00",
+        "published_display": "10月01日 03:11",
+        "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet",
+        "category": "technology",
+        "priority": 4
+      }
+    ],
+    "domestic": [
+      {
+        "id": "884ec3f2774f",
+        "title": "习言道｜让老百姓过上更好的日子",
+        "summary": "10月1日出版的《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强普惠性、基础性、兜底性民生建设》。这是习近平总书记2012年11月至2026年1月期间有关重要论述的节录。",
+        "source": "中国新闻网·国内",
+        "published": "2026-10-01T00:47:39+00:00",
+        "published_display": "10月01日 07:47",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706590.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "9a352bb3a843",
+        "title": "庆祝祖国77周年华诞：“77”的回答",
+        "summary": "“77”的回答",
+        "source": "中国新闻网·国内",
+        "published": "2026-10-01T00:37:40+00:00",
+        "published_display": "10月01日 07:37",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706593.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "488f2dc8db5f",
+        "title": "买房“国补”上线！最高节省利息近5万元",
+        "summary": "今日起，居民使用新发放商业性个人住房贷款买房，符合条件的可以享受贷款贴息。这是国家层面首次为个人房贷贴息。",
+        "source": "中国新闻网·财经",
+        "published": "2026-09-30T22:40:57+00:00",
+        "published_display": "10月01日 05:40",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706580.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "027f1a851abf",
+        "title": "机制化的确定性正在重塑中美经贸关系",
+        "summary": "中新网北京9月30日电 近年来，个别经济体把所谓“对等关税”当作单边施压的常规工具，全球贸易政策的不确定性随之上升，产业链供应链的调整也在被动加速。然而经济学的分析早已表明，关税所产生的额外成本大部分并非由出口国承担，而是由征税国的消费者与下游企业消化，保护主义并未让施压者真正受益。经贸摩擦更深层的代价，还在于政策不确定性所引致的风险会冲击企业的订单和投资决策，既抑制当期贸易，也阻碍长期资本形成。中美之间规模达数千亿美元的贸易往来与百亿美元级的双向资本流动，其稳定与否不仅关乎两国企业资产负债表，也是全球产业链分工与资本流动的基准变量。",
+        "source": "中国新闻网·财经",
+        "published": "2026-09-30T14:10:05+00:00",
+        "published_display": "09月30日 21:10",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706558.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "7d77a7b9a3cc",
+        "title": "《中国发展报告2026》在北京首发",
+        "summary": "中新网北京9月30日电 9月30日，由国务院发展研究中心编写的《中国发展报告2026》中英文版首发仪式在北京举行。",
+        "source": "中国新闻网·财经",
+        "published": "2026-09-30T14:07:05+00:00",
+        "published_display": "09月30日 21:07",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706565.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "0248bf48f5f5",
+        "title": "三峡枢纽新通道先行开挖区完成爆破开挖",
+        "summary": "中新网宜昌9月30日电 (郭晓莹 董晓斌 秦明硕)随着“最后一爆”顺利启动，作为施工准备试验工程的三峡枢纽新通道先行开挖区30日完成全部爆破开挖作业，为后续高压输电线路迁改、船闸主体工程全面施工创造有利条件。",
+        "source": "中国新闻网·财经",
+        "published": "2026-09-30T14:06:39+00:00",
+        "published_display": "09月30日 21:06",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706563.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "17ccf6c3ad3b",
+        "title": "应急管理部针对贵州启动国家地质灾害四级应急响应",
+        "summary": "据气象部门预测，9月30日至10月3日，青藏高原东部、西南地区东部、江汉、江淮、江南、华南等地有小到中雨或雷阵雨，重庆、贵州等地部分地区有大到暴雨，局地大暴雨。经与自然资源部会商研判，重庆北部、贵州东部发生地质灾害的风险较高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于9月30日针对贵州启动国家地质灾害四级应急响应。",
+        "source": "中国新闻网·国内",
+        "published": "2026-09-30T13:52:38+00:00",
+        "published_display": "09月30日 20:52",
+        "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706562.shtml",
+        "category": "domestic",
+        "priority": 5
+      }
+    ],
+    "other": [
+      {
+        "id": "2e648161e122",
+        "title": "'Special surprise' as rare moth found in nature reserve for first time",
+        "summary": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat.",
+        "source": "BBC Science",
+        "published": "2026-09-30T21:58:22+00:00",
+        "published_display": "10月01日 04:58",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "1d1a3128f015",
+        "title": "All of a flutter: how butterflies avoid being a predator’s lunch",
+        "summary": "Their whirring wings and bright patterns help keep them safe from birds, British study finds Naturalists have long wondered how brightly coloured butterflies manage to evade the attention of birds that make a meal of other insects. New research from British ecologists suggests it is not simply a matter of good luck but instead a visual illusion created by their fluttering wings.",
+        "source": "The Guardian Science",
+        "published": "2026-09-30T15:00:43+00:00",
+        "published_display": "09月30日 22:00",
+        "url": "https://www.theguardian.com/science/2026/sep/30/how-butterflies-avoid-being-eaten-by-predators-wildlife-insects",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "297f3a3061cb",
+        "title": "Only 28% of nurdles 'recovered', researchers say",
+        "summary": "Scientists predict that nurdles will continue to wash up on North East beaches.",
+        "source": "BBC Science",
+        "published": "2026-09-30T12:16:06+00:00",
+        "published_display": "09月30日 19:16",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjzr4rrl8lo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "4554f2b2ee5f",
+        "title": "Things are changing behind the scenes, so you must decide: do you want human civil servants or AI bots? | The civil servant",
+        "summary": "Rapidly expanding AI use within the government is numbing departments to its profound threats. And try arguing with a faceless digital bureaucrat Another day, another apocalyptic warning about the likelihood that rampantly uncontrollable artificial intelligence will solve all of our problems, including the problem of being alive. Hot on the heels of disgruntled Anthropic researchers announcing the end of…",
+        "source": "The Guardian Science",
+        "published": "2026-09-30T11:00:38+00:00",
+        "published_display": "09月30日 18:00",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "36be2df562f9",
+        "title": "Young minds develop ideas to tackle climate change",
+        "summary": "Sixteen teenagers take part in a hackathon to devise ways to combat issues such as light pollution.",
+        "source": "BBC Science",
+        "published": "2026-09-30T09:36:10+00:00",
+        "published_display": "09月30日 16:36",
+        "url": "https://www.bbc.co.uk/news/articles/cv62kpj70585o?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      }
+    ],
+    "curiosity": [
+      {
+        "id": "8b9b253c8019",
+        "title": "CHIME telescope unlocks new way to study the universe's bafflign expansion",
+        "summary": "Scientists have a new tool for mapping the universe's perplexing acceleration. A Canadian telescope designed to chart the distribution of hydrogen gas across the ancient universe has proved it can do so using only its own data for the first time, without the help of other telescopes. The results took seven years to prove, but the payoff could be huge.",
+        "source": "Live Science",
+        "published": "2026-09-30T21:28:51+00:00",
+        "published_display": "10月01日 04:28",
+        "url": "https://www.livescience.com/space/astronomy/ancient-hydrogen-spotted-in-the-early-universe-could-open-a-new-way-to-study-spaces-baffling-expansion",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "da6f97e14e1f",
+        "title": "SpaceX's Giant Starship Rocket Reached Earth Orbit on Its First Try, but Engine Problems Forced It to Return to the Planet Early",
+        "summary": "Two aerospace companies are competing to create the lunar lander NASA uses when it returns humans to the moon's surface. But to reach our lunar companion, a spacecraft will first have to get to Earth orbit",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-30T20:30:34+00:00",
+        "published_display": "10月01日 03:30",
+        "url": "https://www.smithsonianmag.com/smart-news/spacexs-giant-starship-rocket-reached-earth-orbit-on-its-first-try-but-engine-problems-forced-it-to-return-to-the-planet-early-180989596",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "28dcb86db15a",
+        "title": "Queen’s Surf Beach in Honolulu, Hawaii",
+        "summary": "In the 1970s, Queen’s Surf Beach in Waikiki became a popular gathering and organizing space for members of Hawaiʻi’s diverse LGBTQ+ Māhū communities. It was a place where people could relax and be themselves in a society where sexual and gender diversity were just beginning to be openly discussed. Unlike most gay beaches of that era, it was highly visible to the public, emblematic of Hawaiʻi’s relatively…",
+        "source": "Atlas Obscura",
+        "published": "2026-09-30T20:00:00+00:00",
+        "published_display": "10月01日 03:00",
+        "url": "https://www.atlasobscura.com/places/queens-surf-beach",
+        "category": "curiosity",
+        "priority": 3
+      },
+      {
+        "id": "8bc65dfca28e",
+        "title": "An Enigmatic Chalk Drawing, Rediscovered in a Private Italian Collection, Has Been Identified as the Long-Lost Work of Édouard Manet",
+        "summary": "The sketch of a young girl, in the red chalk characteristic of Manet’s 1860s life studies, is thought to be linked to several of the artist’s paintings",
+        "source": "Smithsonian Smart News",
+        "published": "2026-09-30T19:55:09+00:00",
+        "published_display": "10月01日 02:55",
+        "url": "https://www.smithsonianmag.com/smart-news/an-enigmatic-chalk-drawing-rediscovered-in-a-private-italian-collection-has-been-identified-as-the-long-lost-work-of-edouard-manet-180989593",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "0bdc46ae3599",
+        "title": "Havneholmen Metro Station in Copenhagen, Denmark",
+        "summary": "Step onto the platform at Copenhagen's Havneholmen metro station, which opened in 2024, and something is not quite right: a bench hangs from the ceiling, a trash can juts sideways from a wall, an information screen tilts out at an odd angle, and the clocks overhead seem to be running on their own schedule. The disorientation is by design. It's the work of the Danish artist group Superflex, who reimagined the…",
+        "source": "Atlas Obscura",
+        "published": "2026-09-30T18:00:00+00:00",
+        "published_display": "10月01日 01:00",
+        "url": "https://www.atlasobscura.com/places/havneholmen-metro-station",
+        "category": "curiosity",
+        "priority": 3
+      },
+      {
+        "id": "831d7ca5c304",
+        "title": "Powerful 'Kelvin wave' triggered by super El Niño threatens to raise sea levels off the California coast for months",
+        "summary": "A powerful \"Kelvin wave,\" triggered by this year's super El Niño , is creeping up the Pacific coast of Central and North America and will soon reach California's shores, where it could raise sea levels by up to 1 foot (30 centimeters) for months, researchers warn. Kelvin waves are a well-known, planetary-scale ocean phenomenon, but this particular forecast has experts worried because it will likely amplify the…",
+        "source": "Live Science",
+        "published": "2026-09-30T16:10:59+00:00",
+        "published_display": "09月30日 23:10",
+        "url": "https://www.livescience.com/planet-earth/rivers-oceans/powerful-kelvin-wave-triggered-by-super-el-nino-threatens-to-raise-sea-levels-off-the-california-coast-for-months",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "789c8d4336c1",
+        "title": "Astronomers discover 'backward' planet orbiting its star in the wrong direction",
+        "summary": "Researchers have discovered an exoplanet that travels around its small, red star backward, much like a rubber duck spinning against the current in a whirlpool. The discovery could give insight about how exoplanets form around the most common types of stars in our galaxy. It's a mystery why the alien world, called GJ 3090 b, orbits its star backward (also called a retrograde orbit).",
+        "source": "Live Science",
+        "published": "2026-09-30T16:07:27+00:00",
+        "published_display": "09月30日 23:07",
+        "url": "https://www.livescience.com/space/exoplanets/we-may-need-to-think-differently-star-system-with-backward-planet-moving-the-wrong-way-around-its-star-has-scientists-puzzled",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "28e5bebd9256",
+        "title": "Musee Industrie Lithique in Laayoune, Morocco",
+        "summary": "Thousands of years of Laayoune-area history are preserved in the small Musee Industrie Lithique, run by the eccentric Mr. Each glass case within the museum contains dozens of objects collected by or sent to Mr. Taki, from fossils to prehistoric tools.",
+        "source": "Atlas Obscura",
+        "published": "2026-09-30T16:00:00+00:00",
+        "published_display": "09月30日 23:00",
+        "url": "https://www.atlasobscura.com/places/musee-industrie-lithique",
+        "category": "curiosity",
+        "priority": 3
+      }
+    ]
+  },
+  "history": [
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-27",
+    "2026-09-26",
+    "2026-09-25"
+  ],
+  "source_failures": []
+}
