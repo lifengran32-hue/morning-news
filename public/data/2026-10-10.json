@@ -1,0 +1,580 @@
+{
+  "date": "2026-10-10",
+  "date_display": "2026年10月10日 · 星期六",
+  "updated": "2026-10-10T08:57:19.203610+07:00",
+  "updated_display": "08:57",
+  "sections": {
+    "international": [
+      {
+        "id": "696d4de63b50",
+        "title": "Hurricane Isaias makes landfall in Florida with severe effects expected across several states",
+        "summary": "Governors of Mississippi, Alabama and Florida declared states of emergency as a downsized Fema faces first major test Hurricane Isaias made landfall near Destin, Florida, on Friday evening, sweeping ashore from the northern Gulf of Mexico as the first Atlantic hurricane of the 2026 season. The National Hurricane Center (NHC) in Miami said the center of the cyclone made landfall at 9.30pm ET as a category 2 hurricane.",
+        "source": "The Guardian",
+        "published": "2026-10-10T01:44:33+00:00",
+        "published_display": "10月10日 08:44",
+        "url": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "bcddbe8093a9",
+        "title": "‘I want to thank President Putin’, Trump says after agreeing to lift sanctions on Russian diesel – US politics live",
+        "summary": "Prominent Republicans joined Democrats to condemn president for lifting sanctions on Russian diesel and administration’s plan to livestream execution of Fort Hood attacker Zelenskyy furious as Trump announces deal to buy Russian diesel Sign up for the US Breaking News email In a statement to the Guardian, Robin M Maher , the executive director of the Death Penalty Information Center, said that her group is “not…",
+        "source": "The Guardian",
+        "published": "2026-10-10T01:37:08+00:00",
+        "published_display": "10月10日 08:37",
+        "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "7b1cf2e4874a",
+        "title": "Two Renoir paintings recovered after France museum heist, mayor says",
+        "summary": "The recovered Renoir paintings, valued at millions, were stolen in a daring heist at Cagnes-sur-Mer last month.",
+        "source": "Al Jazeera",
+        "published": "2026-10-10T01:23:12+00:00",
+        "published_display": "10月10日 08:23",
+        "url": "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "582e321073ce",
+        "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
+        "summary": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email , free app or daily news podcast The parents of Australian surfing brothers murdered in Mexico have said “no outcome can ever undo this tragedy” after three men were convicted of the 2024 killings. Australian brothers Jake and Callum Robinson, aged 30 and 33…",
+        "source": "The Guardian",
+        "published": "2026-10-10T00:50:52+00:00",
+        "published_display": "10月10日 07:50",
+        "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "2b3762f9568b",
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+        "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "source": "BBC News",
+        "published": "2026-10-10T00:45:51+00:00",
+        "published_display": "10月10日 07:45",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "f1ac99ba23e1",
+        "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+        "summary": "Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon's health authorities say.",
+        "source": "Al Jazeera",
+        "published": "2026-10-10T00:22:52+00:00",
+        "published_display": "10月10日 07:22",
+        "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "bd8fa6c9c0ac",
+        "title": "‘Life-threatening storm surge’ headed to US Gulf coast as residents brace for Isaias",
+        "summary": "Alabama, Florida and Mississippi declare emergencies, with preparations under way for ‘long-duration power outages’ Hurricane Isaias neared landfall Friday evening, barreling toward the US Gulf coast coast as a dangerous category 2 storm and prompting emergency declarations in Alabama, Florida and Mississippi. The hurricane, the first in the Atlantic in what has turned into a very late 2026 season, is expected to…",
+        "source": "The Guardian",
+        "published": "2026-10-10T00:18:15+00:00",
+        "published_display": "10月10日 07:18",
+        "url": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "d3bfc37a6fdb",
+        "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+        "summary": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets, but the country appeared to escape widespread destruction or deaths. The US Geological Survey (USGS) said the ⁠earthquake hit at a depth of ⁠12.6km (7.8 miles), with an ​epicenter…",
+        "source": "The Guardian",
+        "published": "2026-10-10T00:13:15+00:00",
+        "published_display": "10月10日 07:13",
+        "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "909eaf61d64e",
+        "title": "US immigration officials defend ICE agents who shot man in same car as child",
+        "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+        "source": "BBC News",
+        "published": "2026-10-10T00:13:12+00:00",
+        "published_display": "10月10日 07:13",
+        "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "5aa3b4a6cf5e",
+        "title": "Intercommunal clashes kill 71 people in South Sudan",
+        "summary": "Government security forces regain control of Rumbek town after outsiders attempted to seize the area.",
+        "source": "Al Jazeera",
+        "published": "2026-10-10T00:01:32+00:00",
+        "published_display": "10月10日 07:01",
+        "url": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      }
+    ],
+    "finance": [
+      {
+        "id": "7d6648536021",
+        "title": "Boots has a new owner: Three ways it could affect you",
+        "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
+        "source": "BBC Business",
+        "published": "2026-10-09T23:01:14+00:00",
+        "published_display": "10月10日 06:01",
+        "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "26dc4c39c168",
+        "title": "Bambusa Therapeutics Files for IPO to Fund Eczema Drug Trials",
+        "summary": "Bambusa Therapeutics Inc. filed for a initial public offering to help fund trials of its drugs to treat eczema and other inflammation disorders.",
+        "source": "Bloomberg",
+        "published": "2026-10-09T22:06:37+00:00",
+        "published_display": "10月10日 05:06",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-09/bambusa-therapeutics-files-for-ipo-to-fund-eczema-drug-trials",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "b7ff989d0b34",
+        "title": "A Big Asset Manager Deleveraging Is Underway in Treasury Futures",
+        "summary": "Asset managers are offloading long-duration Treasuries futures contracts, an indication that forced selling is underway as cash yields hover just off multiyear highs.",
+        "source": "Bloomberg",
+        "published": "2026-10-09T20:41:31+00:00",
+        "published_display": "10月10日 03:41",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-09/a-big-asset-manager-deleveraging-is-underway-in-treasury-futures",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "edec5a30f0a5",
+        "title": "Wall Street’s Rate Shock Spreads Beneath AI-Fueled Market Rally",
+        "summary": "The AI-fueled resilience of the world’s most-watched stock indexes is masking a widening retreat across financial markets, as elevated oil prices and borrowing costs take their toll.",
+        "source": "Bloomberg",
+        "published": "2026-10-09T20:34:41+00:00",
+        "published_display": "10月10日 03:34",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-09/wall-street-s-rate-shock-spreads-beneath-ai-fueled-market-rally",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "498012a554f1",
+        "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+        "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+        "source": "BBC Business",
+        "published": "2026-10-09T19:32:50+00:00",
+        "published_display": "10月10日 02:32",
+        "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "d353a23bae34",
+        "title": "Trump establishes committee to investigate Fed governor Lisa Cook",
+        "summary": "US president renews his efforts to oust Cook despite supreme court ruling that her firing was unconstitutional Donald Trump announced on Friday that he is establishing a committee to investigate Lisa Cook, the US Federal Reserve governor, over allegations that she committed mortgage fraud, renewing his efforts to oust her despite a June supreme court ruling that her earlier firing was unconstitutional. Trump said…",
+        "source": "The Guardian Business",
+        "published": "2026-10-09T18:05:12+00:00",
+        "published_display": "10月10日 01:05",
+        "url": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor",
+        "category": "finance",
+        "priority": 4
+      },
+      {
+        "id": "7fe5a5fcc697",
+        "title": "Aritzia Rises Most in Over Two Years on Beat, Better Outlook",
+        "summary": "stock had its best trading day in more than two years as accelerating growth in the US and in online sales delivered another quarterly earnings beat. The company increased its full-year sales forecast. and full-year guidance boost.",
+        "source": "Bloomberg",
+        "published": "2026-10-09T16:41:48+00:00",
+        "published_display": "10月09日 23:41",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-09/aritzia-surges-most-over-a-year-on-earnings-beat-better-outlook",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "514592d84018",
+        "title": "Burnham promises to curb non-compete rules in job contracts",
+        "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
+        "source": "BBC Business",
+        "published": "2026-10-09T16:15:30+00:00",
+        "published_display": "10月09日 23:15",
+        "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "81cb1697e18c",
+        "title": "Christian Bittar has conviction for rigging interest rates quashed",
+        "summary": "Former City banker becomes eighth to clear their name, just days after five others were acquitted Former City trader Christian Bittar has become the eighth person to have his conviction for rigging interest rates quashed, just days after five other former bankers also successfully cleared their names . Christian Bittar, who previously worked for Deutsche Bank, was convicted in 2018 of conspiracy to defraud.",
+        "source": "The Guardian Business",
+        "published": "2026-10-09T15:59:38+00:00",
+        "published_display": "10月09日 22:59",
+        "url": "https://www.theguardian.com/business/2026/oct/09/christian-bittar-conviction-rigging-interest-rates-quashed-euribor",
+        "category": "finance",
+        "priority": 4
+      },
+      {
+        "id": "f7f0b29f18bc",
+        "title": "Drones Help Tackle Shell’s Million-Dollar Hurricane Problem",
+        "summary": "When hurricanes sweep through the Gulf of Mexico, oil companies can lose millions of dollars waiting for the all-clear to restart production. Shell Plc thinks a fleet of drones can help cut that wait.",
+        "source": "Bloomberg",
+        "published": "2026-10-09T15:56:39+00:00",
+        "published_display": "10月09日 22:56",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-09/tiny-drones-help-tackle-shell-s-million-dollar-hurricane-problem",
+        "category": "finance",
+        "priority": 5
+      }
+    ],
+    "technology": [
+      {
+        "id": "7b6a76689a53",
+        "title": "Tech Now",
+        "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+        "source": "BBC Technology",
+        "published": "2026-10-10T01:00:00+00:00",
+        "published_display": "10月10日 08:00",
+        "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+        "category": "technology",
+        "priority": 5
+      },
+      {
+        "id": "6cd6f5cc677d",
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "source": "TechCrunch",
+        "published": "2026-10-10T00:18:32+00:00",
+        "published_display": "10月10日 07:18",
+        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "7b148a7d6529",
+        "title": "Neanderthal wooden tools from Spain found preserved in stone",
+        "summary": "Dissolved rock precipitated around the tools, which then decayed.",
+        "source": "Ars Technica",
+        "published": "2026-10-09T22:34:03+00:00",
+        "published_display": "10月10日 05:34",
+        "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "78d6481c227d",
+        "title": "Long live the mechanical keyboard",
+        "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+        "source": "TechCrunch",
+        "published": "2026-10-09T22:08:24+00:00",
+        "published_display": "10月10日 05:08",
+        "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "d587fa318b28",
+        "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+        "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+        "source": "Ars Technica",
+        "published": "2026-10-09T22:04:07+00:00",
+        "published_display": "10月10日 05:04",
+        "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "3aba3f2d9e72",
+        "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+        "summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+        "source": "Ars Technica",
+        "published": "2026-10-09T21:51:12+00:00",
+        "published_display": "10月10日 04:51",
+        "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "b0e83be7355c",
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+        "source": "TechCrunch",
+        "published": "2026-10-09T21:41:29+00:00",
+        "published_display": "10月10日 04:41",
+        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "dcdb848fb53a",
+        "title": "NASA issues long-awaited call to industry for private space stations",
+        "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+        "source": "Ars Technica",
+        "published": "2026-10-09T21:34:09+00:00",
+        "published_display": "10月10日 04:34",
+        "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "67e65a46cccb",
+        "title": "What's been driving Hawaii's lava fountains?",
+        "summary": "Before the lava fountains started, the ground was expanding by half a meter a day.",
+        "source": "Ars Technica",
+        "published": "2026-10-09T21:05:01+00:00",
+        "published_display": "10月10日 04:05",
+        "url": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "048fcb30e5f3",
+        "title": "AI coding agents generate more code, but not more software",
+        "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+        "source": "Ars Technica",
+        "published": "2026-10-09T19:43:50+00:00",
+        "published_display": "10月10日 02:43",
+        "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+        "category": "technology",
+        "priority": 4
+      }
+    ],
+    "domestic": [
+      {
+        "id": "411ea8944166",
+        "title": "广州白云机场口岸今年出入境客货航班超10万架次",
+        "summary": "中新网广州10月10日电 (方伟彬 林圣敏)记者9日从广州白云边检站获悉，截至当天，白云机场口岸今年以来查验出入境客货航班超10万架次，同比增长12.3%，刷新历史最快纪录。",
+        "source": "中国新闻网·财经",
+        "published": "2026-10-10T01:51:56+00:00",
+        "published_display": "10月10日 08:51",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710021.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "70fca4994301",
+        "title": "中国商务部：反对个别国家以所谓“产能过剩”为名行保护主义之实",
+        "summary": "中新社北京10月10日电 (记者 尹倩芸)中国商务部新闻发言人9日晚间表示，中方反对个别国家以所谓“产能过剩”为名，行贸易保护主义之实。如果未来有关经济体以此为借口，采取损害中方利益的措施，中方将作出必要回应。",
+        "source": "中国新闻网·财经",
+        "published": "2026-10-10T01:49:26+00:00",
+        "published_display": "10月10日 08:49",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710016.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "6635ef91e139",
+        "title": "今年第七期和第八期凭证式国债今天开售",
+        "summary": "今天(10日)起，2026年第七期储蓄国债(凭证式)和2026年第八期储蓄国债(凭证式)开始发行，单一个人购买单期储蓄国债(凭证式)金额最高为50万元。这两期国债均为固定利率、固定期限品种。",
+        "source": "中国新闻网·财经",
+        "published": "2026-10-10T01:42:58+00:00",
+        "published_display": "10月10日 08:42",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710030.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "13dc1ba936ed",
+        "title": "央行10月10日7天期逆回购操作量为零",
+        "summary": "中新网10月10日电 据央行网站消息，根据公开市场业务一级交易商的需求，2026年10月10日7天期逆回购操作量为零。具体情况如下：",
+        "source": "中国新闻网·财经",
+        "published": "2026-10-10T01:33:19+00:00",
+        "published_display": "10月10日 08:33",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710027.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "bae30ca31ece",
+        "title": "水利部发布8项水利行业标准",
+        "summary": "中新网10月10日电 据中国水利微信公众号消息，近日，水利部发布2026年第18号公告，批准发布《土壤侵蚀分类分级标准》等8项水利行业标准。相关标准将于2026年12月11日起实施。",
+        "source": "中国新闻网·国内",
+        "published": "2026-10-10T01:12:14+00:00",
+        "published_display": "10月10日 08:12",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710013.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "a01e9c636b6e",
+        "title": "金融监管总局发布《财产保险公司保险产品开发管理规定》",
+        "summary": "中新网10月10日电 据国家金融监管总局微信公众号消息，为进一步规范财产保险公司保险产品开发行为，保护投保人、被保险人和受益人合法权益，持续释放强监管信号，提升保险产品供给质效，促进财产保险业高质量发展。近日，金融监管总局修订发布《财产保险公司保险产品开发管理规定》(以下简称《规定》)。",
+        "source": "中国新闻网·财经",
+        "published": "2026-10-10T01:10:40+00:00",
+        "published_display": "10月10日 08:10",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710005.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "72bfc9519da8",
+        "title": "金融监管总局有关司局负责人就《财产保险公司保险产品开发管理规定》答记者问",
+        "summary": "近日，金融监管总局发布《财产保险公司保险产品开发管理规定》(以下简称《规定》)。日前，金融监管总局有关司局负责人就相关问题回答了记者提问。",
+        "source": "中国新闻网·财经",
+        "published": "2026-10-10T01:02:35+00:00",
+        "published_display": "10月10日 08:02",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710007.shtml",
+        "category": "domestic",
+        "priority": 5
+      }
+    ],
+    "other": [
+      {
+        "id": "50c38b06fc65",
+        "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+        "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
+        "source": "BBC Science",
+        "published": "2026-10-10T01:51:30+00:00",
+        "published_display": "10月10日 08:51",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "92dbbdf72de6",
+        "title": "'People don't think recycling at work is part of their job description'",
+        "summary": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
+        "source": "BBC Science",
+        "published": "2026-10-09T19:11:27+00:00",
+        "published_display": "10月10日 02:11",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "fa3ff3c2b15a",
+        "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
+        "summary": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds.",
+        "source": "BBC Science",
+        "published": "2026-10-09T13:01:57+00:00",
+        "published_display": "10月09日 20:01",
+        "url": "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "beef92bb56d4",
+        "title": "Hurricane Isaias strengthens to a major category three storm",
+        "summary": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
+        "source": "BBC Science",
+        "published": "2026-10-09T12:54:28+00:00",
+        "published_display": "10月09日 19:54",
+        "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "af305915c2af",
+        "title": "You have a higher chance of getting cancer at a younger age than your parents. So what went wrong? | Devi Sridhar",
+        "summary": "Some change in our lifestyles and environments over a generation has caused this increased risk. What, exactly, is a mystery Prof Devi Sridhar is chair of global public health at the University of Edinburgh In the field of global health, we often talk about each generation living longer and healthier lives than their parents. We’ve seen this in the gains in life expectancy, the sharp decrease in child mortality…",
+        "source": "The Guardian Science",
+        "published": "2026-10-09T07:00:42+00:00",
+        "published_display": "10月09日 14:00",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset",
+        "category": "other",
+        "priority": 3
+      }
+    ],
+    "curiosity": [
+      {
+        "id": "b3fc4dfc4614",
+        "title": "Scientists Took a Cheek Swab From the World's Oldest Tortoise. His DNA Could Reveal Hints to Longevity",
+        "summary": "Jonathan, an Aldabra giant tortoise, is about 194 years old and the oldest land animal alive today. Discoveries about his genetics could provide clues to extending lifespan in humans",
+        "source": "Smithsonian Smart News",
+        "published": "2026-10-09T17:28:10+00:00",
+        "published_display": "10月10日 00:28",
+        "url": "https://www.smithsonianmag.com/smart-news/scientists-took-a-cheek-swab-from-the-worlds-oldest-tortoise-his-dna-could-reveal-hints-to-longevity-180989663",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "7fd89e2a8db2",
+        "title": "This One-of-a-Kind Bronze Ring Offers a Tantalizing Glimpse at the Lighthouse of Alexandria, a Lost Wonder of the Ancient World",
+        "summary": "Archaeologists in Egypt discovered the signet ring while conducting excavations on the island of Antirhodos, which once housed a lavish Ptolemaic palace",
+        "source": "Smithsonian Smart News",
+        "published": "2026-10-09T15:21:52+00:00",
+        "published_display": "10月09日 22:21",
+        "url": "https://www.smithsonianmag.com/smart-news/this-one-of-a-kind-bronze-ring-offers-a-tantalizing-glimpse-at-the-lighthouse-of-alexandria-a-lost-wonder-of-the-ancient-world-180989661",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "c2b7be6d09f1",
+        "title": "A Century Ago, an Extinct Crocodilian's Skull Was Found in the Rocks That Built the Sphinx. Turns Out, It Belonged to a New Species",
+        "summary": "The specimen was long mislabeled, according to a new study. Paleontologists identified it as a previously undescribed genus and species of gavial—a cousin of crocodiles and alligators—which they named after the ancient Egyptian god Horus",
+        "source": "Smithsonian Smart News",
+        "published": "2026-10-09T15:00:00+00:00",
+        "published_display": "10月09日 22:00",
+        "url": "https://www.smithsonianmag.com/smart-news/a-century-ago-an-extinct-crocidilians-skull-was-found-in-the-rocks-that-built-the-sphinx-turns-out-it-belonged-to-a-new-species-180989641",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "ed6495316498",
+        "title": "A Community-Led Archaeology Dig on a Tiny Scottish Isle Has Unearthed a Medieval Monastery of 'International Importance'",
+        "summary": "The settlement, founded by an early Christian saint in the 500s, is \"far more than a small island church.\" It may have played a larger role in the Christianization of Britain than historians once realized",
+        "source": "Smithsonian Smart News",
+        "published": "2026-10-09T14:35:25+00:00",
+        "published_display": "10月09日 21:35",
+        "url": "https://www.smithsonianmag.com/smart-news/a-community-led-archaeology-dig-on-a-tiny-scottish-isle-has-unearthed-a-medieval-monastery-of-international-importance-180989654",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "af91a21cf229",
+        "title": "中澳学者合作研究3.6亿年前鱼化石 建立肺鱼类一新属新种",
+        "summary": "中新网北京10月9日电 (记者 孙自法)记者10月9日从中国科学院古脊椎动物与古人类研究所(古脊椎所)卢静研究员团队获悉，该团队与澳大利亚合作者对发现于巴基斯坦北部西喀喇昆仑地区的晚泥盆世(约3.6亿年前)肺鱼化石开展研究，最新建立了肺鱼类一新属新种，命名为库拉格塔伦特鱼。",
+        "source": "中国新闻网·社会",
+        "published": "2026-10-09T12:56:21+00:00",
+        "published_display": "10月09日 19:56",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709894.shtml",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "3e4aed73957b",
+        "title": "1.5米大蛇闯入民宅 鸡西边境民警成功抓捕放归山林",
+        "summary": "中新网鸡西10月9日电 (张方洲 廉明 韩雪)近日，黑龙江省鸡东县平阳村一村民院内发现一条野生蛇类。鸡西边境管理支队平阳边境派出所接警后处置，将蛇捕获并放归山林。",
+        "source": "中国新闻网·社会",
+        "published": "2026-10-09T11:11:10+00:00",
+        "published_display": "10月09日 18:11",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709817.shtml",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "95a848233678",
+        "title": "Bronze ring with Lighthouse of Alexandria engraving discovered at palace on submerged island in Egypt",
+        "summary": "A bronze signet ring depicting the Lighthouse of Alexandria, a wonder of the ancient world , has been discovered underwater in the Mediterranean off Alexandria, Egypt. A joint team from the European Institute for Underwater Archaeology (IEASM) and the Egyptian Ministry of Tourism and Antiquities found the artifact in the remains of a palace on the now-submerged island of Antirhodos, marking the first time a…",
+        "source": "Live Science",
+        "published": "2026-10-09T10:00:00+00:00",
+        "published_display": "10月09日 17:00",
+        "url": "https://www.livescience.com/archaeology/ancient-egyptians/bronze-ring-with-lighthouse-of-alexandria-engraving-discovered-at-palace-on-submerged-island-in-egypt",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "955fb13e8a09",
+        "title": "South Korean 'robot dog' became first to run a marathon on a single battery charge — now we know how",
+        "summary": "A four-legged robot completed a full marathon on a single battery charge, covering 26.2 miles (42.2 kilometers) on a hilly public-road course in South Korea two years ago. Now we know a lot more about how it achieved this record-breaking feat. The dog-like robot, called RAIBO2, finished the 22nd annual Sangju Dried-Persimmon Marathon in just over 4 hours, 19 minutes.",
+        "source": "Live Science",
+        "published": "2026-10-09T09:00:00+00:00",
+        "published_display": "10月09日 16:00",
+        "url": "https://www.livescience.com/technology/robotics/south-korean-robot-dog-becomes-first-to-run-a-marathon-on-a-single-battery-charge",
+        "category": "curiosity",
+        "priority": 4
+      }
+    ]
+  },
+  "history": [
+    "2026-10-10",
+    "2026-10-09",
+    "2026-10-08",
+    "2026-10-07",
+    "2026-10-06",
+    "2026-10-05",
+    "2026-10-04"
+  ],
+  "source_failures": []
+}
