@@ -1,0 +1,580 @@
+{
+  "date": "2026-10-23",
+  "date_display": "2026年10月23日 · 星期五",
+  "updated": "2026-10-23T08:03:01.284244+07:00",
+  "updated_display": "08:03",
+  "sections": {
+    "international": [
+      {
+        "id": "ac853f5f9dd5",
+        "title": "Department of Justice opens criminal investigation into Corey Lewandowski",
+        "summary": "Ex-Trump adviser and former top aide for homeland security alleged to have profited off government role Corey Lewandowski, a former political adviser to Donald Trump and ⁠top aide at the Department ⁠of Homeland Security, ​is under criminal investigation over allegations he profited off his role in the US government, three US officials and a fourth person familiar with the matter told Reuters ⁠on Thursday. The…",
+        "source": "The Guardian",
+        "published": "2026-10-23T00:55:02+00:00",
+        "published_display": "10月23日 07:55",
+        "url": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "8006443cbc11",
+        "title": "Trump defends Ohio Democrat’s estranged mother after Ramaswamy’s widely criticized campaign ad – live",
+        "summary": "Trump defends Amy Acton’s estranged mother, who stayed with her husband charged with raping her daughter, and touts Vivek Ramaswamy’s ‘well coordinated’ attack ad Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad Reporting from Anchorage, Alaska Mary Peltola’s campaign to represent Alaska in the US Senate has taken her to parts of the massive…",
+        "source": "The Guardian",
+        "published": "2026-10-23T00:52:11+00:00",
+        "published_display": "10月23日 07:52",
+        "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "8a38805ece8d",
+        "title": "Massive student-led rally marches in Belgrade ahead of Serbian election",
+        "summary": "Student List movement hopes to oust the party of veteran leader Aleksandar Vucic in a pivotal vote on Sunday Explained: what’s at stake in Serbia’s election? The key players, main issues and potential fallout About 150,000 supporters of Serbia’s opposition student movement rallied in central Belgrade on Thursday, seeking to oust the party of veteran leader Aleksandar Vucic in crunch parliamentary elections this…",
+        "source": "The Guardian",
+        "published": "2026-10-23T00:22:56+00:00",
+        "published_display": "10月23日 07:22",
+        "url": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "be9481d2600e",
+        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+        "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+        "source": "BBC News",
+        "published": "2026-10-23T00:10:46+00:00",
+        "published_display": "10月23日 07:10",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "465972919286",
+        "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+        "summary": "Trump indicates new strikes on Iran, saying the US has knocked the 'hell out' of the country.",
+        "source": "Al Jazeera",
+        "published": "2026-10-23T00:00:00+00:00",
+        "published_display": "10月23日 07:00",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "5b870876e356",
+        "title": "Australia offers astronaut Katherine Bennell-Pegg for space mission to International Space Station",
+        "summary": "Australian of the Year would become the first astronaut in space to qualify under the Australian flag if she embarks on the 2028 mission Get our breaking news email , free app or daily news podcast The federal government has sent an offer to the European Space Agency (ESA) to send the Australian of the Year, astronaut Katherine Bennell-Pegg, to the International Space Station. The mission, slated for 2028, will…",
+        "source": "The Guardian",
+        "published": "2026-10-22T23:51:24+00:00",
+        "published_display": "10月23日 06:51",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/23/australian-astronaut-katherine-bennell-pegg-2028-space-mission",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "212482c882de",
+        "title": "Almost all shallow-water coral reefs now face extinction risk, study warns",
+        "summary": "World authority on threatened wildlife classifies 96 percent of assessed coral reef systems as \"critically endangered\".",
+        "source": "Al Jazeera",
+        "published": "2026-10-22T23:32:13+00:00",
+        "published_display": "10月23日 06:32",
+        "url": "https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "cbb52ea7b677",
+        "title": "Rebel Wilson secures another Australian court win as co-producers of The Deb awarded just $10",
+        "summary": "NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued Australian A-lister Rebel Wilson has secured a major court victory after co-producers of her debut film accused her of sabotage, lying and breaching contracts. The Pitch Perfect star directed, co-produced and starred in The Deb , a musical comedy that became the battleground for…",
+        "source": "The Guardian",
+        "published": "2026-10-22T23:31:22+00:00",
+        "published_display": "10月23日 06:31",
+        "url": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "ef3835611c59",
+        "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+        "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+        "source": "BBC News",
+        "published": "2026-10-22T23:16:20+00:00",
+        "published_display": "10月23日 06:16",
+        "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "550a37e4dbfb",
+        "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+        "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+        "source": "BBC News",
+        "published": "2026-10-22T23:16:16+00:00",
+        "published_display": "10月23日 06:16",
+        "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      }
+    ],
+    "finance": [
+      {
+        "id": "51c9d8399129",
+        "title": "Japanese Bond Yields Fall as AI Jitters Spur Haven Demand",
+        "summary": "Japanese government bond yields fell across the curve on Friday as an AI-driven selloff in equities boosted demand for haven assets, with a rally in US Treasuries spilling over into the Japanese market.",
+        "source": "Bloomberg",
+        "published": "2026-10-23T00:42:43+00:00",
+        "published_display": "10月23日 07:42",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-23/japanese-bond-yields-fall-as-ai-jitters-spur-haven-demand",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "a4f9ee8a0d8a",
+        "title": "China AI Model Stocks’ $150 Billion Drop Shows No Sign of Easing",
+        "summary": "There’s no end in sight for the selloff in China’s artificial intelligence model developer stocks, with competition growing ever more heated and the threat of rival listings next year.",
+        "source": "Bloomberg",
+        "published": "2026-10-23T00:30:00+00:00",
+        "published_display": "10月23日 07:30",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-23/china-ai-model-stocks-150-billion-drop-shows-no-sign-of-easing",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "e8521c68ac29",
+        "title": "Zip Shares Slide 50% After Flagging Costs Tied to US Fraud Event",
+        "summary": "Shares of Australian payments firm Zip Co. roughly halved after the company flagged A$10.1 million ($7.1 million) in expenses related to an external fraud event in the US.",
+        "source": "Bloomberg",
+        "published": "2026-10-23T00:17:05+00:00",
+        "published_display": "10月23日 07:17",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-23/zip-shares-slide-50-after-flagging-costs-tied-to-us-fraud-event",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "f298f08f1831",
+        "title": "Gold Holds Near Three-Month Low as AI Jitters Fuel Volatility",
+        "summary": "Gold steadied near its lowest close in more than three months as investors sold the precious metal in a cross-market stock rout.",
+        "source": "Bloomberg",
+        "published": "2026-10-23T00:15:37+00:00",
+        "published_display": "10月23日 07:15",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-23/gold-holds-near-three-month-low-as-ai-jitters-fuel-volatility",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "e126388b0824",
+        "title": "Korean Stocks Drop on Chip Losses After US Selloff, Oil Gains",
+        "summary": "South Korean stocks retreated as heavyweight chipmakers declined, tracking an overnight selloff in US technology shares amid rising oil prices.",
+        "source": "Bloomberg",
+        "published": "2026-10-23T00:06:35+00:00",
+        "published_display": "10月23日 07:06",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-23/korean-stocks-drop-on-chip-losses-after-us-selloff-oil-gains",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "b48abfc5fb87",
+        "title": "Japan Inflation Rises Above BOJ Target, Backing Rate Hikes",
+        "summary": "Japan’s key price gauge rose above the Bank of Japan’s target level for the first time this year, supporting the case for a widely expected BOJ interest rate hike in December.",
+        "source": "Bloomberg",
+        "published": "2026-10-22T23:32:16+00:00",
+        "published_display": "10月23日 06:32",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-22/japan-inflation-rises-above-boj-target-level-backing-rate-hikes",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "adde03cfb5fd",
+        "title": "Australia’s Victoria State Approves $700 Million Gas Project",
+        "summary": "Australia’s Victoria state has approved the production license for a A$1 billion ($700 million) natural gas project to help avoid a forecast gas shortage.",
+        "source": "Bloomberg",
+        "published": "2026-10-22T23:25:32+00:00",
+        "published_display": "10月23日 06:25",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-22/australia-s-victoria-state-approves-700-million-gas-project",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "1b41190013c3",
+        "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+        "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+        "source": "BBC Business",
+        "published": "2026-10-22T23:20:38+00:00",
+        "published_display": "10月23日 06:20",
+        "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "80af6eb4a332",
+        "title": "Grid operator says lights will stay on this winter after concerns",
+        "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+        "source": "BBC Business",
+        "published": "2026-10-22T23:04:38+00:00",
+        "published_display": "10月23日 06:04",
+        "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "7b439f1d7fb4",
+        "title": "Rio Tinto to Spend $1.9 Billion on Australian Bauxite Expansion",
+        "summary": "Rio Tinto Group will spend $1.9 billion to expand its bauxite mining operations in northern Australia, with the development of a new major mine to replace production from depleting projects.",
+        "source": "Bloomberg",
+        "published": "2026-10-22T22:22:10+00:00",
+        "published_display": "10月23日 05:22",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-22/rio-tinto-to-spend-1-9-billion-on-australian-bauxite-expansion",
+        "category": "finance",
+        "priority": 5
+      }
+    ],
+    "technology": [
+      {
+        "id": "8937fd9c8277",
+        "title": "Left alone with nothing to do, AI agents started playing",
+        "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+        "source": "TechCrunch",
+        "published": "2026-10-23T00:45:37+00:00",
+        "published_display": "10月23日 07:45",
+        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "93ee3750c1cc",
+        "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+        "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+        "source": "TechCrunch",
+        "published": "2026-10-22T23:50:41+00:00",
+        "published_display": "10月23日 06:50",
+        "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "45bf2434c375",
+        "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+        "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+        "source": "TechCrunch",
+        "published": "2026-10-22T23:15:00+00:00",
+        "published_display": "10月23日 06:15",
+        "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "5a8c43ecaaad",
+        "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+        "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+        "source": "TechCrunch",
+        "published": "2026-10-22T22:34:54+00:00",
+        "published_display": "10月23日 05:34",
+        "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "4a7fb2460297",
+        "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+        "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+        "source": "Ars Technica",
+        "published": "2026-10-22T22:25:33+00:00",
+        "published_display": "10月23日 05:25",
+        "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "95f235603e5b",
+        "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+        "summary": "Markers released top-line results today after previously reporting the trial succeeded.",
+        "source": "Ars Technica",
+        "published": "2026-10-22T22:12:19+00:00",
+        "published_display": "10月23日 05:12",
+        "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "6372ebaa66c8",
+        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+        "source": "TechCrunch",
+        "published": "2026-10-22T22:08:24+00:00",
+        "published_display": "10月23日 05:08",
+        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "d96f1085411f",
+        "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+        "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
+        "source": "Ars Technica",
+        "published": "2026-10-22T21:52:31+00:00",
+        "published_display": "10月23日 04:52",
+        "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "5bc8e6d4e11f",
+        "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+        "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+        "source": "Ars Technica",
+        "published": "2026-10-22T21:07:09+00:00",
+        "published_display": "10月23日 04:07",
+        "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "19863054b203",
+        "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+        "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+        "source": "TechCrunch",
+        "published": "2026-10-22T21:05:05+00:00",
+        "published_display": "10月23日 04:05",
+        "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions",
+        "category": "technology",
+        "priority": 3
+      }
+    ],
+    "domestic": [
+      {
+        "id": "d9b842351c21",
+        "title": "西藏那曲发生7.0级地震，自然资源部启动地质灾害防御Ⅲ‌级响应",
+        "summary": "据中国地震台网测定，10月22日22时33分，西藏那曲市巴青县(北纬32.4度，东经93.79度)发生7.0级地震，震源深度10公里。为做好地震可能引发次生地质灾害防范工作，自然资源部于10月23日6时对西藏启动地质灾害防御Ⅲ#8204;级响应，在前期驻守基础上，加派司局级领导带队的专家工作组前往震区，协助指导地方做好应急救援技术支撑、次生地质灾害排查、应急处置等工作。",
+        "source": "中国新闻网·国内",
+        "published": "2026-10-23T00:49:41+00:00",
+        "published_display": "10月23日 07:49",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719497.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "2fe82d49f156",
+        "title": "西藏巴青县发生7.0级地震 国家地震灾害应急响应提升至三级",
+        "summary": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震，已造成16人遇难，54人受伤。",
+        "source": "中国新闻网·国内",
+        "published": "2026-10-23T00:46:55+00:00",
+        "published_display": "10月23日 07:46",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719494.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "a36efda8c335",
+        "title": "中国红十字会总会紧急向西藏地震灾区调拨救灾物资",
+        "summary": "中新网10月23日电 据中国红十字会微信公众号消息，2026年10月22日22时33分，在西藏那曲市巴青县发生7.0级地震，震源深度10公里。针对西藏自治区等地地震灾害和救灾需求，中国红十字会总会启动应急响应，紧急向受灾地区调拨赈济家庭包、卫生包、取暖炉、棉帐篷、冲锋衣、折叠床、棉被等救灾物资3800件(套)，并派出工作组赴灾区指导受灾地区做好群众转移安置和生活保障工作。",
+        "source": "中国新闻网·国内",
+        "published": "2026-10-23T00:41:33+00:00",
+        "published_display": "10月23日 07:41",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719490.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "dc4624bd7637",
+        "title": "西藏巴青发生7.0级地震 两部门启动国家地震灾害四级应急响应",
+        "summary": "中新社北京10月23日电 (记者 郭超凯)记者23日从中国应急管理部获悉，西藏那曲市巴青县发生7.0级地震后，国务院抗震救灾指挥部办公室、应急管理部启动国家地震灾害四级应急响应。",
+        "source": "中国新闻网·国内",
+        "published": "2026-10-23T00:39:57+00:00",
+        "published_display": "10月23日 07:39",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719484.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "e0a3c599e75a",
+        "title": "全国蛋价跌回“4元时代” 未来还会降吗？走势预测→",
+        "summary": "鸡蛋是老百姓菜篮子里的刚需品，国庆节前还挺贵的鸡蛋，现在价格明显回落，不少市民买鸡蛋都感受到了实惠。",
+        "source": "中国新闻网·财经",
+        "published": "2026-10-22T23:45:48+00:00",
+        "published_display": "10月23日 06:45",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719473.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "75d32c817a24",
+        "title": "网红钛制品真能抑菌保鲜吗？先认准钛的“身份证”",
+        "summary": "真相来了丨网红钛制品真能抑菌保鲜吗？先认准钛的“身份证”",
+        "source": "中国新闻网·财经",
+        "published": "2026-10-22T23:42:08+00:00",
+        "published_display": "10月23日 06:42",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719472.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "3ce45e370a76",
+        "title": "西藏那曲市巴青县发生7.0级地震 西部战区官兵连夜救援",
+        "summary": "中新网10月23日电 据“西部战区”微信公众号消息，10月22日22时33分，西藏那曲市巴青县(北纬32.40度，东经93.79度)发生7.0级地震，震源深度10千米。",
+        "source": "中国新闻网·国内",
+        "published": "2026-10-22T23:27:11+00:00",
+        "published_display": "10月23日 06:27",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719468.shtml",
+        "category": "domestic",
+        "priority": 5
+      }
+    ],
+    "other": [
+      {
+        "id": "f6a315777565",
+        "title": "Amber warning in place as Storm Austen hits parts of UK",
+        "summary": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
+        "source": "BBC Science",
+        "published": "2026-10-23T00:08:43+00:00",
+        "published_display": "10月23日 07:08",
+        "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "5075b5017e5b",
+        "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
+        "summary": "The Met Office has issued a yellow warning for rain across most of central and eastern Scotland on Friday.",
+        "source": "BBC Science",
+        "published": "2026-10-22T21:59:43+00:00",
+        "published_display": "10月23日 04:59",
+        "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "22ef589310bb",
+        "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
+        "summary": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
+        "source": "BBC Science",
+        "published": "2026-10-22T21:21:22+00:00",
+        "published_display": "10月23日 04:21",
+        "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "b59588ef57eb",
+        "title": "BBC Inside Science",
+        "summary": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth.",
+        "source": "BBC Science",
+        "published": "2026-10-22T20:00:00+00:00",
+        "published_display": "10月23日 03:00",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "e694ca175a03",
+        "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
+        "summary": "Crews and control centre staff say the fires were relentless with many firefighters still off work injured.",
+        "source": "BBC Science",
+        "published": "2026-10-22T18:48:59+00:00",
+        "published_display": "10月23日 01:48",
+        "url": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      }
+    ],
+    "curiosity": [
+      {
+        "id": "2f2c23754b29",
+        "title": "This Mysterious Medieval Manuscript Has Stumped Scholars for Well Over a Century. Could Its Pages Have Been Bound Out of Order This Whole Time?",
+        "summary": "A new study claims that the pages of the Voynich Manuscript, thought to be written by several different scribes in 16th-century Europe, alternate irregularly. It may change the way codebreakers approach the text",
+        "source": "Smithsonian Smart News",
+        "published": "2026-10-22T20:21:27+00:00",
+        "published_display": "10月23日 03:21",
+        "url": "https://www.smithsonianmag.com/smart-news/this-mysterious-medieval-manuscript-has-stumped-scholars-for-well-over-a-century-could-its-pages-have-been-bound-out-of-order-this-whole-time-180989737",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "6acab0970bc8",
+        "title": "'We're never going to come home': Artemis II commander recalls the most terrifying moment of his 10-day trip around the moon",
+        "summary": "TENERIFE, Spain — The commander of NASA's Artemis II mission briefly feared that he and his crew would never return home from their trip around the moon after overshooting their turn-back point. Commander Reid Wiseman and his three crewmates were supposed to reach 219,667 nautical miles (252,788 standard miles, or 406,823 kilometers) — farther than any humans have ever traveled from their home planet — before…",
+        "source": "Live Science",
+        "published": "2026-10-22T20:00:00+00:00",
+        "published_display": "10月23日 03:00",
+        "url": "https://www.livescience.com/space/space-exploration/were-never-going-to-come-home-artemis-ii-commander-recalls-the-most-terrifying-moment-of-his-10-day-trip-around-the-moon",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "642e2dad2a52",
+        "title": "Crows may make lightning-fast decisions, sometimes twice as fast as humans, study hints",
+        "summary": "Crows are intelligent animals that can use tools , hold grudges and even host funerals . Now, new research suggests these birds can make certain decisions faster than humans and monkeys — another potential sign of their smarts, the researchers argue. In a study published Thursday (Oct.",
+        "source": "Live Science",
+        "published": "2026-10-22T19:34:26+00:00",
+        "published_display": "10月23日 02:34",
+        "url": "https://www.livescience.com/animals/birds/crows-may-make-lightning-fast-decisions-sometimes-twice-as-fast-as-humans-study-hints",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "5daa772540bf",
+        "title": "Japan launches world's first round-trip mission to Mars.",
+        "summary": "19), Japan's space agency launched a first-of-its-kind sample-return mission to Mars . The historic endeavor marks another major step toward humanity's shared goal of understanding — and perhaps eventually colonizing — one of our closest planetary neighbors , experts say. The Japan Aerospace Exploration Agency's (JAXA) Martian Moons Exploration (MMX) probe is an international effort, constructed with help from…",
+        "source": "Live Science",
+        "published": "2026-10-22T16:46:36+00:00",
+        "published_display": "10月22日 23:46",
+        "url": "https://www.livescience.com/space/space-exploration/worlds-first-round-trip-mission-to-mars-has-launched-why-it-could-be-a-transformative-leap-for-science",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "9be817278dd2",
+        "title": "Will plants survive climate change? The 'Great Dying' reveals clues about their resilience.",
+        "summary": "About 251 million years ago, volcanic eruptions wiped out most life on Earth. For about a million years , the Siberian Traps in Russia spewed huge clouds of carbon dioxide into the atmosphere, leading to the most severe extinction event in our planet's history. Equatorial temperatures spiked , making much of the land too hot for life.",
+        "source": "Live Science",
+        "published": "2026-10-22T16:00:00+00:00",
+        "published_display": "10月22日 23:00",
+        "url": "https://www.livescience.com/planet-earth/plants/can-plants-survive-climate-change-an-armory-of-unique-adaptations-could-see-some-grow-with-the-flow",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "e3b28150fdce",
+        "title": "广西大明山发现马兜铃属新物种 目前记录个体数量不足10株",
+        "summary": "中新网南宁10月22日电 (许倩)广西大明山国家级自然保护区管理局22日介绍，近日，大明山保护区再添一新物种——大明山马兜铃，目前记录的个体数量不足10株。",
+        "source": "中国新闻网·社会",
+        "published": "2026-10-22T13:32:50+00:00",
+        "published_display": "10月22日 20:32",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719371.shtml",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "bb80fec9386c",
+        "title": "Archaeologists May Have Solved the Mystery of a Roman Sarcophagus Excavated at Westminster Abbey in 1869",
+        "summary": "New research suggests that the ancient coffin was repurposed in the 10th or 11th century to hold the remains of an abbot who had overseen the London monastery",
+        "source": "Smithsonian Smart News",
+        "published": "2026-10-21T20:34:09+00:00",
+        "published_display": "10月22日 03:34",
+        "url": "https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "a127212c5753",
+        "title": "Hunebed D27 in Borger, Netherlands",
+        "summary": "Just a short walk from the Hunebedcentrum in Borger stands D27, the largest dolmen in the Netherlands. At over 22 meters (74 feet) long and more than 5,000 years old, this megalithic monument was already ancient when Stonehenge was still centuries away. Massive boulders form the tomb, including the heaviest capstone ever used in a Dutch dolmen, estimated to weigh around 20 tons.",
+        "source": "Atlas Obscura",
+        "published": "2026-10-21T20:00:00+00:00",
+        "published_display": "10月22日 03:00",
+        "url": "https://www.atlasobscura.com/places/hunebed-d27",
+        "category": "curiosity",
+        "priority": 3
+      }
+    ]
+  },
+  "history": [
+    "2026-10-23",
+    "2026-10-22",
+    "2026-10-21",
+    "2026-10-20",
+    "2026-10-19",
+    "2026-10-18",
+    "2026-10-17"
+  ],
+  "source_failures": []
+}
