@@ -1,0 +1,580 @@
+{
+  "date": "2026-11-11",
+  "date_display": "2026年11月11日 · 星期三",
+  "updated": "2026-11-11T09:19:36.425050+07:00",
+  "updated_display": "09:19",
+  "sections": {
+    "international": [
+      {
+        "id": "dff338b1db31",
+        "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
+        "summary": "Republicans secure majority of votes to send articles introduced by Thomas Massie to committee, meaning there won’t be a full vote on chamber floor House Republicans block effort to impeach Pentagon chief Pete Hegseth Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the…",
+        "source": "The Guardian",
+        "published": "2026-11-11T02:04:05+00:00",
+        "published_display": "11月11日 09:04",
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "550ebaa80a45",
+        "title": "Nima Momeni sentenced to 16 years to life in murder of Cash App founder Bob Lee",
+        "summary": "Tech consultant convicted of second-degree murder in 2023 stabbing death of Cash App founder Nima Momeni, the man convicted of murdering Cash App founder Bob Lee, has been sentenced to 16 years to life. Momeni, 42, has been in San Francisco’s county jail since late-April of 2023, after he was arrested in connection with the stabbing death of Lee, who had created the mobile payment service and was serving as the…",
+        "source": "The Guardian",
+        "published": "2026-11-11T01:53:38+00:00",
+        "published_display": "11月11日 08:53",
+        "url": "https://www.theguardian.com/us-news/2026/nov/10/bob-lee-cash-app-nima-momeni-sentenced",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "145a77caf8dd",
+        "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+        "summary": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
+        "source": "Al Jazeera",
+        "published": "2026-11-11T01:44:21+00:00",
+        "published_display": "11月11日 08:44",
+        "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "58c1501be82c",
+        "title": "Macquarie Bank to pay $14m penalty after confusing ‘welcome rate’ promotion",
+        "summary": "Asic says customers should not have to check every transaction to ensure they receive the correct interest Get our breaking news email , free app or daily news podcast Macquarie Bank is set to pay a $14m court-imposed penalty after it admitted to breaking the Corporations Act with its “welcome rate” promotions. The penalty comes amid a crackdown by Australian Securities and Investments Commission over complex…",
+        "source": "The Guardian",
+        "published": "2026-11-11T01:23:39+00:00",
+        "published_display": "11月11日 08:23",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/11/macquarie-bank-14m-penalty-welcome-rate-savings-account",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "dafd0f351ed2",
+        "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+        "summary": "Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over edit Federal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit against the BBC can proceed, denying in part the British broadcaster’s motion to dismiss the case. The president’s $10bn defamation lawsuit stems from the BBC’s splicing together of disparate comments he made before the 6 January US…",
+        "source": "The Guardian",
+        "published": "2026-11-11T01:18:56+00:00",
+        "published_display": "11月11日 08:18",
+        "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "fb5573ea532c",
+        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+        "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+        "source": "BBC News",
+        "published": "2026-11-11T01:14:40+00:00",
+        "published_display": "11月11日 08:14",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "fbe0abc159ce",
+        "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
+        "summary": "Displaced families face renewed uncertainty as fighting returns to Tigray.",
+        "source": "Al Jazeera",
+        "published": "2026-11-11T01:11:04+00:00",
+        "published_display": "11月11日 08:11",
+        "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "25032f9b030f",
+        "title": "Kennedys sue to block Trump’s gilded arch, saying it would ‘cast shadow’ over JFK grave site",
+        "summary": "250ft arch risks ‘permanently diminishing’ memorials to ex-president and relatives at Arlington cemetery, lawsuit says Nine members of the Kennedy family political dynasty have sued the Trump administration , asking a federal judge to block the president’s plan to build a towering, gilded arch they say would cast a shadow over their relatives’ graves in Arlington national cemetery. The family’s complaint states…",
+        "source": "The Guardian",
+        "published": "2026-11-11T01:09:55+00:00",
+        "published_display": "11月11日 08:09",
+        "url": "https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "45d5c49f84da",
+        "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+        "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+        "source": "BBC News",
+        "published": "2026-11-11T01:01:20+00:00",
+        "published_display": "11月11日 08:01",
+        "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "ca9e4be27112",
+        "title": "Beau Lamarre-Condon denies making fake Grindr account for Jesse Baird, double murder trial hears",
+        "summary": "Former police officer accused of murdering Baird and Luke Davies cross-examined in NSW supreme court Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied making a fake dating app account of Jesse Baird after their breakup, a court has heard. The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in…",
+        "source": "The Guardian",
+        "published": "2026-11-11T01:00:28+00:00",
+        "published_display": "11月11日 08:00",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/11/beau-lamarre-condon-murder-trial-fake-grindr-account-ntwnfb",
+        "category": "international",
+        "priority": 4
+      }
+    ],
+    "finance": [
+      {
+        "id": "c65cc790a2e9",
+        "title": "Lula Team Readies Brazil Fiscal Plan in Bid to Calm Market Jitters",
+        "summary": "President Luiz Inácio Lula da Silva’s economic team is preparing to send proposals to Congress by next week aimed at showing investors how his government intends to meet fiscal targets in the coming years, according to people familiar with the matter.",
+        "source": "Bloomberg",
+        "published": "2026-11-11T02:05:18+00:00",
+        "published_display": "11月11日 09:05",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/lula-team-readies-brazil-fiscal-plan-in-bid-to-calm-market-jitters",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "607571133ca3",
+        "title": "Indonesia Bourse Adds 300 Stocks to High Concentration List",
+        "summary": "Indonesia’s bourse will classify an additional 300 stocks to its high shareholder concentration list, making a third of index members ineligible for benchmark calculations as it seeks to boost transparency in its market.",
+        "source": "Bloomberg",
+        "published": "2026-11-11T02:03:46+00:00",
+        "published_display": "11月11日 09:03",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/indonesia-bourse-adds-300-stocks-to-high-concentration-list",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "d99b3614092c",
+        "title": "Australia’s Home Loans Fall by Record After Rapid RBA Rate Hikes",
+        "summary": "Australian home loans posted a record drop in the third quarter, underscoring the erosion of borrowing demand in response to the Reserve Bank’s aggressive interest-rate increases to control inflation.",
+        "source": "Bloomberg",
+        "published": "2026-11-11T00:49:42+00:00",
+        "published_display": "11月11日 07:49",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/australia-s-home-loans-fall-by-record-after-rapid-rba-rate-hikes",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "cd0e07433e5b",
+        "title": "CD&R’s Cornerstone to Go Ahead With Monarch Deal to Raise Money",
+        "summary": "Cornerstone Building Brands Inc. is set to move forward on a deal it reached with Monarch Alternative Capital to raise additional liquidity after months of negotiations with existing lenders, according to people familiar with the matter.",
+        "source": "Bloomberg",
+        "published": "2026-11-11T00:31:37+00:00",
+        "published_display": "11月11日 07:31",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/cd-r-s-cornerstone-to-go-ahead-with-monarch-deal-to-raise-money",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "bbc36b85aaa3",
+        "title": "SoftBank Group Shares Drop 11% After Booking $7 Billion Loss",
+        "summary": "shares dropped as much as 11% after the Japanese tech investor reported its first net loss in almost two years, after a $3.7 billion writedown for its US data-center projects and falling AI valuations.",
+        "source": "Bloomberg",
+        "published": "2026-11-11T00:30:53+00:00",
+        "published_display": "11月11日 07:30",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/softbank-group-shares-drop-10-after-booking-7-billion-loss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "c7384a0f4aa8",
+        "title": "China’s Copper Crunch Puts Industry on Defensive as Costs Soar",
+        "summary": "China’s copper crunch is squeezing activity and margins at the firms that shape the metal into wires, rods and tubes for use in products from cables to electronics and consumer goods.",
+        "source": "Bloomberg",
+        "published": "2026-11-11T00:24:07+00:00",
+        "published_display": "11月11日 07:24",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-s-copper-crunch-puts-industry-on-defensive-as-costs-soar",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "87a3474e76dd",
+        "title": "Robot vessels take on the dangerous work of mine hunting",
+        "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+        "source": "BBC Business",
+        "published": "2026-11-11T00:19:13+00:00",
+        "published_display": "11月11日 07:19",
+        "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "ecff39d99ac5",
+        "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+        "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+        "source": "BBC Business",
+        "published": "2026-11-11T00:16:44+00:00",
+        "published_display": "11月11日 07:16",
+        "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "e6d5fed90ea7",
+        "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+        "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+        "source": "BBC Business",
+        "published": "2026-11-11T00:02:07+00:00",
+        "published_display": "11月11日 07:02",
+        "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "28319bdc9eff",
+        "title": "Equity Dispersion Trade Risks a Blowup, Hedge Fund CEO Warns",
+        "summary": "Investors enjoying a golden era for the equity dispersion trade should be braced for pain if the market shifts suddenly, according to a hedge fund manager.",
+        "source": "Bloomberg",
+        "published": "2026-11-10T23:52:41+00:00",
+        "published_display": "11月11日 06:52",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-10/equity-dispersion-trade-risks-a-blowup-hedge-fund-ceo-warns",
+        "category": "finance",
+        "priority": 5
+      }
+    ],
+    "technology": [
+      {
+        "id": "5cd7e6ae9acb",
+        "title": "X launches its own clipping feature to spur influencer engagement",
+        "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+        "source": "TechCrunch",
+        "published": "2026-11-11T01:02:13+00:00",
+        "published_display": "11月11日 08:02",
+        "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "800ab3af183f",
+        "title": "Seagate's new hybrid drive raises some old questions",
+        "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+        "source": "Ars Technica",
+        "published": "2026-11-10T23:30:56+00:00",
+        "published_display": "11月11日 06:30",
+        "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "16fe2f03a3a2",
+        "title": "The US military seems to be getting nervous about the launch supply crunch",
+        "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+        "source": "Ars Technica",
+        "published": "2026-11-10T23:02:39+00:00",
+        "published_display": "11月11日 06:02",
+        "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "9531c706dbfc",
+        "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+        "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+        "source": "Ars Technica",
+        "published": "2026-11-10T22:35:01+00:00",
+        "published_display": "11月11日 05:35",
+        "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "55f803f3556f",
+        "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+        "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+        "source": "Ars Technica",
+        "published": "2026-11-10T21:55:26+00:00",
+        "published_display": "11月11日 04:55",
+        "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "c3e82675d569",
+        "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+        "source": "Ars Technica",
+        "published": "2026-11-10T21:12:59+00:00",
+        "published_display": "11月11日 04:12",
+        "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "571fb0494bf3",
+        "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+        "source": "TechCrunch",
+        "published": "2026-11-10T21:08:52+00:00",
+        "published_display": "11月11日 04:08",
+        "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "c012fc7ecd62",
+        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+        "source": "TechCrunch",
+        "published": "2026-11-10T20:52:13+00:00",
+        "published_display": "11月11日 03:52",
+        "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "fe7c43dd8a50",
+        "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+        "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+        "source": "TechCrunch",
+        "published": "2026-11-10T20:47:05+00:00",
+        "published_display": "11月11日 03:47",
+        "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "b989144445c5",
+        "title": "X-energy gets green light to build its first small modular nuclear reactors",
+        "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+        "source": "TechCrunch",
+        "published": "2026-11-10T20:43:55+00:00",
+        "published_display": "11月11日 03:43",
+        "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors",
+        "category": "technology",
+        "priority": 3
+      }
+    ],
+    "domestic": [
+      {
+        "id": "7454a02ea04f",
+        "title": "贵州省信访局原局长马磊被“双开”",
+        "summary": "中新网11月11日电 据贵州省纪委监委消息：经贵州省委批准，贵州省纪委监委对贵州省信访局原局长、省委社会工作部原副部长(兼)马磊严重违纪违法问题进行了立案审查调查。",
+        "source": "中国新闻网·国内",
+        "published": "2026-11-11T02:15:28+00:00",
+        "published_display": "11月11日 09:15",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729941.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "de4bce14ba88",
+        "title": "贵州省黔南州人大常委会原副主任朱奉余被“双开”",
+        "summary": "中新网11月11日电 据贵州省纪委监委消息：经贵州省委批准，贵州省纪委监委对贵州省黔南州人大常委会原党组成员、副主任朱奉余严重违纪违法问题进行了立案审查调查。",
+        "source": "中国新闻网·国内",
+        "published": "2026-11-11T02:13:24+00:00",
+        "published_display": "11月11日 09:13",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729939.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "327224620605",
+        "title": "陈永奇任江西省人民政府副省长、代理省长职务",
+        "summary": "快讯！陈永奇任江西省人民政府副省长、代理省长职务",
+        "source": "中国新闻网·国内",
+        "published": "2026-11-11T02:11:32+00:00",
+        "published_display": "11月11日 09:11",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729943.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "1741f81c3810",
+        "title": "广东检察机关依法对肖杰涉嫌受贿案提起公诉",
+        "summary": "中新网11月11日电 据最高人民检察院微博消息，海南省人大常委会原党组成员、副主任肖杰涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。最高人民检察院依法以涉嫌受贿罪对肖杰作出逮捕决定，并指定由广东省惠州市人民检察院审查起诉。近日，惠州市人民检察院已向惠州市中级人民法院提起公诉。",
+        "source": "中国新闻网·国内",
+        "published": "2026-11-11T02:01:01+00:00",
+        "published_display": "11月11日 09:01",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729935.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "e0026b98faf1",
+        "title": "韩正会见联合国秘书长古特雷斯",
+        "summary": "中新社北京11月11日电 当地时间11月10日，习近平主席特别代表、中国国家副主席韩正在土耳其安塔利亚出席《联合国气候变化框架公约》第三十一次缔约方大会(COP31)领导人峰会期间会见联合国秘书长古特雷斯。",
+        "source": "中国新闻网·国内",
+        "published": "2026-11-11T01:58:55+00:00",
+        "published_display": "11月11日 08:58",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729908.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "86224d94d6e8",
+        "title": "“效率提升达百倍” 一种“新型基础设施”来了",
+        "summary": "随着人工智能技术的快速迭代，这两年，AI黑灯实验室正在加快落地，开辟智能科研服务新赛道。",
+        "source": "中国新闻网·财经",
+        "published": "2026-11-11T01:58:49+00:00",
+        "published_display": "11月11日 08:58",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729933.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "8bdfacccf1cc",
+        "title": "开放朋友圈越扩越大 一组数据看进博 “成绩单”",
+        "summary": "11月10日，第九届中国国际进口博览会在上海闭幕。六天的展期，交出了一份怎样的进博“成绩单”？下面就通过一组数据来盘点一下。",
+        "source": "中国新闻网·财经",
+        "published": "2026-11-11T01:57:51+00:00",
+        "published_display": "11月11日 08:57",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729932.shtml",
+        "category": "domestic",
+        "priority": 5
+      }
+    ],
+    "other": [
+      {
+        "id": "430b6c588917",
+        "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
+        "summary": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England.",
+        "source": "BBC Science",
+        "published": "2026-11-11T00:35:14+00:00",
+        "published_display": "11月11日 07:35",
+        "url": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "53b418211229",
+        "title": "Pharma firms’ focus on weight-loss drugs could put insulin supply at risk, experts warn",
+        "summary": "GLP-1 products such as Ozempic and Mounjaro spread but many in poorer countries struggle to get basic diabetes treatment The gold rush into GLP-1 weight-loss drugs risks diverting pharmaceutical firms’ attention away from diabetes treatments such as insulin, the head of the Access to Medicine Foundation has warned. GLP-1 blockbuster medications such as Novo Nordisk’s Ozempic and Eli Lilly’s Mounjaro have…",
+        "source": "The Guardian Science",
+        "published": "2026-11-10T13:00:53+00:00",
+        "published_display": "11月10日 20:00",
+        "url": "https://www.theguardian.com/business/2026/nov/10/pharma-firms-weight-loss-drugs-insulin-glp-1-ozempic-mounjaro",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "f2e410a4179d",
+        "title": "Locals launch campaign to buy ancient wood",
+        "summary": "Locals have a year to raise the money needed to buy Ruscombe Wood near Stroud.",
+        "source": "BBC Science",
+        "published": "2026-11-10T08:13:42+00:00",
+        "published_display": "11月10日 15:13",
+        "url": "https://www.bbc.co.uk/news/articles/c3rryynzqxwno?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "59a3d88aa107",
+        "title": "House martin artificial nests scheme set to expand",
+        "summary": "The artificial nests are more robust than the endangered migratory birds' own mud creations.",
+        "source": "BBC Science",
+        "published": "2026-11-10T07:27:21+00:00",
+        "published_display": "11月10日 14:27",
+        "url": "https://www.bbc.co.uk/news/articles/c64g1ge73y8lo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "fe3923773840",
+        "title": "Winter depression is real. Here’s what can help - podcast",
+        "summary": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective disorder, or Sad, and can be debilitating for sufferers.",
+        "source": "The Guardian Science",
+        "published": "2026-11-10T07:00:52+00:00",
+        "published_display": "11月10日 14:00",
+        "url": "https://www.theguardian.com/science/audio/2026/nov/10/why-we-get-sad-and-what-helps-podcast",
+        "category": "other",
+        "priority": 3
+      }
+    ],
+    "curiosity": [
+      {
+        "id": "a3a59f7704e0",
+        "title": "火流星散落石家庄周边 “天外来客”价值几何？",
+        "summary": "日前，一颗明亮绚烂的火流星划过华北地区上空，众多“陨石猎人”随即根据目击地点和影像记录，在石家庄市鹿泉区发现了陨石个体及碎块。消息传出后，不只是陨石爱好者、收藏者，周边一带的村民也加入到“寻宝”队伍中；而二手交易平台上，已有不少卖家挂出链接，出售此次火流星坠落下的陨石。",
+        "source": "中国新闻网·社会",
+        "published": "2026-11-11T01:02:02+00:00",
+        "published_display": "11月11日 08:02",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729905.shtml",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "f4744414ac65",
+        "title": "Octopuses Are the Ultimate Escape Artists. Now Scientists Know How the Creatures Contort Themselves to Squeeze Through Tiny Holes",
+        "summary": "A new study reveals the step-by-step process some octopuses use to cram themselves into tight openings. The findings could inspire new designs for soft robots used during search-and-rescue missions",
+        "source": "Smithsonian Smart News",
+        "published": "2026-11-10T21:17:11+00:00",
+        "published_display": "11月11日 04:17",
+        "url": "https://www.smithsonianmag.com/smart-news/octopuses-are-the-ultimate-escape-artists-now-scientists-know-how-the-creatures-contort-themselves-to-squeeze-through-tiny-holes-180989846",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "c30b73d1f1a3",
+        "title": "General Israel Putnam Tombstone in Brooklyn, Connecticut",
+        "summary": "Israel Putnam, affectionately known as “Old Put,” was a prominent figure in American history. He served as a colonial American military officer and a Patriot hero during the American Revolutionary War. Putnam also played a significant role in the French and Indian War.",
+        "source": "Atlas Obscura",
+        "published": "2026-11-10T19:00:00+00:00",
+        "published_display": "11月11日 02:00",
+        "url": "https://www.atlasobscura.com/places/general-israel-putnam-tombstone",
+        "category": "curiosity",
+        "priority": 3
+      },
+      {
+        "id": "7f8bb9e0644a",
+        "title": "Dismantled to Survive the Nazi Blitz, Coventry Cathedral's Stained Glass Is 'a Medieval Jigsaw Puzzle.' Its 12,000 Fragments Are Now Digitized for Public View",
+        "summary": "First shattered during the Reformation, the 15th-century stained glass is rife with religious imagery, comical animal scenes and even portraits of the original donors who funded its construction",
+        "source": "Smithsonian Smart News",
+        "published": "2026-11-10T17:27:06+00:00",
+        "published_display": "11月11日 00:27",
+        "url": "https://www.smithsonianmag.com/smart-news/dismantled-to-survive-the-nazi-blitz-coventry-cathedrals-stained-glass-is-a-medieval-jigsaw-puzzle-its-12000-fragments-have-been-digitized-for-the-public-180989853",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "09fafedf7e3a",
+        "title": "Voyager 1 Is the Farthest Human-Made Object in the Universe—and the Spacecraft Is About to Reach One Light-Day From Earth",
+        "summary": "The probe and its twin, Voyager 2, have been hurtling through space for almost 50 years, stretching humanity's reach into interstellar space. The upcoming milestone is a testament to scientific endeavor and ingenuity",
+        "source": "Smithsonian Smart News",
+        "published": "2026-11-10T14:00:00+00:00",
+        "published_display": "11月10日 21:00",
+        "url": "https://www.smithsonianmag.com/smart-news/voyager-1-is-the-farthest-human-made-object-in-the-universe-and-the-spacecraft-is-about-to-reach-one-light-day-from-earth-180989845",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "4aaa7bb921dd",
+        "title": "The Maya Loved Using Mercury-Rich Red Paint to Decorate Pottery, Temple Walls and Even Burials. They May Have Accidentally Poisoned Their Own Water and Food Supply in the Process",
+        "summary": "Testing of ancient sediment from two lakes in Mexico's Yucatán Peninsula has revealed \"crazy\" high concentrations of mercury, as one researcher puts it, confirming findings from other regions of the Mesoamerican civilization",
+        "source": "Smithsonian Smart News",
+        "published": "2026-11-10T12:10:00+00:00",
+        "published_display": "11月10日 19:10",
+        "url": "https://www.smithsonianmag.com/smart-news/the-maya-loved-to-use-mercury-rich-red-paint-to-decorate-pottery-temple-walls-and-even-burials-they-may-have-accidentally-poisoned-their-own-water-and-food-supply-in-the-process-180989851",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "c974733026cb",
+        "title": "'The first species we might be able to communicate with, interact with vocally, might be a bird': An animal researcher explains how she decoded birdsong",
+        "summary": "Bird calls are far more than pleasant sounds in nature. They are complex forms of communication that can reveal how birds think, learn, cooperate and respond to their surroundings. From intricate songs used to attract mates to alarm calls that warn others of danger, vocalizations offer valuable clues about avian intelligence and social organization.",
+        "source": "Live Science",
+        "published": "2026-11-10T11:00:00+00:00",
+        "published_display": "11月10日 18:00",
+        "url": "https://www.livescience.com/animals/birds/the-first-species-we-might-be-able-to-communicate-with-interact-with-vocally-might-be-a-bird-an-animal-researcher-explains-how-she-decoded-birdsong",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "d760cd77fdd6",
+        "title": "Highly active Russian volcano plays peek-a-boo with an astronaut",
+        "summary": "QUICK FACTS Where is it? Atlasov Island, off the coast of Russia's Kamchatka Peninsula [ 50.84755357, 155.56126752 ] What's in the photo? The summit of Alaid volcano peeking above a thick layer of low-lying clouds Who took the photo?",
+        "source": "Live Science",
+        "published": "2026-11-10T08:00:00+00:00",
+        "published_display": "11月10日 15:00",
+        "url": "https://www.livescience.com/planet-earth/volcanoes/highly-active-russian-volcano-plays-peek-a-boo-with-an-astronaut-earth-from-space",
+        "category": "curiosity",
+        "priority": 4
+      }
+    ]
+  },
+  "history": [
+    "2026-11-11",
+    "2026-11-10",
+    "2026-11-09",
+    "2026-11-08",
+    "2026-11-07",
+    "2026-11-06",
+    "2026-11-05"
+  ],
+  "source_failures": []
+}
