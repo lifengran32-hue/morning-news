@@ -1,0 +1,580 @@
+{
+  "date": "2026-11-27",
+  "date_display": "2026年11月27日 · 星期五",
+  "updated": "2026-11-27T11:36:45.542442+07:00",
+  "updated_display": "11:36",
+  "sections": {
+    "international": [
+      {
+        "id": "d0228671f3c2",
+        "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+        "summary": "It remains unclear who carried out the attack on Niger's National Guard in Tillaberi, near the Mali border.",
+        "source": "Al Jazeera",
+        "published": "2026-11-27T04:06:52+00:00",
+        "published_display": "11月27日 11:06",
+        "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "17c4524e951a",
+        "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+        "summary": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
+        "source": "Al Jazeera",
+        "published": "2026-11-27T03:49:08+00:00",
+        "published_display": "11月27日 10:49",
+        "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "fa68dcac011e",
+        "title": "Asian stock markets rise after earlier tech rout",
+        "summary": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
+        "source": "Al Jazeera",
+        "published": "2026-11-27T03:42:16+00:00",
+        "published_display": "11月27日 10:42",
+        "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "585b336a1423",
+        "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+        "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+        "source": "BBC News",
+        "published": "2026-11-27T03:28:15+00:00",
+        "published_display": "11月27日 10:28",
+        "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      },
+      {
+        "id": "fd3cb60b627f",
+        "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
+        "summary": "As bushfires ravage Flinders Island, Victorians can expect a wet and windy election day as storms forecast on east coast Get our breaking news email , free app or daily news podcast Major fires are among a multitude of weather extremes forecast across Australia on Friday and into the weekend, which also includes severe storms, heavy rain, floods and heatwaves. Firefighters contending with an out-of-control…",
+        "source": "The Guardian",
+        "published": "2026-11-27T03:14:10+00:00",
+        "published_display": "11月27日 10:14",
+        "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "da0ee2bb9387",
+        "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
+        "summary": "Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another election The final results of New Zealand’s general election show the incumbent rightwing coalition will need the support of a centrist newcomer party to form a government, and to avoid sending the country back to the polls. Preliminary results on 7 November handed the…",
+        "source": "The Guardian",
+        "published": "2026-11-27T02:38:15+00:00",
+        "published_display": "11月27日 09:38",
+        "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "1cf14ec2e93b",
+        "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+        "summary": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
+        "source": "Al Jazeera",
+        "published": "2026-11-27T02:14:25+00:00",
+        "published_display": "11月27日 09:14",
+        "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "79bb921cb738",
+        "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+        "summary": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+        "source": "Al Jazeera",
+        "published": "2026-11-27T01:07:44+00:00",
+        "published_display": "11月27日 08:07",
+        "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "666f43bd7428",
+        "title": "Threat from China looms large over Taiwan’s local elections",
+        "summary": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasingly precarious set of relationships on the global stage. Saturday’s vote will choose mayors, council members and…",
+        "source": "The Guardian",
+        "published": "2026-11-27T01:00:49+00:00",
+        "published_display": "11月27日 08:00",
+        "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+        "category": "international",
+        "priority": 4
+      },
+      {
+        "id": "94d2e60bc99c",
+        "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+        "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+        "source": "BBC News",
+        "published": "2026-11-27T00:52:11+00:00",
+        "published_display": "11月27日 07:52",
+        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+        "category": "international",
+        "priority": 5
+      }
+    ],
+    "finance": [
+      {
+        "id": "372af929d862",
+        "title": "EM Asia Stocks Set for Weekly Gain as Markets Regain Footing",
+        "summary": "Emerging-market equities in Asia were set for a weekly gain, clawing back some of a recent selloff as investors returned to technology shares and sentiment toward the artificial intelligence trade improved.",
+        "source": "Bloomberg",
+        "published": "2026-11-27T03:33:48+00:00",
+        "published_display": "11月27日 10:33",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "c34a5cda6da9",
+        "title": "Copper Rebounds From 11-Month Low on Return of Risk Appetite",
+        "summary": "Copper extended its rebound from an 11-month low alongside technology stocks in Asia, as risk appetite returned across markets after weeks of volatility fueled by concerns over the artificial intelligence trade.",
+        "source": "Bloomberg",
+        "published": "2026-11-27T03:33:07+00:00",
+        "published_display": "11月27日 10:33",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-27/copper-rebounds-from-11-month-low-on-return-of-risk-appetite",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "e5b8fdbcb8be",
+        "title": "Treasuries Retreat as Gains in Equities Sap Demand for Havens",
+        "summary": "Treasuries fell in light trading as the market reopened after the Thanksgiving holiday, with gains in Asian equities damping demand for haven assets.",
+        "source": "Bloomberg",
+        "published": "2026-11-27T02:43:08+00:00",
+        "published_display": "11月27日 09:43",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "5afacb54b0c6",
+        "title": "Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
+        "summary": "Firms have raised about $18.6 billion through IPOs this year, with a flurry of deals expected in December.",
+        "source": "Bloomberg",
+        "published": "2026-11-27T02:30:22+00:00",
+        "published_display": "11月27日 09:30",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "67f624446ba7",
+        "title": "IMF Sees Emerging Risks in Australia’s $3.1 Trillion of Pensions",
+        "summary": "The International Monetary Fund has flagged a series of emerging risks in Australia’s fast-growing pension system, including the challenge of keeping more assets liquid as a wave of workers enters retirement.",
+        "source": "Bloomberg",
+        "published": "2026-11-27T02:15:34+00:00",
+        "published_display": "11月27日 09:15",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-27/imf-sees-emerging-risks-in-australia-s-3-1-trillion-of-pensions",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "9532fe5aff06",
+        "title": "Mahanadi Coalfields Set for Mumbai Debut After $969 Million IPO",
+        "summary": "Mahanadi Coalfields Ltd., a unit of state-owned Coal India Ltd., is set to start trading Friday after its initial public offering in the first listing since India’s market regulator barred publishing so-called gray-market prices for IPO shares.",
+        "source": "Bloomberg",
+        "published": "2026-11-27T02:00:00+00:00",
+        "published_display": "11月27日 09:00",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-27/mahanadi-coalfields-set-for-mumbai-debut-after-969-million-ipo",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "a97948818a09",
+        "title": "Korea Plans Market Meeting as Stock Swings Put Fund in Focus",
+        "summary": "South Korean authorities will meet financial industry leaders Monday to assess recent market conditions following the central bank’s rate hike, with the country’s stock market stabilization fund also likely to come up, according to the Financial Services Commission.",
+        "source": "Bloomberg",
+        "published": "2026-11-27T01:22:32+00:00",
+        "published_display": "11月27日 08:22",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-27/south-korea-reportedly-mulls-expanding-stock-stabilization-fund",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "4aa74108936b",
+        "title": "IMF Urges RBA to Be Ready to Tighten Further If Prices Worsen",
+        "summary": "Australia’s monetary authorities should stand ready to raise interest rates further if price pressures are more persistent, the International Monetary Fund said, while calling on the government to deliver on pledges to tighten fiscal policy.",
+        "source": "Bloomberg",
+        "published": "2026-11-27T01:10:12+00:00",
+        "published_display": "11月27日 08:10",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-27/imf-urges-rba-to-be-ready-to-tighten-further-if-prices-worsen",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "60e8e0833be6",
+        "title": "Brazil Assets Rally After Lula Names Banker as Finance Minister",
+        "summary": "Brazilian assets gained after one of the country’s best-known bankers was named the new finance minister.",
+        "source": "Bloomberg",
+        "published": "2026-11-27T01:08:00+00:00",
+        "published_display": "11月27日 08:08",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
+        "category": "finance",
+        "priority": 5
+      },
+      {
+        "id": "df380e45d351",
+        "title": "Modi Critics Face Growing Constraints on Travel, Speech in India",
+        "summary": "When activist Saurav Das tried to board a flight from New Delhi to London this week, Indian authorities stopped him from leaving the country. Days earlier, a Norwegian journalist critical of Prime Minister Narendra Modi’s government faced the opposite problem: she was prevented from entering.",
+        "source": "Bloomberg",
+        "published": "2026-11-27T01:00:00+00:00",
+        "published_display": "11月27日 08:00",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-27/modi-critics-face-growing-constraints-on-travel-speech-in-india",
+        "category": "finance",
+        "priority": 5
+      }
+    ],
+    "technology": [
+      {
+        "id": "c881f1e71110",
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "source": "TechCrunch",
+        "published": "2026-11-26T20:03:54+00:00",
+        "published_display": "11月27日 03:03",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "c772b97adf28",
+        "title": "Is Alice Huang a spy or not?",
+        "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+        "source": "TechCrunch",
+        "published": "2026-11-26T20:00:00+00:00",
+        "published_display": "11月27日 03:00",
+        "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "bb4c05f77b6b",
+        "title": "X finally gets parental controls after 20 years",
+        "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+        "source": "TechCrunch",
+        "published": "2026-11-26T19:31:50+00:00",
+        "published_display": "11月27日 02:31",
+        "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "2052fac71c2c",
+        "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+        "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+        "source": "Ars Technica",
+        "published": "2026-11-26T18:00:29+00:00",
+        "published_display": "11月27日 01:00",
+        "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "98bc69ca3f11",
+        "title": "A month with the iPhone Duo has changed how I use my phone",
+        "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+        "source": "TechCrunch",
+        "published": "2026-11-26T17:00:00+00:00",
+        "published_display": "11月27日 00:00",
+        "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "ec74e9ba2187",
+        "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+        "source": "TechCrunch",
+        "published": "2026-11-26T16:00:00+00:00",
+        "published_display": "11月26日 23:00",
+        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "c9d929f7e8b1",
+        "title": "Draining peatlands is responsible for a few percent of our global warming",
+        "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
+        "source": "Ars Technica",
+        "published": "2026-11-26T12:15:42+00:00",
+        "published_display": "11月26日 19:15",
+        "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "1f8b9ada5868",
+        "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+        "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
+        "source": "Ars Technica",
+        "published": "2026-11-26T12:00:14+00:00",
+        "published_display": "11月26日 19:00",
+        "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices",
+        "category": "technology",
+        "priority": 4
+      },
+      {
+        "id": "f27e0de9d097",
+        "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+        "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+        "source": "TechCrunch",
+        "published": "2026-11-25T22:44:32+00:00",
+        "published_display": "11月26日 05:44",
+        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+        "category": "technology",
+        "priority": 3
+      },
+      {
+        "id": "fd249d673f59",
+        "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+        "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+        "source": "Ars Technica",
+        "published": "2026-11-25T22:36:45+00:00",
+        "published_display": "11月26日 05:36",
+        "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup",
+        "category": "technology",
+        "priority": 4
+      }
+    ],
+    "domestic": [
+      {
+        "id": "2caae1560f02",
+        "title": "李强主持召开国务院常务会议",
+        "summary": "来源暂未在 RSS 中提供摘要，请打开原文查看报道详情。",
+        "source": "中国新闻网·国内",
+        "published": "2026-11-27T04:31:00+00:00",
+        "published_display": "11月27日 11:31",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738652.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "1cf22ec75663",
+        "title": "专访前联合国官员：中国能源转型经验可为发展中国家提供借鉴，南南合作潜力巨大｜新闻会客厅",
+        "summary": "中新网北京11月27日电(记者 王高飞 魏园)“南南合作在推动全球气候治理和可持续能源利用方面潜力巨大，中国能源转型经验可为发展中国家提供借鉴。”在《联合国气候变化框架公约》第三十一届缔约方大会(COP31)期间，全球人居环境论坛可持续发展政策高级顾问、前联合国官员拉尔夫·万查福特(Ralph Wahnschafft)博士接受中新社“新闻会客厅”专访时表示，中国在可再生能源领域的发展速度和产业质量令人印象深刻，其经验对发展中国家规划能源转型具有重要参考价值。",
+        "source": "中国新闻网·国内",
+        "published": "2026-11-27T04:27:10+00:00",
+        "published_display": "11月27日 11:27",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738608.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "295816848b88",
+        "title": "世界首台380吨级高速动平衡试验系统完成交付",
+        "summary": "中新网哈尔滨11月27日电 记者27日从国机集团(中国机械工业集团有限公司)获悉，世界首台380吨级高速动平衡试验系统日前在哈尔滨汽轮机厂有限责任公司完成交付。该系统由国机工程集团旗下中机国际工程设计研究院有限责任公司承建，是目前世界承载能力最大的高速动平衡试验设备。",
+        "source": "中国新闻网·国内",
+        "published": "2026-11-27T04:24:56+00:00",
+        "published_display": "11月27日 11:24",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738639.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "048552a34c24",
+        "title": "COP31观察员、挪威国际核查公司负责人：别忘记中国在环保领域做了很多，期待学习更多｜新闻会客厅",
+        "summary": "中新网北京11月27日电(记者 王高飞 魏园)在《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间，来自挪威的国际核查公司参会代表埃德温·阿尔德斯接受中新社“新闻会客厅”采访时表示，中国长期以来在再造林、林业和应对气候变化等领域开展了大量工作，“但人们往往忘记中国做了很多工作”；“中国在发展过程中能够拿出有效解决方案应对环境问题，期待在国际讨论中发挥更突出的引领作用”。",
+        "source": "中国新闻网·国内",
+        "published": "2026-11-27T04:23:56+00:00",
+        "published_display": "11月27日 11:23",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738609.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "faff6a1bd804",
+        "title": "国务院任免国家工作人员",
+        "summary": "中新网11月27日电 据人力资源和社会保障部网站消息，国务院任免国家工作人员。",
+        "source": "中国新闻网·国内",
+        "published": "2026-11-27T04:16:25+00:00",
+        "published_display": "11月27日 11:16",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738648.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "da2d8bbcd6d6",
+        "title": "黑龙江哈尔滨：寒地算力蓄势腾飞 东北智算新引擎",
+        "summary": "中新网哈尔滨11月27日电 (记者 田德雨)11月25日，黑龙江省“给力！新引擎”数字经济篇主题采访活动走进哈尔滨算力中心。展示厅内，智慧农业、智慧工业、智慧教育、算力中心等沙盘模型，直观呈现算力赋能各行业数字化应用图景。不远处的机房内，一组组机柜整齐排列，服务器稳定运转。",
+        "source": "中国新闻网·财经",
+        "published": "2026-11-27T03:55:08+00:00",
+        "published_display": "11月27日 10:55",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738635.shtml",
+        "category": "domestic",
+        "priority": 5
+      },
+      {
+        "id": "f0b0eb965c27",
+        "title": "2027年“金砖国家地理学家日”活动将在中国举行 北京举办全球主场",
+        "summary": "中新网北京11月27日电 (记者 孙自法)中俄“图们江之路”联合工作组2026年度工作会议暨中俄地理学会双边工作交流会近日在北京举行。会议提供媒体的信息透露，2027年“金砖国家地理学家日”系列活动将在中国举行，2027年8月中旬至9月下旬，将在北京举办“金砖国家地理学家日”全球主场活动。",
+        "source": "中国新闻网·国内",
+        "published": "2026-11-27T03:54:58+00:00",
+        "published_display": "11月27日 10:54",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738634.shtml",
+        "category": "domestic",
+        "priority": 5
+      }
+    ],
+    "other": [
+      {
+        "id": "e8e160848f1d",
+        "title": "Floating nature islands installed in parks as Glasgow Games legacy",
+        "summary": "The islands, being planted in five Glasgow parks, are designed to encourage wildlife and help clean the water.",
+        "source": "BBC Science",
+        "published": "2026-11-26T22:54:18+00:00",
+        "published_display": "11月27日 05:54",
+        "url": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "19762d799c60",
+        "title": "BBC Inside Science",
+        "summary": "One of the greatest problems in the history of mathematics has been solved by AI.",
+        "source": "BBC Science",
+        "published": "2026-11-26T21:00:00+00:00",
+        "published_display": "11月27日 04:00",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "0f11655cc747",
+        "title": "Second court defeat for Trump's deep-sea mining ambitions",
+        "summary": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining.",
+        "source": "BBC Science",
+        "published": "2026-11-26T18:22:28+00:00",
+        "published_display": "11月27日 01:22",
+        "url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      },
+      {
+        "id": "155c774d1f68",
+        "title": "Contraceptive pill usage in Great Britain fell drastically in last decade, research finds",
+        "summary": "Survey published in Lancet reveals ‘hormonal hesitancy’ on the rise – with implants and injections also increasingly spurned The number of young women using hormonal contraception fell drastically in the past decade, with social media fuelling the “hormonal hesitancy” phenomenon. New findings from the fourth National Survey of Sexual Attitudes and Lifestyles (Natsal-4), published in The Lancet, found that almost…",
+        "source": "The Guardian Science",
+        "published": "2026-11-26T13:00:51+00:00",
+        "published_display": "11月26日 20:00",
+        "url": "https://www.theguardian.com/society/2026/nov/26/contraceptive-pill-usage-in-great-britain-fell-drastically-in-last-decade-research-finds",
+        "category": "other",
+        "priority": 3
+      },
+      {
+        "id": "7dbc46515194",
+        "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+        "summary": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals.",
+        "source": "BBC Science",
+        "published": "2026-11-26T10:38:35+00:00",
+        "published_display": "11月26日 17:38",
+        "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+        "category": "other",
+        "priority": 4
+      }
+    ],
+    "curiosity": [
+      {
+        "id": "55d0170a067c",
+        "title": "多方统筹协同联动，严打野生动植物非法交易",
+        "summary": "日前，抖音发布关于持续治理危害野生动植物违法违规内容的公告：近期平台发现部分账号以“护农”“救助”“境外合法拍摄”等名义进行伪装，隐蔽展示猎捕野生动物画面，或暗示交易野生保护动物及其制品、猎捕工具意图。近一个月，平台共处置违规内容4.4万条，对1100个违规账号采取梯度处置，并向主管部门上报多起涉嫌违法犯罪的线索，全力配合线下打击。",
+        "source": "中国新闻网·社会",
+        "published": "2026-11-27T02:44:44+00:00",
+        "published_display": "11月27日 09:44",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738604.shtml",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "2025cd79995d",
+        "title": "北方短暂降温后快速反弹 中东部罕见暖意陆续上线",
+        "summary": "中国天气网讯 未来三天(11月27日至29日)，全国大部以晴朗干燥为主，不过新疆、黑龙江等地会频繁出现降雪。同时，今明两天长江中下游以北将迎来降温，之后气温快速反弹，11月底至12月初中东部多地暖意突出，南京等地或打破同期最高气温纪录。",
+        "source": "中国新闻网·社会",
+        "published": "2026-11-27T00:56:31+00:00",
+        "published_display": "11月27日 07:56",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738506.shtml",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "1e0b9caf21d3",
+        "title": "'I would love to discover Attila's grave': Live Science readers weigh in on which archaeological discoveries they would want to find",
+        "summary": "From people's backyards to famous excavation sites , archaeological discoveries found the world over give clues about the cultures and lives of ancient peoples. For instance, the discovery of 1,200-year-old pennies in Denmark revealed that the Vikings melted down silver from the Muslim world , while an excavation of a 2,800-year-old tomb with sacrificed horses in Siberia revealed ties to the nomadic Scythians .…",
+        "source": "Live Science",
+        "published": "2026-11-26T13:00:00+00:00",
+        "published_display": "11月26日 20:00",
+        "url": "https://www.livescience.com/archaeology/i-would-love-to-discover-attilas-grave-live-science-readers-weigh-in-on-which-archaeological-discoveries-they-would-want-to-find",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "c198f2fe985e",
+        "title": "'You had one job': Astrophysicist and Star Trek science advisor Erin MacDonald on the secret to her success and the science flubs that haunt her",
+        "summary": "From gravitational waves to time travel , science has always been at the heart of \"Star Trek\". While the franchise has never shied away from imagining the impossible, much of its appeal comes from making strange situations seem believable. That's where the role of a science adviser comes in.",
+        "source": "Live Science",
+        "published": "2026-11-26T10:51:27+00:00",
+        "published_display": "11月26日 17:51",
+        "url": "https://www.livescience.com/space/astronomy/you-had-one-job-astrophysicist-and-star-trek-science-advisor-erin-macdonald-on-the-secret-to-her-success-and-the-science-flubs-that-haunt-her",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "66786bb3ed76",
+        "title": "While Exploring a 500-Year-Old Shipwreck Off the Coast of Sweden, Underwater Archaeologists Discovered Medieval Chain Mail That May Have Belonged to German Mercenaries",
+        "summary": "\"Gribshunden\" was the \"floating castle\" of King Hans of Denmark and Norway. It exploded and sank in 1495, but the Baltic Sea's low salinity has kept contents remarkably well preserved",
+        "source": "Smithsonian Smart News",
+        "published": "2026-11-25T20:44:21+00:00",
+        "published_display": "11月26日 03:44",
+        "url": "https://www.smithsonianmag.com/smart-news/while-exploring-a-500-year-old-shipwreck-off-the-coast-of-sweden-underwater-archaeologists-discovered-medieval-chain-mail-that-may-have-belonged-to-german-mercenaries-180989944",
+        "category": "curiosity",
+        "priority": 5
+      },
+      {
+        "id": "1aa9447e11cb",
+        "title": "Earliest monster black hole found at the universe's edge — pushing theories to their limits",
+        "summary": "A Euclid space telescope image of the newfound quasar (red dot in the center), which is further away than any known active galactic nucleus found yet. (Image credit: ESA/Euclid/Euclid Consortium/NASA, Wolf et al. 2026) Astronomers have just discovered the earliest-known quasar — and it's 40 million years older than the previous record holder.",
+        "source": "Live Science",
+        "published": "2026-11-25T20:07:13+00:00",
+        "published_display": "11月26日 03:07",
+        "url": "https://www.livescience.com/space/astronomy/james-webb-and-euclid-telescopes-discover-record-breaking-quasar-at-the-edge-of-the-universe",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "eda4b500e8c4",
+        "title": "Ancient 'supermountains' under Antarctica supercharged complex life on Earth, study claims ‪—‬ but not everyone agrees",
+        "summary": "Scientists have found the remnants of supermountains in the seabed around Antarctica . They say these ancient peaks may have provided the nutrients that led to an explosion of complex life millions of years later. However, others are more skeptical about these conclusions.",
+        "source": "Live Science",
+        "published": "2026-11-25T20:06:43+00:00",
+        "published_display": "11月26日 03:06",
+        "url": "https://www.livescience.com/planet-earth/antarctica/ancient-supermountains-under-antarctica-supercharged-complex-life-on-earth-study-claims-but-not-everyone-agrees",
+        "category": "curiosity",
+        "priority": 4
+      },
+      {
+        "id": "b9ce89bf1ea8",
+        "title": "Astronomers Accidentally Find a Rare Triple-Star System That They Say Shouldn't Exist. It's Located Just 28 Light-Years From Earth",
+        "summary": "The system, called Welopō'ai, includes a red dwarf and two white dwarfs. One of the white dwarfs—a dense stellar leftover—is extremely close to the reddish-orange star, and scientists say the progenitor star that died should have engulfed the red dwarf",
+        "source": "Smithsonian Smart News",
+        "published": "2026-11-25T16:37:34+00:00",
+        "published_display": "11月25日 23:37",
+        "url": "https://www.smithsonianmag.com/smart-news/astronomers-accidentally-find-a-rare-triple-star-system-that-they-say-shouldnt-exist-its-located-just-28-light-years-from-earth-180989936",
+        "category": "curiosity",
+        "priority": 5
+      }
+    ]
+  },
+  "history": [
+    "2026-11-27",
+    "2026-11-26",
+    "2026-11-25",
+    "2026-11-24",
+    "2026-11-23",
+    "2026-11-22",
+    "2026-11-21"
+  ],
+  "source_failures": []
+}
